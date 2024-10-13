@@ -1,0 +1,197 @@
+entity,category
+Odoo Point of Sale,PLATFORM  
+app,CORE  
+device,HARDWARE  
+web browser,PLATFORM  
+Product,CORE  
+stock,CORE  
+real-time statistics,CORE  
+data,CORE  
+shops,CORE  
+Odoo Point of Sale,CORE  
+Multi Employees per Session,CORE  
+POS,CORE  
+users,USER  
+employees,USER  
+order,CORE  
+Product Combos,CORE  
+users,USER  
+combination options,CORE  
+product,CORE  
+feature,CORE  
+users,USER  
+user,USER  
+main dish,CORE  
+sides,CORE  
+drinks,CORE  
+desserts,CORE  
+customers,USER  
+main dish,CORE  
+product set,CORE  
+products,CORE  
+Point of sale,CORE  
+Odoo Point of Sale,PLATFORM  
+Odoo Sales,PLATFORM  
+sales order,CORE  
+point of sale,CORE  
+barcode scanner, HARDWARE  
+point-of-sale, CORE  
+customer service, CORE  
+products, CORE  
+employees, USER  
+POS, CORE  
+serial numbers,CORE  
+lots,CORE  
+products,CORE  
+system,CORE  
+location,CORE  
+movement,CORE  
+Ship Later,CORE  
+products,CORE  
+delivery,CORE  
+customer,USER  
+customer,USER  
+display,CORE  
+customers,USER  
+checkout,CORE  
+updates,CORE  
+display, HARDWARE  
+secondary,CORE  
+Point of Sale,CORE  
+restaurant,USER  
+bar,USER  
+features,CORE  
+tasks,CORE  
+businesses,USER  
+POS,CORE  
+restaurant,USER  
+bar,USER  
+floors,CORE  
+tables,CORE  
+orders,CORE  
+kitchen,USER  
+bar,USER  
+bills,CORE  
+tips,CORE  
+taxes,CORE  
+takeaway food,CORE  
+Floor plan view,CORE  
+restaurant,USER  
+table arrangements,CORE  
+table status,CORE  
+real time,CORE  
+occupancy,CORE  
+reservations,CORE  
+kitchen orders,CORE  
+printers,HARDWARE  
+restaurant,USER  
+bar,USER  
+workflow,CORE  
+communication,CORE  
+collaboration,CORE  
+front-of-house,USER  
+back-of-house,USER  
+service,CORE  
+Odoo POS,PLATFORM  
+Bill Printing,CORE  
+Bill Splitting,CORE  
+payment,CORE  
+Point of Sale,CORE  
+tipping,CORE  
+shops,USER  
+bars,USER  
+restaurants,USER  
+Tip Product,CORE  
+payment,CORE  
+POS system,CORE  
+Add tip,CORE  
+payment,CORE  
+bill,CORE  
+customer,USER  
+waiter,USER  
+tip value,CORE  
+customers,USER  
+discounts,CORE  
+revenue,CORE  
+discounts,CORE  
+time-limited,CORE  
+seasonal,CORE  
+manually,CORE  
+Odoo,PLATFORM  
+discounts,CORE  
+features,CORE  
+pricing strategy,CORE  
+business,USER  
+Point of Sale,CORE  
+discounts,CORE  
+order,CORE  
+products,CORE  
+product,CORE  
+discount,CORE  
+global discount,CORE  
+time-limited discounts,CORE  
+discount tags,CORE
+Loyalty Program,CORE  
+customers,USER  
+point of sale,CORE
+program,CORE
+reward,CORE
+discount,CORE
+gift,CORE
+products,CORE
+range,CORE
+situation,CORE
+loyalty program,CORE  
+PoS interface,CORE  
+customer,USER  
+points,CORE  
+transaction,CORE  
+button Rewards,CORE  
+points,CORE  
+rules,CORE  
+loyalty program,CORE  
+Pricelists,CORE  
+product prices,CORE  
+criteria,CORE  
+POS-specific prices,CORE  
+temporary discount periods,CORE  
+specific customers,USER  
+discounts,CORE  
+quantities,CORE  
+customers,USER  
+providers,USER  
+business,CORE  
+transactions,CORE  
+accounts,CORE  
+taxes,CORE  
+location,CORE  
+fiscal positions,CORE  
+rules,CORE  
+taxes,CORE  
+accounts,CORE  
+transaction,CORE  
+Cash rounding,CORE  
+currency,CORE  
+coin,CORE  
+minimum unit of account,CORE  
+invoice,CORE  
+payment,CORE  
+cash,USER  
+Electronic shelf labels,CORE  
+product information,CORE  
+prices,CORE  
+barcodes,CORE  
+store shelves,CORE  
+backend,CORE  
+labels,CORE  
+product information,CORE  
+payment terminal,CORE  
+POS system,CORE  
+credit cards,CORE  
+debit cards,CORE  
+payment process,CORE  
+graph,CORE  
+pivot view,CORE  
+filter,CORE  
+group,CORE  
+needs,CORE  
