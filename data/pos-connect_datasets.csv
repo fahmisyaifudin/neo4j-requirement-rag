@@ -1,0 +1,50 @@
+id,Feature,Sentences
+628c2e7c-cffa-44e2-bb7d-b610fe238285,Client Account,"Clients are able to use the system to create a personal user account through the main
+website. This user account stores all pertinent information including which stores they own and how many stores they own."
+e8937dda-8bac-42e3-a343-9c5b7f14cbe5,Client Account,When a client wants to start using this system they must first make an account on the system providing any necessary banking and store information. This account stores user information in an online database that can be viewed and edited by the account holder at any time.
+54bec78a-5b57-45eb-b0c2-715cfb9bc165,Windows Service,"Clients with an account gain access to a downloadable windows service package that
+initializes a client’s store. It also handles the communications between the clients’ local POS and their web store."
+ecdf70b7-2462-476f-aec0-91e57cf603e2,Windows Service,"Clients who have an account are provided with a windows service installer package that obtains store information from the client and local POS (intuit). This service runs in the background of the client’s computer and handles all communications and information transfers with the server. This includes creating the initial web store, handling sync requests and responses, and dealing with log information."
+3c9f6877-0f3f-4331-bee2-f92852375e72,Web Store,"Clients, through the use of their account information and windows service, are provided with a
+web store or stores. These are hosted by the system that keeps an online database of the client’s stock and allows for customers to buy and search for a client’s items online."
+be8ec600-a1e1-48ce-9005-9171f599d3ea,Web Store,Clients are able to create and edit an online web store that is hosted on the system’s servers. This store have 5 or more themes for clients to choose from and clients may create more than one store. This web store is where a client’s customers can buy items and the client can edit their store
+fa69efd5-0c03-4fc0-85ac-2137fab82365,Online Inventory,"As items are sold the online inventory is updated. The online stock displayed for each client’s
+store is a real time reflection of that client’s store’s online inventory."
+d7b40e47-0cf6-4b0b-917c-ec8c8e441e02,Online Inventory,"As inventory is updated, either through a sync with the client or an online sale
+occurring, online stock for the items as well as web carts are updated"
+ee70c104-a47e-4640-8aba-ae1cd95933ae,Online Inventory,Inventory is displayed through the web store according to the theme a client has chosen for their store. Inventory can also be organized and searched for by category and department.
+246f5109-f781-4994-8050-e94e4828e242,Editable Product Information,"All product information in the online inventory database is editable. Pictures may also be
+added or edited for product in the database."
+7bba8430-0b86-4621-89da-2851969cb4cf,Editable Product Information,"Clients are able to view all product information and edit this information online.
+This online product information, including pictures, is not synced with local POS product information except on first sync."
+1702b5bb-ed27-485c-9f98-a663e013a179,Web Cart,Customers on a web store are able to add/remove items to a virtual web cart and purchase all items in the cart at checkout.
+c51172b7-8bd1-4988-abfb-ec4002ad2e04,Web Cart,A customer can select a product that is not out of stock and add any valid number of the product to their web cart. This web cart can be used to monitor items you want or for buying groups of items. Items are subtracted from the inventory list upon checkout and not upon adding to the cart. 
+904596dd-ff33-4d65-bb77-29b9cc22c0fc,Online Sales,A client’s web store is capable of online purchases and transactions with customers.
+e612c4fa-4e7e-4fcf-96f3-d9f57abc0ea1,Online Sales,"A customer can inspect items online add them to a web cart and can purchase the item. Before paying for an item or adding an item to a web cart, the system checks the current inventory to make sure the item is not out of stock"
+475e3e6c-e229-46ba-9b1e-a4a4fa298fed,Payment Processing,The system must process payments when a customer checks out. This feature shall be considered complete if all of its high priority requirements are met. It is a high priority feature.
+15006ca0-5bd2-4e7f-ae40-ddd4d969fbbb,Payment Processing,"A customer is able to check out via PayPal. After checking out, the store owner
+receives payment equal to the total value of the items in a customer’s cart credited to their PayPal account."
+bcf73366-6b49-447f-8019-a6b3a0e2c3b2,Payment Processing,"A customer is able to check out via authorize.net. After checking out, the store owner receives payment equal to the total value of the items in a customer’s cart credited to their authorize.net account. "
+0685e764-6e8d-43a3-80bf-c2870ac66ad7,Shipping and Label Information,The server must notify a client when an item is sold providing information about the sale. Shipping information and a formatted ready to print shipping label are provided.
+6b93ac9a-cd37-4468-af06-468cdb026afc,Shipping and Label Information,A client upon syncing is informed of all sales/transactions made since the last sync. Shipping information and a ready to print label are prepared for users with printers. 
+64879f1b-0042-4ebf-a914-1a1b1c219a2f,Conflict Resolution,"As conflicts occur with sales or inventories either online or offline the system handles each
+kind of conflict as well as it is capable of doing."
+659f4b97-ef19-4389-9de1-860f057b6205,Conflict Resolution,"All conflicts resulting from online to online interactions are handled by the server
+immediately. This prevents duplicate stock from being sold or informs the user(s) that a conflict has occurred and that their transaction will not be processed or it will be refunded."
+6d0c8b9e-9a9a-4d53-b40b-23fed2c39c0b,Conflict Resolution,All conflicts resulting from online to offline inventory deficiencies are handled on sync with the client. Local customers and inventory takes priority over online sales and any conflict resulting from online sales notifies and refunds the online customer
+2585732f-4e67-4ebb-b99c-207487f5d109,Information Reporting,"As information regarding sync conflicts or completed transaction occur they are logged for
+debugging and providing information to clients."
+e581292f-19b2-4e6f-a081-b86e84428b34,Information Reporting,"All conflicts that occur for an individual web store are logged with any action
+taken, such as informing a customer of a deficiency in products, and saved in the database for a limited amount of time under the web store owner’s account."
+b06584c1-e7e7-4841-b4ae-47ac175e70e9,Information Reporting, A log of all sales for an individual web store are recorded online and saved on the associated client’s computer at next sync. This log is shown to the user at sync to inform them of recent sales as well as what actions should be taken. This information is also available online and saved at a text file on the client’s computer.
+877c1ca4-6795-4e61-821e-2822db5bc1f0,Inventory Management,"A client’s inventory is handled through their local POS (intuit) and then synced with the
+system’s online inventory. A client may also edit their inventory either online/offline through the system."
+69257036-9503-4621-8ed7-b4d89f0f13ae,Inventory Management,"Clients can create, read, update, and delete from a simple Graphical User Interface (GUI) on their local machines. These changes are reflected in the local POS (intuit) as well as the online inventory upon sync."
+97c155e6-2867-4c91-8900-41e5a3ede6e3,Inventory Management,"Clients can create, read, update, and delete from an online interface that immediately updates the online inventory. Local inventory is updated on sync."
+82228fc5-72eb-45d1-b34e-9ae0a80359c0,Syncing,Web stores as well as a client’s local POS inventory are updated by the windows service This happens automatically after any transaction and can also be forced at any time by a client from their local machine.
+49fe8dcf-50ee-4e55-83cc-3fc88e7cee69,Syncing,Local POS inventory and online inventories are periodically compared  and resolved into a master inventory list. This list is then sent to both the local POS and online inventory so that they can be updated. This sync logs conflicts (See requirement 11) and notifies clients and customers with the appropriate information when the conflicts occur. 
+f87c5029-c9e6-4c73-aa5e-292ef20f464f,Syncing,Clients can force a sync at any time on their local machine and immediately see sync results
+ffb31ca1-d47a-4c18-8920-97131745f52b,POS Interaction,"The windows service can interact with a user’s POS as well as any
+MySQL localhost databases. This interaction includes creating, reading, updating, and deleting inventory in the local POS or MySQL database."
+f88d2476-6367-4762-99c4-54714e779301,POS Interaction,The windows service can interact with Intuit 
+5a656e57-1209-423b-a762-084a5882deda,POS Interaction,The windows service can interact with a generic MySQL database.

@@ -95,9 +95,9 @@ e4933c3f-25ab-4443-9394-3690aa5f6ce7,Pricing Features Discounts,CORE:pricing str
 1ae14148-d054-4533-81d0-f5c33fc93898,Pricing Features Discounts,CORE:discounts,apply,CORE:order  
 1ae14148-d054-4533-81d0-f5c33fc93898,Pricing Features Discounts,CORE:discounts,apply,CORE:products  
 1ae14148-d054-4533-81d0-f5c33fc93898,Pricing Features Discounts,CORE:order,contain,CORE:products  
-31a52ac7-382c-4b78-a331-d7f481956e64,Pricing Features Discount tag,CORE:product,Apply,a CORE:discount  
-31a52ac7-382c-4b78-a331-d7f481956e64,Pricing Features Discount tag,CORE:product,Apply,a CORE:global discount  
-31a52ac7-382c-4b78-a331-d7f481956e64,Pricing Features Discount tag,CORE:product,Apply,a CORE:time-limited discounts  
+31a52ac7-382c-4b78-a331-d7f481956e64,Pricing Features Discount tag,CORE:product,Apply,CORE:discount  
+31a52ac7-382c-4b78-a331-d7f481956e64,Pricing Features Discount tag,CORE:product,Apply,CORE:global discount  
+31a52ac7-382c-4b78-a331-d7f481956e64,Pricing Features Discount tag,CORE:product,Apply,CORE:time-limited discounts  
 947c6bdb-81f6-4c85-9773-c4b8ac2fae2a,Pricing Features Loyalty Program,CORE:discount tags,are used for,CORE:product
 6e10fb9a-1ce3-4d10-a9a0-8d2a910d84ef,Pricing Features Loyalty Program,CORE:Loyalty Program,encourages,USER:customers  
 6e10fb9a-1ce3-4d10-a9a0-8d2a910d84ef,Pricing Features Loyalty Program,CORE:point of sale,encourages,USER:customers  

@@ -1,0 +1,173 @@
+id,feature,subject,predicate,object
+628c2e7c-cffa-44e2-bb7d-b610fe238285,Client Account,CORE:Clients,uses,CORE:system  
+628c2e7c-cffa-44e2-bb7d-b610fe238285,Client Account,CORE:system,allows,CORE:personal user account  
+628c2e7c-cffa-44e2-bb7d-b610fe238285,Client Account,PLATFORM:main website,provides,CORE:user account  
+628c2e7c-cffa-44e2-bb7d-b610fe238285,Client Account,CORE:user account,stores,CORE:stores  
+628c2e7c-cffa-44e2-bb7d-b610fe238285,Client Account,CORE:stores,belong to,CORE:Clients  
+e8937dda-8bac-42e3-a343-9c5b7f14cbe5,Client Account,CORE:system,has,USER:account  
+e8937dda-8bac-42e3-a343-9c5b7f14cbe5,Client Account,USER:account,contains,USER:user  
+e8937dda-8bac-42e3-a343-9c5b7f14cbe5,Client Account,USER:account,stores,CORE:database  
+e8937dda-8bac-42e3-a343-9c5b7f14cbe5,Client Account,USER:account holder,can access,CORE:database  
+e8937dda-8bac-42e3-a343-9c5b7f14cbe5,Client Account,CORE:system,requires,CORE:banking  
+e8937dda-8bac-42e3-a343-9c5b7f14cbe5,Client Account,CORE:system,requires,CORE:store  
+54bec78a-5b57-45eb-b0c2-715cfb9bc165,Windows Service,USER:Clients,has,CORE:account  
+54bec78a-5b57-45eb-b0c2-715cfb9bc165,Windows Service,CORE:account,provides access to,CORE:downloadable windows service package  
+54bec78a-5b57-45eb-b0c2-715cfb9bc165,Windows Service,CORE:downloadable windows service package,initializes,USER:client’s store  
+54bec78a-5b57-45eb-b0c2-715cfb9bc165,Windows Service,CORE:downloadable windows service package,handles,CORE:communications  
+54bec78a-5b57-45eb-b0c2-715cfb9bc165,Windows Service,USER:clients’,handles,CORE:local POS  
+54bec78a-5b57-45eb-b0c2-715cfb9bc165,Windows Service,CORE:local POS,interacts with,CORE:web store  
+ecdf70b7-2462-476f-aec0-91e57cf603e2,Windows Service,USER:Clients,has,CORE:account  
+ecdf70b7-2462-476f-aec0-91e57cf603e2,Windows Service,CORE:account,is_provided_with,PLATFORM:windows  
+ecdf70b7-2462-476f-aec0-91e57cf603e2,Windows Service,CORE:service,installs,CORE:installer  
+ecdf70b7-2462-476f-aec0-91e57cf603e2,Windows Service,CORE:installer,packages,CORE:package  
+ecdf70b7-2462-476f-aec0-91e57cf603e2,Windows Service,CORE:package,obtains,CORE:store  
+ecdf70b7-2462-476f-aec0-91e57cf603e2,Windows Service,USER:client,provides,CORE:information  
+ecdf70b7-2462-476f-aec0-91e57cf603e2,Windows Service,CORE:local,uses,PLATFORM:POS  
+ecdf70b7-2462-476f-aec0-91e57cf603e2,Windows Service,PLATFORM:intuit,runs_on,CORE:service  
+ecdf70b7-2462-476f-aec0-91e57cf603e2,Windows Service,CORE:service,runs_in,CORE:background  
+ecdf70b7-2462-476f-aec0-91e57cf603e2,Windows Service,USER:client’s,operates_on,CORE:computer  
+ecdf70b7-2462-476f-aec0-91e57cf603e2,Windows Service,CORE:service,handles,CORE:communications  
+ecdf70b7-2462-476f-aec0-91e57cf603e2,Windows Service,CORE:service,manages,CORE:information  
+ecdf70b7-2462-476f-aec0-91e57cf603e2,Windows Service,CORE:service,transfers,CORE:information  
+ecdf70b7-2462-476f-aec0-91e57cf603e2,Windows Service,CORE:service,communicates_with,CORE:server  
+ecdf70b7-2462-476f-aec0-91e57cf603e2,Windows Service,CORE:service,creates,CORE:web  
+ecdf70b7-2462-476f-aec0-91e57cf603e2,Windows Service,CORE:service,handles,CORE:sync  
+ecdf70b7-2462-476f-aec0-91e57cf603e2,Windows Service,CORE:service,manages,CORE:requests  
+ecdf70b7-2462-476f-aec0-91e57cf603e2,Windows Service,CORE:service,processes,CORE:responses  
+ecdf70b7-2462-476f-aec0-91e57cf603e2,Windows Service,CORE:service,logs,CORE:information  
+3c9f6877-0f3f-4331-bee2-f92852375e72,Web Store,USER:Clients,has,CORE:account information  
+3c9f6877-0f3f-4331-bee2-f92852375e72,Web Store,USER:Clients,uses,PLATFORM:windows service  
+3c9f6877-0f3f-4331-bee2-f92852375e72,Web Store,CORE:web store,hosts,CORE:system  
+3c9f6877-0f3f-4331-bee2-f92852375e72,Web Store,CORE:system,keeps,CORE:online database  
+3c9f6877-0f3f-4331-bee2-f92852375e72,Web Store,CORE:online database,contains,CORE:client’s stock  
+3c9f6877-0f3f-4331-bee2-f92852375e72,Web Store,USER:customers,buy,CORE:client’s items  
+3c9f6877-0f3f-4331-bee2-f92852375e72,Web Store,USER:customers,search,CORE:client’s items  
+be8ec600-a1e1-48ce-9005-9171f599d3ea,Web Store,USER:Clients,create,CORE:online web store  
+be8ec600-a1e1-48ce-9005-9171f599d3ea,Web Store,CORE:online web store,hosted on,CORE:system’s servers  
+be8ec600-a1e1-48ce-9005-9171f599d3ea,Web Store,CORE:online web store,has,CORE:themes  
+be8ec600-a1e1-48ce-9005-9171f599d3ea,Web Store,USER:clients,create,CORE:store  
+be8ec600-a1e1-48ce-9005-9171f599d3ea,Web Store,USER:clients,have,USER:client’s customers  
+be8ec600-a1e1-48ce-9005-9171f599d3ea,Web Store,USER:client’s customers,buy,CORE:items  
+be8ec600-a1e1-48ce-9005-9171f599d3ea,Web Store,USER:client,edit,CORE:store  
+fa69efd5-0c03-4fc0-85ac-2137fab82365,Online Inventory,CORE:online inventory,updated,CORE:online inventory  
+fa69efd5-0c03-4fc0-85ac-2137fab82365,Online Inventory,USER:client,displays,CORE:store  
+fa69efd5-0c03-4fc0-85ac-2137fab82365,Online Inventory,USER:client,has,CORE:online inventory  
+fa69efd5-0c03-4fc0-85ac-2137fab82365,Online Inventory,CORE:store,reflects,CORE:online inventory  
+d7b40e47-0cf6-4b0b-917c-ec8c8e441e02,Online Inventory,CORE:inventory, is updated through, USER:client  
+d7b40e47-0cf6-4b0b-917c-ec8c8e441e02,Online Inventory,CORE:online sale, occurs, CORE:online stock  
+d7b40e47-0cf6-4b0b-917c-ec8c8e441e02,Online Inventory,CORE:online stock, is updated for, CORE:web carts  
+ee70c104-a47e-4640-8aba-ae1cd95933ae,Online Inventory,CORE:Inventory,displayed through,CORE:web store  
+ee70c104-a47e-4640-8aba-ae1cd95933ae,Online Inventory,CORE:Inventory,organized and searched for by,CORE:category  
+ee70c104-a47e-4640-8aba-ae1cd95933ae,Online Inventory,CORE:Inventory,organized and searched for by,CORE:department  
+ee70c104-a47e-4640-8aba-ae1cd95933ae,Online Inventory,CORE:web store,according to,USER:client  
+ee70c104-a47e-4640-8aba-ae1cd95933ae,Online Inventory,USER:client,has chosen for,CORE:theme  
+246f5109-f781-4994-8050-e94e4828e242,Editable Product Information,CORE:inventory database,has,CORE:product  
+246f5109-f781-4994-8050-e94e4828e242,Editable Product Information,CORE:product,has,CORE:Pictures  
+7bba8430-0b86-4621-89da-2851969cb4cf,Editable Product Information,CORE:product information,view,CORE:Clients  
+7bba8430-0b86-4621-89da-2851969cb4cf,Editable Product Information,CORE:product information,include,CORE:pictures  
+7bba8430-0b86-4621-89da-2851969cb4cf,Editable Product Information,CORE:local POS product information,not synced with,CORE:product information  
+7bba8430-0b86-4621-89da-2851969cb4cf,Editable Product Information,CORE:first sync,except on,CORE:local POS product information  
+1702b5bb-ed27-485c-9f98-a663e013a179,Web Cart,CORE:Customers,are able to add/remove,CORE:items  
+1702b5bb-ed27-485c-9f98-a663e013a179,Web Cart,CORE:Customers,are able to add/remove,CORE:virtual web cart  
+1702b5bb-ed27-485c-9f98-a663e013a179,Web Cart,CORE:virtual web cart,contains,CORE:items  
+1702b5bb-ed27-485c-9f98-a663e013a179,Web Cart,CORE:Customers,purchase,CORE:virtual web cart  
+1702b5bb-ed27-485c-9f98-a663e013a179,Web Cart,CORE:virtual web cart,leads to,CORE:checkout  
+c51172b7-8bd1-4988-abfb-ec4002ad2e04,Web Cart,CORE:customer,selects,CORE:product  
+c51172b7-8bd1-4988-abfb-ec4002ad2e04,Web Cart,CORE:web cart,monitors,CORE:items  
+c51172b7-8bd1-4988-abfb-ec4002ad2e04,Web Cart,CORE:items,are subtracted from,CORE:inventory list  
+c51172b7-8bd1-4988-abfb-ec4002ad2e04,Web Cart,CORE:items,are subtracted upon,CORE:checkout  
+904596dd-ff33-4d65-bb77-29b9cc22c0fc,Online Sales,USER:client,has,CORE:web store  
+904596dd-ff33-4d65-bb77-29b9cc22c0fc,Online Sales,CORE:web store,offers,CORE:online purchases  
+904596dd-ff33-4d65-bb77-29b9cc22c0fc,Online Sales,CORE:web store,facilitates,CORE:transactions  
+904596dd-ff33-4d65-bb77-29b9cc22c0fc,Online Sales,CORE:transactions,involves,USER:customers  
+e612c4fa-4e7e-4fcf-96f3-d9f57abc0ea1,Online Sales,CORE:system,checks,CORE:inventory  
+e612c4fa-4e7e-4fcf-96f3-d9f57abc0ea1,Online Sales,USER:customer,inspects,CORE:item  
+e612c4fa-4e7e-4fcf-96f3-d9f57abc0ea1,Online Sales,USER:customer,adds to,CORE:web cart  
+e612c4fa-4e7e-4fcf-96f3-d9f57abc0ea1,Online Sales,USER:customer,purchases,CORE:item  
+e612c4fa-4e7e-4fcf-96f3-d9f57abc0ea1,Online Sales,CORE:web cart,contains,CORE:item  
+475e3e6c-e229-46ba-9b1e-a4a4fa298fed,Payment Processing,CORE:system,processes,CORE:payments  
+475e3e6c-e229-46ba-9b1e-a4a4fa298fed,Payment Processing,USER:customer,checks out,CORE:feature  
+475e3e6c-e229-46ba-9b1e-a4a4fa298fed,Payment Processing,CORE:feature,shall be considered complete if,CORE:requirements  
+475e3e6c-e229-46ba-9b1e-a4a4fa298fed,Payment Processing,CORE:feature,has,CORE:priority  
+475e3e6c-e229-46ba-9b1e-a4a4fa298fed,Payment Processing,CORE:feature,is,CORE:priority  
+15006ca0-5bd2-4e7f-ae40-ddd4d969fbbb,Payment Processing,USER:customer,able to check out via,PLATFORM:PayPal  
+15006ca0-5bd2-4e7f-ae40-ddd4d969fbbb,Payment Processing,USER:store owner,receives,CORE:payment  
+15006ca0-5bd2-4e7f-ae40-ddd4d969fbbb,Payment Processing,CORE:payment,equal to,CORE:total value  
+15006ca0-5bd2-4e7f-ae40-ddd4d969fbbb,Payment Processing,CORE:total value,of,CORE:items  
+15006ca0-5bd2-4e7f-ae40-ddd4d969fbbb,Payment Processing,USER:customer,has,CORE:cart  
+15006ca0-5bd2-4e7f-ae40-ddd4d969fbbb,Payment Processing,PLATFORM:PayPal,credited to,USER:store owner  
+bcf73366-6b49-447f-8019-a6b3a0e2c3b2,Payment Processing,USER:customer,check out via,PLATFORM:authorize.net  
+bcf73366-6b49-447f-8019-a6b3a0e2c3b2,Payment Processing,USER:store owner,receives,CORE:payment  
+bcf73366-6b49-447f-8019-a6b3a0e2c3b2,Payment Processing,CORE:payment,equal to,CORE:total value  
+bcf73366-6b49-447f-8019-a6b3a0e2c3b2,Payment Processing,CORE:total value,of,CORE:items  
+bcf73366-6b49-447f-8019-a6b3a0e2c3b2,Payment Processing,USER:customer,has,CORE:customer’s cart  
+bcf73366-6b49-447f-8019-a6b3a0e2c3b2,Payment Processing,PLATFORM:authorize.net,credited to,USER:store owner  
+0685e764-6e8d-43a3-80bf-c2870ac66ad7,Shipping and Label Information,CORE:server,notifies,USER:client  
+0685e764-6e8d-43a3-80bf-c2870ac66ad7,Shipping and Label Information,CORE:item,is_sold_in,CORE:sale  
+0685e764-6e8d-43a3-80bf-c2870ac66ad7,Shipping and Label Information,CORE:sale,provides,CORE:Shipping information  
+0685e764-6e8d-43a3-80bf-c2870ac66ad7,Shipping and Label Information,CORE:Shipping information,includes,CORE:shipping label  
+6b93ac9a-cd37-4468-af06-468cdb026afc,Shipping and Label Information,USER:client, informs, CORE:syncing  
+6b93ac9a-cd37-4468-af06-468cdb026afc,Shipping and Label Information,CORE:sales, made, CORE:transactions  
+6b93ac9a-cd37-4468-af06-468cdb026afc,Shipping and Label Information,CORE:Shipping information, prepared for, USER:users  
+6b93ac9a-cd37-4468-af06-468cdb026afc,Shipping and Label Information,HARDWARE:printers, ready to print, CORE:label  
+64879f1b-0042-4ebf-a914-1a1b1c219a2f,Conflict Resolution,CORE:conflict,handles,CORE:system  
+64879f1b-0042-4ebf-a914-1a1b1c219a2f,Conflict Resolution,CORE:sales,occurs with,CORE:conflict  
+64879f1b-0042-4ebf-a914-1a1b1c219a2f,Conflict Resolution,CORE:inventories,occurs with,CORE:conflict  
+64879f1b-0042-4ebf-a914-1a1b1c219a2f,Conflict Resolution,CORE:online,occurs with,CORE:conflict  
+64879f1b-0042-4ebf-a914-1a1b1c219a2f,Conflict Resolution,CORE:offline,occurs with,CORE:conflict  
+659f4b97-ef19-4389-9de1-860f057b6205,Conflict Resolution,CORE:server,handles,CORE:conflicts  
+659f4b97-ef19-4389-9de1-860f057b6205,Conflict Resolution,USER:user,receives,CORE:notification  
+659f4b97-ef19-4389-9de1-860f057b6205,Conflict Resolution,CORE:transaction,will not be processed,CORE:transaction  
+659f4b97-ef19-4389-9de1-860f057b6205,Conflict Resolution,CORE:refund,is issued for,CORE:transaction  
+6d0c8b9e-9a9a-4d53-b40b-23fed2c39c0b,Conflict Resolution,CORE:online,Causes,CORE:offline  
+6d0c8b9e-9a9a-4d53-b40b-23fed2c39c0b,Conflict Resolution,CORE:inventory,Has,CORE:conflict  
+6d0c8b9e-9a9a-4d53-b40b-23fed2c39c0b,Conflict Resolution,USER:client,Handles,CORE:conflict  
+6d0c8b9e-9a9a-4d53-b40b-23fed2c39c0b,Conflict Resolution,USER:customers,Prioritizes,CORE:inventory  
+6d0c8b9e-9a9a-4d53-b40b-23fed2c39c0b,Conflict Resolution,CORE:sales,Notifies,USER:customer  
+6d0c8b9e-9a9a-4d53-b40b-23fed2c39c0b,Conflict Resolution,CORE:conflict,Results in,USER:refunds  
+2585732f-4e67-4ebb-b99c-207487f5d109,Information Reporting,CORE:sync conflicts,are logged,CORE:information  
+2585732f-4e67-4ebb-b99c-207487f5d109,Information Reporting,CORE:completed transaction,are logged,CORE:information  
+2585732f-4e67-4ebb-b99c-207487f5d109,Information Reporting,CORE:information,provides,USER:clients  
+2585732f-4e67-4ebb-b99c-207487f5d109,Information Reporting,CORE:debugging,occurs,CORE:information  
+e581292f-19b2-4e6f-a081-b86e84428b34,Information Reporting,USER:web store owner,logs,CORE:web store  
+e581292f-19b2-4e6f-a081-b86e84428b34,Information Reporting,USER:customer,informed,CORE:web store  
+e581292f-19b2-4e6f-a081-b86e84428b34,Information Reporting,CORE:database,saved,USER:web store owner  
+b06584c1-e7e7-4841-b4ae-47ac175e70e9,Information Reporting,CORE:log,records,CORE:web store  
+b06584c1-e7e7-4841-b4ae-47ac175e70e9,Information Reporting,HARDWARE:client’s computer,saved,CORE:log  
+b06584c1-e7e7-4841-b4ae-47ac175e70e9,Information Reporting,USER:user,shown,CORE:log  
+b06584c1-e7e7-4841-b4ae-47ac175e70e9,Information Reporting,CORE:log,informs,CORE:recent sales  
+b06584c1-e7e7-4841-b4ae-47ac175e70e9,Information Reporting,CORE:log,contains,CORE:actions  
+b06584c1-e7e7-4841-b4ae-47ac175e70e9,Information Reporting,CORE:information,available,CORE:log  
+b06584c1-e7e7-4841-b4ae-47ac175e70e9,Information Reporting,HARDWARE:client’s computer,saved,CORE:text file  
+877c1ca4-6795-4e61-821e-2822db5bc1f0,Inventory Management,CORE:system,handles,POS:HARDWARE  
+877c1ca4-6795-4e61-821e-2822db5bc1f0,Inventory Management,CORE:system,synced with,CORE:inventory  
+877c1ca4-6795-4e61-821e-2822db5bc1f0,Inventory Management,CORE:inventory,edited through,CORE:system  
+877c1ca4-6795-4e61-821e-2822db5bc1f0,Inventory Management,CORE:system,edited either online/offline,CORE:inventory  
+69257036-9503-4621-8ed7-b4d89f0f13ae,Inventory Management,CORE:Clients,create,CORE:Graphical User Interface  
+69257036-9503-4621-8ed7-b4d89f0f13ae,Inventory Management,HARDWARE:local machines,reflect,CORE:local POS  
+69257036-9503-4621-8ed7-b4d89f0f13ae,Inventory Management,CORE:local POS,reflect,CORE:online inventory  
+69257036-9503-4621-8ed7-b4d89f0f13ae,Inventory Management,CORE:online inventory,sync,CORE:sync  
+97c155e6-2867-4c91-8900-41e5a3ede6e3,Inventory Management,CORE:online interface,allows,CORE:online inventory  
+97c155e6-2867-4c91-8900-41e5a3ede6e3,Inventory Management,CORE:Local inventory,updates,CORE:online interface  
+82228fc5-72eb-45d1-b34e-9ae0a80359c0,Syncing,CORE:Web stores,are updated by,USER:client  
+82228fc5-72eb-45d1-b34e-9ae0a80359c0,Syncing,CORE:POS inventory,are updated by,CORE:windows service  
+82228fc5-72eb-45d1-b34e-9ae0a80359c0,Syncing,USER:client,forces,CORE:transaction  
+82228fc5-72eb-45d1-b34e-9ae0a80359c0,Syncing,USER:client,updates, HARDWARE:local machine  
+49fe8dcf-50ee-4e55-83cc-3fc88e7cee69,Syncing,CORE:Local POS inventory,compared with,CORE:online inventories  
+49fe8dcf-50ee-4e55-83cc-3fc88e7cee69,Syncing,CORE:master inventory list,sent to,CORE:local POS  
+49fe8dcf-50ee-4e55-83cc-3fc88e7cee69,Syncing,CORE:master inventory list,sent to,CORE:online inventory  
+49fe8dcf-50ee-4e55-83cc-3fc88e7cee69,Syncing,CORE:sync,logs,CORE:conflicts  
+49fe8dcf-50ee-4e55-83cc-3fc88e7cee69,Syncing,USER:clients,notified with,CORE:appropriate information  
+49fe8dcf-50ee-4e55-83cc-3fc88e7cee69,Syncing,USER:customers,notified with,CORE:appropriate information  
+f87c5029-c9e6-4c73-aa5e-292ef20f464f,Syncing,CORE:Clients,force,CORE:async  
+f87c5029-c9e6-4c73-aa5e-292ef20f464f,Syncing,HARDWARE:local machine,see,CORE:sync results  
+ffb31ca1-d47a-4c18-8920-97131745f52b,POS Interaction,CORE:windows service, interacts with, USER:user  
+ffb31ca1-d47a-4c18-8920-97131745f52b,POS Interaction,CORE:windows service, interacts with, PLATFORM:MySQL  
+ffb31ca1-d47a-4c18-8920-97131745f52b,POS Interaction,PLATFORM:MySQL, connects to, CORE:localhost  
+ffb31ca1-d47a-4c18-8920-97131745f52b,POS Interaction,CORE:localhost, contains, CORE:databases  
+ffb31ca1-d47a-4c18-8920-97131745f52b,POS Interaction,CORE:databases, includes, CORE:inventory  
+ffb31ca1-d47a-4c18-8920-97131745f52b,POS Interaction,CORE:inventory, is part of, CORE:local  
+ffb31ca1-d47a-4c18-8920-97131745f52b,POS Interaction,CORE:local, is associated with, PLATFORM:POS  
+f88d2476-6367-4762-99c4-54714e779301,POS Interaction,PLATFORM:windows,interacts_with,PLATFORM:Intuit
+5a656e57-1209-423b-a762-084a5882deda,POS Interaction,PLATFORM:windows, interacts_with, CORE:MySQL  
+5a656e57-1209-423b-a762-084a5882deda,POS Interaction,CORE:service, interacts_with, CORE:database  

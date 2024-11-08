@@ -1,0 +1,249 @@
+Clients,USER  
+system,CORE  
+personal user account,CORE  
+main website,PLATFORM  
+user account,CORE  
+stores,CORE  
+stores,CORE  
+system,CORE  
+account,CORE  
+banking,CORE  
+store,CORE  
+user,USER  
+database,CORE  
+account holder,USER  
+Clients,USER  
+account,CORE  
+downloadable windows service package,CORE  
+client’s store,CORE  
+communications,CORE  
+clients’,USER  
+local POS,CORE  
+web store,CORE  
+Clients,USER  
+account,CORE  
+windows,PLATFORM  
+service,CORE  
+installer,CORE  
+package,CORE  
+store,CORE  
+information,CORE  
+client,USER  
+local,CORE  
+POS,PLATFORM  
+intuit,PLATFORM  
+service,CORE  
+background,CORE  
+client’s,USER  
+computer, HARDWARE  
+communications,CORE  
+information,CORE  
+transfers,CORE  
+server,CORE  
+web,CORE  
+store,CORE  
+sync,CORE  
+requests,CORE  
+responses,CORE  
+log,CORE  
+information,CORE  
+Clients,USER  
+account information,CORE  
+windows service,PLATFORM  
+web store,CORE  
+stores,CORE  
+system,CORE  
+online database,CORE  
+client’s stock,CORE  
+customers,USER  
+buy,CORE  
+search,CORE  
+client’s items,CORE  
+Clients, USER  
+online web store, CORE  
+system’s servers, CORE  
+themes, CORE  
+clients, USER  
+store, CORE  
+client’s customers, USER  
+items, CORE  
+client, USER  
+store, CORE  
+online inventory,CORE  
+online stock,CORE  
+client,USER  
+store,CORE  
+client,USER  
+store,CORE  
+online inventory,CORE  
+inventory,CORE  
+client,USER  
+online sale,CORE  
+online stock,CORE  
+web carts,CORE  
+Inventory,CORE  
+web store,CORE  
+theme,CORE  
+client,USER  
+category,CORE  
+department,CORE  
+inventory database,CORE  
+product,CORE  
+Pictures,CORE  
+Clients,USER  
+product information,CORE  
+pictures,CORE  
+local POS product information,CORE  
+first sync,CORE  
+Customers,USER  
+web store,CORE  
+items,CORE  
+virtual web cart,CORE  
+checkout,CORE  
+customer,USER  
+product,CORE  
+web cart,CORE  
+items,CORE  
+inventory list,CORE  
+checkout,CORE  
+client,USER  
+web store,CORE  
+online purchases,CORE  
+transactions,CORE  
+customers,USER  
+customer,USER  
+system,CORE  
+web cart,CORE  
+item,CORE  
+inventory,CORE  
+""
+system,CORE  
+payments,CORE  
+customer,USER  
+feature,CORE  
+requirements,CORE  
+priority,CORE  
+feature,CORE  
+customer,USER  
+PayPal,PLATFORM  
+store owner,USER  
+payment,CORE  
+total value,CORE  
+items,CORE  
+cart,CORE  
+PayPal,PLATFORM  
+customer,USER  
+authorize.net,PLATFORM  
+store owner,USER  
+payment,CORE  
+total value,CORE  
+items,CORE  
+customer’s cart,CORE  
+authorize.net,PLATFORM  
+server,CORE  
+client,USER  
+item,CORE  
+sale,CORE  
+Shipping information,CORE  
+shipping label,CORE  
+client,USER  
+syncing,CORE  
+sales,CORE  
+transactions,CORE  
+sync,CORE  
+Shipping information,CORE  
+label,CORE  
+users,USER  
+printers,HARDWARE  
+system,CORE  
+sales,CORE  
+inventories,CORE  
+online,CORE  
+offline,CORE  
+conflict,CORE  
+server,CORE  
+user,USER  
+transaction,CORE  
+refund,CORE  
+online,CORE  
+offline,CORE  
+inventory,CORE  
+client,USER  
+customers,USER  
+sales,CORE  
+conflict,CORE  
+refunds,CORE  
+customer,USER  
+sync conflicts,CORE  
+completed transaction,CORE  
+logged,CORE  
+debugging,CORE  
+information,CORE  
+clients,USER  
+web store,CORE  
+customer,USER  
+database,CORE  
+web store owner,USER  
+log,CORE  
+sales,CORE  
+web store,CORE  
+client’s computer,HARDWARE  
+sync,CORE  
+user,USER  
+recent sales,CORE  
+actions,CORE  
+information,CORE  
+text file,CORE  
+client’s computer,HARDWARE  
+A client,USER  
+POS,HARDWARE  
+intuit,PLATFORM  
+system,CORE  
+inventory,CORE  
+online,CORE  
+offline,CORE  
+Clients,USER  
+Graphical User Interface,CORE  
+local machines,HARDWARE  
+local POS,PLATFORM  
+online inventory,CORE  
+sync,CORE  
+Clients,USER  
+online interface,CORE  
+online inventory,CORE  
+Local inventory,CORE  
+Web stores,CORE  
+client,USER  
+POS inventory,CORE  
+windows service,CORE  
+transaction,CORE  
+client,USER  
+local machine,HARDWARE  
+Local POS,CORE  
+online inventories,CORE  
+master inventory list,CORE  
+local POS,CORE  
+online inventory,CORE  
+sync,CORE  
+conflicts,CORE  
+clients,USER  
+customers,USER  
+appropriate information,CORE  
+Clients,USER  
+sync,CORE  
+local machine,HARDWARE  
+sync results,CORE  
+windows service,CORE  
+user,USER  
+POS,CORE  
+MySQL,PLATFORM  
+localhost,PLATFORM  
+databases,CORE  
+inventory,CORE  
+local,CORE  
+windows,PLATFORM  
+Intuit,PLATFORM  
+windows,PLATFORM  
+MySQL,PLATFORM  
+service,CORE  
+database,CORE  
