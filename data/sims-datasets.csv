@@ -1,0 +1,56 @@
+id,Feature,Sentences
+e933337b-608f-445e-bc6b-f21643ca65d1,Administrator Module,"It allows admin to manage two types of users, hold their details, authenticate these users at the time of login and accordingly provide different options."
+5f860315-51af-4e8e-88f4-f32aab154bff,Administrator Module,"The system must allow the administrator to add new users by filling out relevant user details (e.g., username, password, role) and assigning them the appropriate user category (Admin or Normal User)."
+2bc9b0a8-f491-471d-85d9-bfce4690383b,Administrator Module,"The system must allow the administrator to delete a user from the list, permanently removing their record from the database."
+7cefa507-800a-4c8c-a119-54ec1d9e497e,Administrator Module,"The system must allow the administrator to generate and send a print request for a user report, which contains details of all users currently registered in the system."
+e58395c0-cc7c-4fa5-b69a-134ecbe8dd9f,Administrator Module,"The system must categorize users into two types: Admin and Normal User, with corresponding access rights and permissions."
+8c128d6b-4022-426e-8602-5ea41af21140,Administrator Module,"The system must enforce role-based access controls, ensuring that only users with the Admin role can add, view, or delete users"
+5e366e67-06af-4000-9a85-4c9e592cc385,Administrator Module,"The system must provide the administrator with the ability to view a list of all users, showing details such as username, role, and user status."
+4c262d53-4115-4327-895a-e417010f0998,Administrator Module,It allows any user to logout when he wants to come out from the system.
+d1fd1bb2-7057-49af-953c-192dcd3aa180,Administrator Module,It allows the admin to view the list of users and take the print.
+0457aa63-60bf-4857-9826-c153f3042fd3,Administrator Module,It allows the users to change their password for future security.
+eaba874f-4ec6-4ee5-921a-9933001864e8,Deliveries Module,"The system must allow users to input delivery details, specifying the godown from which items are delivered, the item IDs, and the purpose of delivery (sale or service)."
+d44ffcb1-a2d4-4e42-a0c7-e2555425bec6,Deliveries Module,"The system must generate comprehensive reports displaying all deliveries made by the company at each godown, including details like delivery date, items delivered, and purpose."
+be3b8c04-9894-4add-8970-d9935103c897,Deliveries Module,"The system must offer an option to print the delivery reports directly from the interface, facilitating easy documentation and record-keeping."
+8a3b2db0-eed0-45ac-97ce-c719fceb3278,Deliveries Module,The system must provide dropdown lists for selecting valid godown IDs and item IDs to ensure accurate data entry and enhance user-friendliness.
+5dda4abb-f3df-492e-a8e8-91e50fd3b646,Employe Information Module,It allows the authorized users to a new employee at the time of creating a godown if the employee is a newly appointed for this godown.
+03b19456-8ec4-4f61-868d-cbcbfb954531,Employe Information Module,The System holds all the details of the all the employees who are working in the organization.
+474418fc-7c58-4487-882a-ed37b9ca7bc1,Employe Information Module,"The system must allow the administrator to easily add a new employee record to the database by filling out an input form with relevant employee details (e.g., name, position, department, etc.)."
+057d198d-f770-4683-9f34-fee32d840afb,Employe Information Module,The system must allow the administrator to remove an employee record from the list and database as needed.
+4ee5cea4-e52d-45f1-a74e-4bbb6ee14ecb,Employe Information Module,The system must allow the administrator to select and edit the details of a specific employee from the displayed list.
+cd2e6c72-c60e-412d-a9c5-e4fa3c7e43cc,Employe Information Module,"The system must display a list of all employees in a tabular format, showing key information such as employee name, ID, position, and department."
+9be0c133-efc7-4c73-8a3b-c23416431ec5,Employe Information Module,"The system must provide a ""Print"" option, allowing the administrator to print a detailed report of employee information with a single click on the print icon."
+648ebc9c-5be2-4a9d-92ba-256e4b77858f,Inward Module,It also allows them to view the list of inward entries.
+938dc2bf-0774-4d2a-b851-4c64cfc137a8,Inward Module,It also allows them to view the list of Outward entries.
+b27f05c1-4d77-41e0-a03a-4015b5bbaed8,Inward Module,It holds the details of all Product Stocks held in the warehouse of the company.
+4c816ace-5d99-45be-9b2e-7a9c0620b460,Inward Module,It holds the details of all the godowns which are part of our organization.
+c41a27f5-ff6c-40ef-b9e7-209b0023648d,Inward Module,The system allows the godown manager to log into the system and enter stock return entries and the reason for return.
+856763c1-95b5-4957-ae2e-bc14155e5222,Inward Module,The system allows the godown manager to log into the system and enter their inwards entries related to their godown.
+1529a1fe-3190-4664-85fb-0488525b2d6a,Inward Module,The system allows the godown manager to log into the system and enter their outward entries and their purpose related to their godown.
+883ab3d4-eddb-4350-afca-664317d5c6d4,Inward Module,"The system must allow normal users to enter inward details specific to each godown when goods are received, ensuring that these details are stored in the database"
+63332adc-e4f2-4f79-ac11-fb23ada665d5,Inward Module,"The system must enforce role-based access control, where normal users can enter inward details and generate reports, but admins are restricted from making such entries."
+5c6af94b-8637-4939-913e-948da861f1bc,Inward Module,"The system must generate reports displaying all inwards made by the company at each godown, which users can view for tracking and analysis purposes"
+29ab2f9c-fde9-47d8-b43d-1b2532f13fe7,Inward Module,"The system must offer a calendar-based date selection feature to users, ensuring proper date formats are used and reducing the possibility of errors when entering dates"
+11259496-670a-4aa5-b44f-d847206437a4,Inward Module,"The system must prevent the admin from entering inward details, restricting this functionality to normal users only"
+dca81b97-ab5f-4fc9-b9b2-45d56e520497,Inward Module,"The system must provide a list of valid godown IDs from which the user can select, preventing the entry of invalid or non-existent godown IDs"
+3dabcfca-3507-4da9-aee4-60576ecc50e5,Inward Module,"The system must validate all inward details entered by users, ensuring that all necessary information (e.g., godown ID, date, quantity) is correctly filled before recording the data in the database."
+c89fc582-b312-4e45-9b4c-cc141a164dad,Inward Module,Whenver a return entry is entered then accordingly the stock number will be automatically updated if the reason is order cancelled otherwise It need not update the stock.
+8fb887ce-2ba4-4770-9b46-25e9657653d3,Inward Module,Whenver an inwards entry is entered then accordingly the stock number will be automatically updated.
+81423e67-33ed-4906-a7b8-ef2c5dcdf9f1,Inward Module,Whenver an outward entry is entered then accordingly the stock number will be automatically updated.
+ae5ec98a-9eed-4eba-8cc5-8eb6530923fe,Reporting Module,It allows admin to generate godown details report.
+7b034cbb-cf55-414e-a967-b2f5de9803bd,Reporting Module,It allows admin to generate inwards details report.
+1ec2fbd3-6806-45b0-85be-b7199c5d0fa2,Reporting Module,It allows admin to generate outwards details report.
+37b8f9f8-b03a-4fff-a9ab-5a38d9320239,Reporting Module,It allows admin to generate returns details report.
+581c288c-a774-45de-9718-c53a69474a0f,Reporting Module,It allows admin to generate stock statement report.
+6f8eed82-14be-48d2-8cba-80c3deb2a3f4,Reporting Module,"The system must allow users to generate dynamic reports based on various parameters such as godown information, monthly inwards, monthly deliveries, monthly returns, and stock statements."
+7f3e3178-5287-4547-87c5-88b047dbfc08,Reporting Module,"The system must generate a monthly report detailing all deliveries made from each godown, including delivery dates, items delivered, and delivery purposes (sale or service)."
+4421e7bd-cd7a-4cb4-8da7-da80e7b1ced1,Reporting Module,"The system must generate a monthly report displaying all inwards transactions at each godown, including details such as dates, items received, and quantities."
+990b5f75-9b5f-4651-a2c1-5654d326548c,Reporting Module,"The system must generate stock statement reports, summarizing the current stock levels for each product at each godown, with details about inwards, deliveries, and returns over the selected period."
+a7a1063e-58a5-4c29-8796-973d9d090cee,Reporting Module,"The system must provide a monthly report of all returned items, showing details such as return dates, reasons for return (damage or cancellation), and the items involved."
+6812deec-e4c7-4301-83ec-d61c7c324db9,Reporting Module,"The system must provide a report that displays detailed information about each godown, including location, capacity, and current inventory levels."
+09ef99b8-518e-4284-885c-1cab53e39331,Reporting Module,"The system must provide options to export the generated reports in various formats (e.g., PDF, Excel) and allow users to print the reports for documentation purposes."
+fff3ec45-a686-4751-81c1-fc30f2816537,Returns Module,"The system must allow users to enter details of returned items, specifying whether the return is due to damage or order cancellation."
+b5e55739-385b-464f-85a9-6c94112b05b1,Returns Module,"The system must display the returns report in a tabular format, providing a clear and organized view of all returned items for easy reference."
+67484996-a163-49b8-82db-deea6318bc81,Returns Module,"The system must generate reports that display all returns made by customers at each godown, including details such as return date, item ID, and return reason (damage or cancellation)."
+1da3eac7-0cae-47b3-8064-943588f75468,Returns Module,"The system must provide a list of delivered items, allowing users to easily select the ID of the returned item from the list for accurate data entry"
+e3712da9-ce22-4e1f-8d78-cee6f8bb42eb,Returns Module,"The system must provide an option to print the returns report, allowing the user to document and archive return transactions efficiently"

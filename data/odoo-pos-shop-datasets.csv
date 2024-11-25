@@ -1,0 +1,48 @@
+id,feature,sentence
+c8217134-d28d-4e2e-be5d-2924ac69a4a8,Intuitive display,One clear interface for a seamless service on any device.
+239587c2-b956-40a5-bd01-37f9fbf3dbb0,Connect your devices,"Connect barcode scanners, payment terminals, and cash registers to simplify your workflow."
+7a5dd008-2209-44d9-a098-96b4f1f81cb6,Quick search,Find your customers and products with the built-in search features.
+2ea0731a-b424-4a8f-b062-c71b72e8023f,Browser support,"Odoo POS is a web-based application and can be deployed on any device and OS running Chrome, Firefox, or Safari (such as Microsoft Windows, Apple OSX, Linux, Android, and iOS)."
+1ac9fe58-12a9-477d-b01b-fe8925c43e8f,PC and tablet-compatible,"Operate Odoo POS on PCs and tablets as well as industrial touch-screen terminals."
+2cf7fae3-e389-42c8-80c6-1e604f4196fb,Offline mode,"Keep working while offline. Your POS session can be closed offline without any loss of data."
+887bb04f-cdba-41f6-b10b-b07f9f92cd05,Payment methods,"Cash, checks, and credit card payment methods are available. More payment methods can be added if needed."
+bb99359f-d127-464b-8cfe-826c4fd9a048,Credit/Debit cards,External payment terminals handle all electronic payments.
+eeab6cef-8cb6-482d-b96a-e8a61e176157,Bill splitting,"A single order can be paid as a split payment between multiple parties and with separate payment methods."
+1b1b5453-0d0d-4c70-9773-d656f49eabc9,Currency rounding,"Prices and payments can be rounded to the smallest denomination of the currency."
+b0142a62-94ef-49dc-9092-d8b8f0eba70a,Offline payments,"Orders made offline are automatically synchronized when you are reconnected."
+0f8c87e0-9dff-419a-93e3-068536650595,Invoicing,Generate and print invoices for your business customers.
+4fffed33-4d6a-4b3e-ac66-311e4a952360,B2B,Register your customer's VAT number and apply it to invoices.
+f5a70a7f-2895-4604-a5ab-832968647562,Accounting,"Payments are directly integrated into Odoo Accounting to make bookkeeping simple and reliable."
+fc463536-5eae-456b-a00c-aeac0e6a93ae,Customer tips,"Supports customer tipping as an added amount or by converting change to a tip."
+ea409409-9bf2-48c9-8340-042aebae6e19,Credit limits,"Credit limits can be set on companies or partners. When a limit is reached, a warning appears on customer-related views and buttons."
+49c6440c-baee-4a62-be60-cb28df752ddf,Prevent cash payment method re-use,"Cash payment methods and cash journals cannot be re-used over multiple POS to avoid accounting issues related to cash drawer control."
+e1ef9c4b-18df-4a51-af54-88d2538516ed,Prices & discounts,"Set customer prices or offer percentage-based discounts on either a single product or the entire order."
+6b01edd7-cf09-46db-80f8-1fdf7a2587f8,Parallel orders,Put orders aside and process multiple orders at the same time.
+0e44a4e3-510e-4c9c-9a37-edf386397802,Customized receipts,"Advertise your current promotions, hours of operation, and upcoming events on your printed receipts."
+3f9c215a-7356-4026-9d2f-62e0609a159b,Weighting at the counter,"Calculate product weight during checkout with the electronic scale integration."
+aa79ddab-eec6-4b68-b208-2f6440f615d1,Multi-step checkout,Order your products at one point of sale and pay at another one.
+263b7509-fa6b-4c3a-b6ca-f499db1da3a4,Sell on the move,"With iPad and Android tablet support, sell anywhere within your store."
+390bc52a-b052-494b-8ade-32f8f5058210,Dynamic barcodes,"Embed price, weight, and loyalty programs directly into your barcodes."
+3bdde7c0-b814-4502-9f16-7d2c68021bea,Order history,"View all past orders. Search them by customer, product, cashier, or date."
+f2b3bd02-53aa-409b-9642-0bddf0d21d23,Daily sales,Keep track of daily sales and totals for every payment type.
+f228dd9b-cf13-4e15-b17c-df151e03b7c3,Cashier accounts,"Manage multiple cashier accounts and secure them with badges or pin codes."
+0f7115df-3f83-4600-a4cc-dd324c5c2c33,Cash flows,"Monitor cash register adjustments and easily verify cash content at the end of the day."
+df5449c3-bc39-4a3f-9d0f-8a0ba90d1f7c,Stock & Inventory,"Monitor your stock in real-time, manage your inventory across all locations, and review shipments with the Odoo stock integration."
+9ced3e04-36f1-4198-b73b-0f68ed617358,Franchises,"Pre-configure your franchise stores, overview their sales, and centrally manage their stock and accounting."
+350886ca-79ea-4c69-bdaa-dd5f74b5200c,Self-service,"From the kiosk or their smartphone, your customers can do everything themselves, from order to payment."
+607f9704-0ea0-45dd-ac43-46f8b5c2926b,Preparation display,Know from your tablet which order must be prepared and when.
+24081bb2-7ca7-4e2b-91d5-4373206c6104,Frontend customer registration,"Identify your customers by registering their email and contact address, allowing you to keep track of individual sales."
+072fd9d6-dd93-4e39-bb03-50d67d4e8213,Identify customers,"Look up your customers with the built-in search feature or identify them with a barcode printed on their loyalty card."
+53725cbe-8e6a-4a84-961c-057661755c32,Customer discounts,"Create and offer discounts to retain customers and increase your revenue. Discounts can be permanent, time-limited, or seasonal."
+3f9ece1d-9f94-4e01-b4c3-f99a8f4f1c58,Loyalty cards,"Reward your customers with loyalty points and exchange them for gifts or discounts. Points can be earned by product, order, or sale amount."
+0edc1182-534a-431d-9351-5bffc63ccdb2,eWallet,"Credit your eWallet via top-up or product refund. Bump up retention while keeping your clients happy."
+c2c387ae-ccd9-443d-a466-996a011630a6,Pricelists,"Use pricelists to adjust product prices automatically (eat-in or takeaway). Set POS-specific prices, create temporary discounts, reward specific customers, or offer discounts when set quantities are ordered."
+66202056-8904-46c7-a306-09e25d9bec41,Product categories,"Organize your products with hierarchical product categories. Order them by popularity and display different categories at different points of sale."
+125814cf-91df-4c05-8cea-28f4d0908a74,Product search,"Quickly find products by name, barcode, or description with the built-in search function."
+3f8c8e67-11eb-4ad7-a68d-b8e76fac89e4,Units of measure,"Sell your products with custom or preset units of measure and update your stock accordingly."
+6da5e4ef-1b48-49b5-ab36-125778f938ca,Multiple barcodes,"Configure multiple barcodes for the same product with barcode nomenclatures."
+69a94051-9ea2-4f8a-9398-d4a980e6e1a2,Product variants,"Sell different sizes, colors, or configurations of the same product with product variants."
+b3a39e4e-9df8-4a50-a27c-e4d080258153,Product availability,"Decide whether or not a product appears available or out of stock at your point of sale."
+184c6361-827d-4f30-92b4-3d43a00e7f05,Weight your product,Decide if a product must be weighted using an integrated scale.
+761f548b-6663-4615-81a4-082566d849d6,Ship later,"Sell products, arrange delayed delivery, and choose the desired shipment date."
+849d1519-1cb1-4c69-9e3e-1587b17b1208,Gift card,Sell gift cards of any amount with or without a validity date.

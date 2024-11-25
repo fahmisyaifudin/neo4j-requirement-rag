@@ -1,0 +1,36 @@
+id,feature,sentence
+330a428f-4b58-4e4b-a3db-0524168a8170,Modern User Interface,"An intuitive user interface with smart filters gives a better overview of all your sales activities. Use tips and best practices to configure and deploy your CRM."
+35f075f9-7415-46cd-b199-0e9b00962ad2,Mobile,Use your CRM on the go with Odoo's mobile-friendly interface.
+c78bb1a6-4f46-4a28-9538-ef3a53626e7a,Inbound leads,"Get leads automatically created from emails, VoIP calls, social media reactions, website visitors, event attendees, support tickets, etc."
+e7bb66be-7d13-47bf-bcc9-5d63ecfb63a0,No more encoding,"Send quotes in just a few clicks, manage your pipeline with drag and drop, etc."
+1c8e6ddc-ed63-4b6a-a882-6ae620c232db,Set up activities,"Your planned calls are queued, ensuring a seamless switch from one task to the next."
+c9aa128b-9e13-49e8-84a7-d13947787a49,Leads Nurturing,"Create campaigns to automatically send emails tailored to the lead segment and activities of the lead. Get several marketing modules to boost leads acquisition from your website: Search Engine Optimization tool, form builders, a/b testing tool, etc."
+fe584fce-0a43-43fc-a1a1-2612eec61311,Predictive lead scoring,"Odoo computes the probability of success according to several criteria such as past performance."
+c078ba7a-a2a4-4e2f-a776-65cb4134890b,GeoIP,"Detect countries, states and cities of leads automatically from your visitor IP address."
+610e2c5b-10b8-4a46-87c3-1889b6a344f9,Live chat,"Activate Odoo Live Chat on your website to talk to your visitors and convert them into leads. Define rules for key countries or pages. Chatbot sends predefined messages automatically."
+d1c5169d-2af0-4b9e-a93d-719669a4ebb7,Deduplication,"Get proposition of leads to merge when converting a lead into an opportunity. Create contacts automatically based on leads."
+7b71a8c3-4fe9-4162-9b51-415a97b969ef,Assignation Rules,"Define your own rules to assign leads to the right sales team or sales person based on quotas and segments."
+f4d906db-2e24-48ee-983f-19dea458eb75,URL trackers,"Track the source of the leads using UTM trackers in all your marketing campaigns."
+b5683b9a-e2b8-49ba-be01-2c6558978d19,Lead mining,Generate new leads directly into your Odoo database.
+5056009a-10ae-4c23-9b23-4a20ed3213bc,Lead enrichment,"Enrich contacts' information based solely on an email address or a phone number."
+221b2621-1ffe-468b-86cc-86539c079463,Activities and calls management,"Effectively manage activities and calls by organizing their order and scheduling them for each opportunity, while promptly logging and analyzing them in the opportunity's chat. Additionally, monitor and record your team's activities to ensure efficient workflow management."
+dc2ada60-2d27-4aac-9c4b-4ca4a9d38394,Pipeline management,"Get a clear overview of the opportunity pipeline. Work faster with the drag & drop interface. Set up specific stages for each sales team.Analyze lost reasons on your opportunities to improve your sales effectiveness."
+49ee0cc1-5e31-4802-a3ab-bdc5a90a4124,Customize stages,Customize your pipeline by adding a description on stages.
+a072e5d8-6cba-4191-a7bf-0105e1e9b7cf,Schedule Meetings,"Schedule meetings from the opportunity of customer. Sync with mobile phones and Google calendar."
+ee614aa3-174e-4c54-baf7-ce68672c3287,Plan Next Actions,"Plan next actions and schedule your daily work based on most important opportunities and tasks."
+36a0ea1b-d79d-44d2-b790-53bc46f17d1f,360° Visibility,"Get all information right into the opportunity: pages visited on your website, mails, meetings, next actions, preceeding orders, etc."
+d73e546d-d2c5-4735-b908-53250cd8e3dc,Log Calls,"Log calls in the chatter or trigger VoIP calls in just a few clicks. Odoo proposes to automatically reschedule the next action after the call."
+b491975d-2345-47c2-886f-e62c8907c5d9,Address Book,Get a clear address book shared amongst your sales persons.
+fb44cb15-a0c6-47ae-89b4-2eb876ef02d4,Customer Preferences,"Set customer preferences easily: language, delivery methods, financial data, etc."
+8376458a-7772-4474-ba2f-250373d66f45,Multi-Address,Have multiple addresses and contacts for a single company.
+70bcefb2-5f62-4672-b914-e1a214025780,Full History,"Get the full history of activities attached to any customer: opportunities, orders, invoices, total due, etc."
+53a65dba-3b8e-4d59-a942-a0a20ca976f2,Emails Templates,"Create template of emails for most common communications with your customers or opportunities."
+10d2ff34-18d4-48bd-a761-fa569c558909,Email Gateways,"Get all your email communications automatically attached to the right opportunity. Create new leads automatically based on incoming emails."
+c43bf377-fc4b-4647-9b0b-e636e38345ea,VoIP,"Create a dial queue on customers or opportunities, call from the browser automatically or manually. Log calls automatically, open the customer form, automate next actions, etc. Reschedule or send email for failed calls. An auto pop-up is generated for receiving calls. Integrated with Asterisk v13.2 VOIP server."
+9b0dcc6c-2f0d-4429-9c41-67358f3316bc,Custom Alerts,"Follow key opportunities in just a click and get alerts based on relevant activities."
+a34694d7-3db9-4241-b541-88368eca63ec,Multi team,A salesperson can be in multiple teams
+ae08fd03-8087-4526-8e2c-b989f3643efa,Dashboard,"Use predefined dashboards or build your own with the advanced reporting engine. Share filters with the team."
+2d7fce98-b882-4b65-beb9-a869e0bb1861,Opportunities Analysis,"Analyse your opportunities pipeline with advanced filters, grouping, drill down, etc."
+469d02e9-577c-4221-914a-0d2de40c259f,Cohort Analysis,Keep track of the evolution of your KPI's over time and detect trends.
+bb80b09c-c63e-4453-a1a6-d7acb696fba6,Leads Analysis,"Get statistics about your sources of leads to evaluate the ROI of your marketing campaigns."
+714514b5-8959-45dc-b4a2-5715030f2430,CRM Dashboard,Visualize your sales teams KPI's at a glance.

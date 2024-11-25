@@ -1,0 +1,188 @@
+id,feature,sentence
+e61f9b9d-6013-4e8e-867d-3780315098c2,Record stock status,The system shall allow the Sales Assistant to enter the product name when recording the stock status for a new product.
+4a3f9539-71ef-43b4-ac9f-38affcbd18f0,Record stock status,The system shall enable the Sales Assistant to input the quantity of the new product being added to the stock.
+883786a9-a36d-4763-b1a9-f4f0fd25119b,Record stock status,The system shall require the Sales Assistant to enter a unique stock number for the new product.
+0b985b98-5735-4271-a2b0-58adbce79d8d,Record stock status,The system shall provide an option for the Sales Assistant to add the product to the stock after entering the required details.
+e0e8172e-d407-4f69-a4a4-0f39979d3ab4,Record stock status,"Upon successfully adding a new product, the system shall generate a unique product number for the new product."
+4afcc1d0-99e4-4db2-8e7f-2f2d80206fb2,Record stock status,The system shall update the stock to reflect the new quantity of the added product.
+a682fb54-6366-45c6-ae02-7c8e24df5d33,Record stock status,"The system shall display a confirmation message showing the product name, product number, and updated stock quantity after the product is successfully added."
+14d70972-7f2f-4a38-b259-ed8587406305,Update stock status,The system shall allow the Sales Assistant to search for an existing product using either the product number or the product name as access keys.
+07a620a9-8c0c-4cd5-9b97-01fa7fd597ec,Update stock status,"The system shall display the details of the existing product when found, including its current quantity and stock number."
+68c0a16c-fec9-4ca5-9207-4b541761d594,Update stock status,The system shall allow the Sales Assistant to update the quantity of the existing product.
+82ec8cc4-6342-4d40-a856-7d803c54528d,Update stock status,The system shall allow the Sales Assistant to update the stock number of the existing product.
+4494c1ef-a3cc-4848-a43c-e44d8fd5e04e,Update stock status,The system shall provide an option for the Sales Assistant to accept the changes made to the product details.
+69b5b69d-bb92-4d1b-8e23-472f81180c8c,Update stock status,"Upon acceptance of the updated product details, the system shall save the changes and update the stock with the new quantity and stock number."
+9f201428-8309-4ba4-8b81-67514a8a427d,Update stock status,The system shall display a confirmation message showing the updated quantity and stock details after the product has been successfully updated.
+33db9066-8a51-4373-b374-f66c15436d8a,Update stock status,The system shall notify the Sales Assistant if the searched product cannot be found using the provided access keys.
+d8ce61bb-9b01-440d-a5c3-4df5a5691508,Record product price,The system shall allow the Sales Assistant to enter the product name when recording the price details for a new product.
+125ad59a-a2ce-4ce3-aa79-f0096ca5fc37,Record product price,The system shall enable the Sales Assistant to input the retail price for a new product.
+228ff569-020d-4158-8f4b-fa3cdff36cc8,Record product price,The system shall allow the Sales Assistant to enter the wholesale price for a new product.
+72e1bade-df9d-499d-b8aa-32862bd334c4,Record product price,The system shall provide an option for the Sales Assistant to specify the wholesale quantity when recording the wholesale price.
+1aed1fb4-258d-4377-9a88-1de701106294,Record product price,The system shall enable the Sales Assistant to input the contract price for a new product.
+8ff60e36-0f00-495d-ad1a-dcc8d3b795a2,Record product price,The system shall provide an option to add the new product after all required details have been entered.
+1cb7bf4d-17be-4294-b14b-ae45b5697a35,Record product price,"Upon successful addition of the product, the system shall generate a unique product number for the new product."
+59c0e138-64e7-4c76-a3a7-0dc7cb2af593,Record product price,"The system shall store and display the entered prices (retail price, wholesale price, and contract price, if applicable) along with the wholesale quantity for the new product."
+30ec1003-6e25-480a-8bf9-e57146bd2f22,Record product price,The system shall notify the Sales Assistant if any required fields are missing or invalid during the product addition process.
+dcf45e4f-3535-4968-b917-14f77190109b,Record product price,"The system shall display a confirmation message with the product name, product number, and recorded price details after successful product addition."
+56ddcebc-98d7-41a4-b3a9-b979ea8aaa9d,Update product price,The system shall allow the Sales Assistant to search for an existing product using either the product number or product name as access keys.
+dda44bb7-3aee-49eb-b520-6e0eec55f563,Update product price,"The system shall display the current price details of the existing product, including retail price, wholesale price, wholesale quantity, and contract price, when found."
+f3ace772-a3e6-48c2-8411-6a95911d0be0,Update product price,The system shall enable the Sales Assistant to update the retail price of the existing product.
+9c03d083-84af-4444-af66-a94b36fbb237,Update product price,The system shall allow the Sales Assistant to modify the wholesale price of the existing product.
+a36cb917-b5bc-4662-8d8b-57596c91e7bb,Update product price,The system shall provide an option to update the wholesale quantity associated with the wholesale price of the product.
+a1802ec7-19bc-454c-9ff1-74f0c867fd49,Update product price,The system shall enable the Sales Assistant to update the contract price of the existing product.
+9d4f2c4c-e42a-471c-8e76-1d189115a9ff,Update product price,The system shall allow the Sales Assistant to accept the updated product details and save the changes.
+45702800-0579-4577-a1ee-ff8af5f48eb8,Update product price,"Upon accepting the changes, the system shall update the product record with the new or modified price details."
+dcba7c6c-7c1e-4aa2-9e4f-f959876f44c8,Update product price,"The system shall display a confirmation message indicating the successful update of the product prices, including all updated values."
+8c0d5a40-3cab-4a11-a88a-65e99496b0f5,Update product price,The system shall notify the Sales Assistant if the searched product cannot be found using the provided access keys.
+14171841-9ced-4a95-a1a5-158af8ad7a5b,Update product price,The system shall validate the entered price values and notify the Sales Assistant of any errors or missing required fields before saving the changes
+1b3ebbee-098b-402f-8c30-ad1fba2dbc17,Record customer,The system shall allow the Sales Assistant to enter the first name and last name of a potential customer.
+e2123b20-3a75-4939-b1cc-a30d6c97f233,Record customer,The system shall enable the Sales Assistant to input the ID card number of a potential customer.
+7c2d4c23-b312-4eec-b2cc-c847b78b0081,Record customer,"The system shall allow the Sales Assistant to enter the address details of a potential customer, including address number, street, ward, district, and city."
+075215f0-090b-414a-ab2a-9205de47723b,Record customer,The system shall enable the Sales Assistant to record the phone number and cell number of a potential customer.
+c0fe91a3-c62c-4b1c-9fda-9a0bc4a6ac5c,Record customer,The system shall provide an option to enter the email address of a potential customer.
+db83e100-6eec-4b8f-8143-ec0afd7d0236,Record customer,The system shall allow the Sales Assistant to add the new customer after entering the required personal data.
+77a57e05-63ee-46f4-b130-f2fa94d7997c,Record customer,"Upon successful addition, the system shall generate a unique customer number for the new potential customer."
+a5206433-4209-462d-99d3-de1946f94092,Record customer,"The system shall store the personal data of the potential customer, including all entered fields, in the customer database."
+4f3ce2f1-a343-4246-8d7d-0e5257539dcb,Record customer,"The system shall display a confirmation message containing the customer name, customer number, and a summary of the recorded data after successful addition."
+d944f82c-56d0-4beb-9c7a-d5b379e0effb,Record customer,The system shall validate all required fields before adding a new customer and notify the Sales Assistant of any missing or invalid data.
+4e7ee4cc-3a00-4988-8641-834f5a00ca10,Record customer,The system shall ensure that the ID card number is unique and notify the Sales Assistant if the entered ID card number already exists in the database.
+6d449a21-6e94-4c22-a062-efee364ba285,Update customer,The system shall allow the Sales Assistant to search for an existing customer using either the customer name or customer number as access keys.
+f10f0e9c-1857-4f66-8e1f-2c109c42fb0d,Update customer,"The system shall display the current personal information of the customer when found, including first name, last name, ID card number, address, phone, cell, and email."
+1a497cb4-b6f6-4969-9bbd-c32fe7608c09,Update customer,The system shall enable the Sales Assistant to update the first name and last name of an existing customer.
+d1a305ff-93ef-45ed-8ddf-1b7f9612f6d3,Update customer,The system shall allow the Sales Assistant to modify the ID card number of an existing customer.
+1d9b5fe3-702c-40b8-86d0-c0bce38d3c08,Update customer,"The system shall provide an option to update the address details of an existing customer, including address number, street, ward, district, and city."
+86692c68-a2b0-477d-a9a1-0478fa5d044a,Update customer,The system shall enable the Sales Assistant to update the phone and cell numbers of an existing customer.
+3ceadcff-5445-41c9-830a-67510b703517,Update customer,The system shall allow the Sales Assistant to update the email address of an existing customer.
+c5eabd79-d5f8-4bbb-855b-60bf790f290e,Update customer,The system shall allow the Sales Assistant to accept the changes made to the customer's personal information and save the updates.
+abef1f71-5f50-49de-a98b-e317f3572a34,Update customer,"Upon accepting the updates, the system shall save the new personal data of the customer in the database."
+bbe6309c-f1b0-4a46-98ec-6143f29b6fb6,Update customer,The system shall display a confirmation message summarizing the updated information after the changes are successfully saved.
+cb052de8-84ec-4e68-9ddb-b6505a3b3915,Update customer,The system shall validate the updated fields and notify the Sales Assistant of any errors or missing data before saving the changes.
+3e9c6401-854c-4863-a665-710df318f728,Update customer,The system shall ensure that the updated ID card number is unique and notify the Sales Assistant if it matches an existing record.
+756c29c3-b9b0-4c37-ab9a-73c7908e6fd3,Make contract,The system shall allow the Sales-Assistant to find an existing customer for creating a new contract by providing either the customer's name or customer number as access keys.
+5116ed99-57af-41e6-8cc8-82a858a11ddf,Make contract,The system shall enable the Sales-Assistant to find an existing staff member for the new contract using the staff name as the access key.
+52a84349-c307-4e43-bb4d-8cfcdb865e50,Make contract,The system shall support the Sales-Assistant in finding an existing product for the new contract by using the product name as the access key.
+5ba33f5d-3e31-4749-994b-dfc037d9f176,Make contract,The system shall allow the Sales-Assistant to enter the quantity for the selected product when creating a new contract.
+d92f28f0-d697-4dba-9632-5a156cfa8878,Make contract,The system shall enable the Sales-Assistant to add the selected product to the contract.
+380f36b5-e847-4b2a-a3c4-de229bb4f192,Make contract,The system shall allow the Sales-Assistant to continue finding and adding additional products to the contract until all products are included in the contract.
+d876e43a-fdf6-4c9a-a114-50ab73141a6a,Make contract,"The system shall provide the capability for the Sales-Assistant to enter terms and conditions, payment due date, delivery due date, and contract date for the new contract."
+44c84cad-e678-47f0-9c6d-141f06c08a84,Make contract,The system shall generate and store a new contract with a unique contract number and the contract creation date once all details are entered by the Sales-Assistant.
+0b4419a7-83ca-444f-a202-4a43de9776d4,Update contract,The system shall allow the Sales-Assistant to find an existing contract that has not been carried out yet by accessing it with the contract number.
+dad5f365-5805-49cd-9d4f-51bc9dedc527,Update contract,"The system shall provide an option for the Sales-Assistant to search for a contract by selecting the Customer using access keys such as the customer name or customer number, in case the exact contract number is forgotten."
+4c916c83-aacd-43b5-ad18-32cfeac2a8f2,Update contract,The system shall enable the Sales-Assistant to locate a contract by using a partial contract number if the full contract number is not available.
+241e8b00-efe5-44d8-9d02-264350eb11e0,Update contract,"The system shall allow the Sales-Assistant to update contract information by entering necessary updates including contract terms and conditions, payment due date, and delivery due date."
+c520c45b-e137-4ca0-a0e7-4e6f4f359c27,Update contract,The system shall provide functionality for the Sales-Assistant to change the assigned staff for the contract by using the staff's name as an access key.
+40b7afde-0ae5-4ee0-ad30-6a04816b0523,Update contract,The system shall allow the Sales-Assistant to update the product details associated with the contract sale by using the product name as an access key.
+f217adec-2095-4d49-bffe-346979d10126,Update contract,"The system shall ensure that once all necessary updates are entered, the Sales-Assistant can accept and finalize the updated contract."
+ec427402-ac93-4327-87d7-86216a23388c,Update contract,The system shall generate and store updated contract sale data with a new contract creation date after the Sales-Assistant accepts the updated contract.
+e33d0cfc-b33c-4fe8-bfad-30de5dce1323,View contract,The system shall allow the sales assistant to view an existing contract on the screen by finding the contract using the contract number as the access key.
+a689658d-3a6d-4c58-bea5-367209e70490,View contract,"The system shall provide the option to search for a contract by selecting a customer using customer name or customer number as access keys, in case the sales assistant forgets the exact contract number."
+8dcc86d4-f80f-42f2-b482-08e11b3e474a,View contract,The system shall enable the sales assistant to find a contract using a partial contract number as an access key after selecting the customer.
+6e7b29ae-3c52-49d7-8932-e331c95f1781,View contract,The system shall provide the functionality to display the existing contract sales data on the screen for the sales assistant.
+9d209520-9147-4d7a-9d4c-907d3e5cd0e4,View contract,The system shall allow the sales assistant to print the contract once it is viewed on the screen.
+a136e1b0-202a-4ab6-8f5b-c1de9778118a,Add delivery contract,The system shall allow the Sales-Assistant to find a contract delivery product using access keys that include the product name or the product number.
+45516537-6141-4f17-819c-7f5625fb7a59,Add delivery contract,The system shall enable the Sales-Assistant to enter a contract delivery quantity for a given product.
+492bc74d-7e7f-452b-a0ca-a27ff71d4a85,Add delivery contract,The system shall provide the capability for the Sales-Assistant to add additional products to the same delivery until the last product is entered.
+cadb0cd7-d04e-416c-af79-4c82c8bf2dd2,Add delivery contract,The system shall require the Sales-Assistant to input a delivery receipt number for each delivery.
+24905124-3c0f-4416-b796-183c136522f2,Add delivery contract,The system shall require the Sales-Assistant to input the delivery date for each contract sale delivery.
+bbd0a8c2-2c69-4341-afbb-946a458c6d59,Add delivery contract,"Upon successful addition of a delivery, the system shall update with the new delivery data for the contract sale."
+d5fce2e5-97e1-4e07-a1a7-483cb9ce67c8,Add payment contract,The system shall allow the Sales-Assistant to find an existing contract using the contract number as the access key.
+ddbd74ca-c756-408c-8ea9-be2eb9104195,Add payment contract,The system shall provide an option for the Sales-Assistant to select a customer by using either the customer name or customer number if the exact contract number is forgotten.
+0e651f80-69b3-4403-a206-c6a8b22141b8,Add payment contract,The system shall enable the Sales-Assistant to locate the contract using a partial contract number after selecting the customer.
+c7985d30-572b-45be-9b58-c4ae2d517ec3,Add payment contract,The system shall allow the Sales-Assistant to select the payment option for a contract sale.
+1870a991-db42-44fc-9403-d9917b78169a,Add payment contract,"The system shall enable the Sales-Assistant to enter payment data, including payment sum, payment date, and payment receipt number."
+dffc0552-81a1-420b-9418-cec425c52e34,Add payment contract,The system shall add the new payment data to the corresponding contract sale once the Sales-Assistant submits the payment information.
+54691438-2593-443b-8ec8-19f796290e07,Record wholesale,The system shall allow the Sales-Assistant to find an existing customer for a new wholesale by using either the customer's name or customer number as access keys.
+54f3cc34-7c8f-40e0-a46f-83520feb5c13,Record wholesale,The system shall enable the Sales-Assistant to find an existing product for a new wholesale using the product name as an access key.
+b6a796f7-64f5-4cb6-ba5a-736cca8ef440,Record wholesale,The system shall permit the Sales-Assistant to enter the quantity for the selected product if the customer purchases more than the minimum wholesale quantity defined in the system.
+f53b067b-418f-43a9-93ee-f73ba3d49c00,Record wholesale,The system shall allow the Sales-Assistant to add the selected product to the wholesale order.
+050483a7-494b-48be-a801-19fd95c25e40,Record wholesale,The system shall enable the Sales-Assistant to find the next product and continue adding products to the wholesale order until all desired products are included.
+dfef1e70-4195-46bc-9447-098c0ff1d251,Record wholesale,The system shall generate a new wholesale entry with a unique wholesale number after all products have been added.
+19ef89c5-e8e2-46fd-a8a8-eee3af27841b,View wholesale,"The system shall allow the Sales-Assistant to view details of a wholesale on the screen by finding an existing wholesale using the access key ""wholesale number""."
+30c29bf6-a1ee-44c5-a10f-5866525ec8c4,View wholesale,"The system shall provide the functionality to select a Customer using access keys such as ""customer name"" or ""customer number"" if the Sales-Assistant forgets the exact wholesale number."
+d3a75bd3-2a0a-4cf1-949b-a7c383d9d368,View wholesale,The system shall enable the Sales-Assistant to find a wholesale by utilizing a partial number of the wholesale as an access key after selecting a Customer.
+0fb0d660-1247-4378-90e1-4c2e444e1794,View wholesale,The system shall allow the Sales-Assistant to view or print the existing wholesale data.
+e6bc21be-c452-465d-bcad-bf3e78023e4a,Add delivery wholesale,"The system shall allow the Sales Assistant to find an existing wholesale using the access key, which is the wholesale number."
+2cf382b5-e987-4ff6-89c1-58c97e8798aa,Add delivery wholesale,"The system shall provide an option for the Sales Assistant to search for a wholesale by selecting a customer using access keys, such as customer name or customer number, if the exact wholesale number is forgotten."
+0955d54c-20b8-47b8-816a-c9c8092c4a22,Add delivery wholesale,The system shall enable the Sales Assistant to further refine the search for a wholesale by using access keys like the wholesale partial number.
+62269738-f131-4704-a707-3eb654ec3157,Add delivery wholesale,The system shall allow the Sales Assistant to select a delivery associated with a wholesale.
+c0084863-ec5b-4c7c-ac33-1d72a34f6fe5,Add delivery wholesale,"The system shall facilitate the identification of wholesale delivery products using access keys, including product name or product number."
+b0692ce3-6289-46a5-a98a-0a4014b0a76b,Add delivery wholesale,The system shall enable the Sales Assistant to enter the wholesale delivery quantity for a specified product.
+bbde7609-ee8a-4b25-9c3e-8e97d911daad,Add delivery wholesale,The system shall support adding multiple products to the same delivery until the final product is added.
+7908a014-8686-4829-9473-ee1bab620116,Add delivery wholesale,"The system shall require input of delivery data, including delivery receipt number and delivery date, from the Sales Assistant."
+4b591472-d649-4b34-b0c7-991855b63caf,Add delivery wholesale,The system shall add new delivery data for the wholesale upon completion of the entry process.
+b2f1bea6-13f7-4c44-bf68-da5c4a31fa03,Add payment wholesale,"The system shall provide functionality to find an existing wholesale using the access key, which is the wholesale number."
+738be3d3-b4bc-4b6a-921d-a826fccfbb39,Add payment wholesale,"The system shall allow users to select a customer by access keys, such as customer name or customer number, in case the exact wholesale number is forgotten."
+47b65308-ab80-42f3-80dd-fbca2f61c786,Add payment wholesale,The system shall enable users to find a wholesale using a partial wholesale number as the access key after selecting a customer.
+899079c6-49d9-4b2a-99a6-74c1a1f5adbf,Add payment wholesale,The system shall allow users to select and access the payment section for a specific wholesale transaction.
+44c923b9-49e6-4c86-a9bb-46fa09ed75fc,Add payment wholesale,"The system shall provide an interface for users to enter payment data, including payment sum, payment date, and payment receipt number."
+ad846694-d00f-4ac6-aa89-b9b485ffd2e3,Add payment wholesale,The system shall process and record new payment data for the wholesale transaction once the payment is added.
+1a22d10d-7071-4095-94c0-890fa28bac67,Add payment wholesale,The system shall ensure that only a Sales-Assistant is authorized to perform the actions related to adding payments for wholesale transactions.
+ee7793de-65a8-4ade-bec6-5f56b32ffb8a,Record retail,The system shall allow the Sales-Assistant to find an existing customer by entering either the customer's name or customer number when recording a new retail.
+3d72e93c-13ac-4659-ba71-fd6ed1b93fb0,Record retail,The system shall enable the Sales-Assistant to find an existing product by entering the product name for inclusion in a new retail.
+7b76a9df-c20a-46d7-a702-f57132f3d9d4,Record retail,The system shall allow the Sales-Assistant to enter the quantity for a selected product during the process of recording a new retail.
+cfd2a427-2d57-4c17-8c48-c727a3ad2d48,Record retail,The system shall provide the functionality for the Sales-Assistant to add a selected product and its quantity to the retail record.
+d67240ae-35d6-4e03-aa8c-992e73c67c85,Record retail,The system shall support the Sales-Assistant in finding additional products and adding them to the same retail record consecutively.
+84ffad8d-5c72-48de-9585-3c16823e8c10,Record retail,The system shall generate a new retail number for each new retail record created by the Sales-Assistant.
+4bacfd9d-3eeb-441f-b8bb-71720b404997,View retail,"The system shall allow the Sales-Assistant to view retail details on the screen by finding an existing retail using the access key, which is the retail number."
+a5d5f14c-9de6-4cb9-81ee-4ca651604928,View retail,The system shall provide an option for the Sales-Assistant to search for a Customer using access keys such as customer name or customer number in case the exact retail number is forgotten.
+b0bbbb63-1282-4fa6-9c79-9f2da049fed9,View retail,The system shall enable the Sales-Assistant to find the retail details by using a partial retail number as the access key after selecting the customer.
+f7902c92-7240-4bc8-8bf9-fb7fa757fa83,View retail,The system shall display the existing retail data upon successful identification of the retail by the Sales-Assistant.
+2f3e84de-4861-4df5-bb0b-f0d9aa5bffdf,Add delivery retail,"The system shall allow the Sales-Assistant to find an existing retail delivery using the access key, which is the retail number."
+33733d7b-c3cf-4d89-85fc-e273d2b7a5c4,Add delivery retail,"The system shall provide an option for the Sales-Assistant to select a customer by access keys such as customer name or customer number if the exact retail number is forgotten, and then find the retail by a partial retail number."
+a6e19d47-1ba1-4701-9eff-07fde71bb3eb,Add delivery retail,The system shall enable the Sales-Assistant to select a delivery for the identified retail.
+d9c330b8-2f4b-444a-8e72-8eccc8791312,Add delivery retail,The system shall allow the Sales-Assistant to find a retail delivery product using access keys like product name or product number.
+c071cfbf-3990-48da-a20e-cb1020b41470,Add delivery retail,The system shall enable the Sales-Assistant to enter the retail delivery quantity for a selected product.
+f961e9b5-7646-4d59-b0d1-b0fe8e6e0f33,Add delivery retail,The system shall allow the Sales-Assistant to add multiple products to the same delivery until all desired products have been added.
+cf617f07-1533-4405-abfc-a6866eca88c8,Add delivery retail,"The system shall require the Sales-Assistant to enter delivery data, including the delivery receipt number and delivery date, before completing the delivery process."
+d5652f88-e8f9-42ae-9e5b-129bb6970a80,Add delivery retail,The system shall add the new delivery data for the retail once the required information has been entered.
+92dae923-86ff-4a74-9354-75e2aa4e2b65,Add payment retail,The system shall allow the Sales-Assistant to find an existing retail transaction by entering the retail number as an access key.
+4660dc33-5326-44a0-9a7f-ea653a392d76,Add payment retail,The system shall provide an option for the Sales-Assistant to select a Customer by entering either the customer name or customer number as access keys if the exact retail number is unknown.
+8dd0ce60-f79b-496f-8596-c4177048c734,Add payment retail,The system shall enable the Sales-Assistant to locate a retail transaction by entering a partial retail number as an access key once the Customer is selected.
+e78f72ce-79d8-4bcd-b815-65c642f03c73,Add payment retail,The system shall allow the Sales-Assistant to select an existing retail transaction for payment processing.
+8de15473-53df-4b13-a0c5-67252c27a3fb,Add payment retail,"The system shall provide a form for the Sales-Assistant to enter payment data, including payment sum, payment date, and payment receipt number."
+835ecf24-6ef2-4cba-90d6-dcb7738cfb4e,Add payment retail,The system shall record the new payment data for the selected retail transaction upon entry by the Sales-Assistant.
+6e7084c2-496b-4e4f-bf34-b026fe591885,Record returned product,The system shall allow the Sales-Assistant to find an existing customer for a returned product using the customer name or customer number as access keys.
+b5954fd6-14e8-4a42-b562-24baaf4b1ceb,Record returned product,The system shall enable the Sales-Assistant to find an existing product for a returned product using the product name as an access key.
+845ed7e0-a706-49a7-ad6f-0a1fba4f5f4d,Record returned product,The system shall allow the Sales-Assistant to enter the returned product quantity and stock number for the selected product.
+1ad20b30-a738-4a9c-9a6d-74bab56895c1,Record returned product,The system shall enable the Sales-Assistant to enter the returned product price.
+2a334122-39f3-46c9-a584-3a5a168c3fcc,Record returned product,The system shall accept the returned product and process the return transaction.
+8a619a3c-0181-4244-b0be-cd20582ba20c,Record returned product,The system shall allow the Sales-Assistant to enter the payment receipt number and payment date for the returned product transaction.
+2578a1e3-c880-4a43-9cf2-f0a7161ef6d5,Record returned product,"Upon accepting the returned product, the system shall update the new quantity in stock and reflect any adjustments in inventory."
+147cc4ba-135e-4179-97c7-6abe950176cc,Record returned product,The system shall record the new payment details following the return transaction.
+994d7b93-79eb-4beb-b7b0-1d5818cac54c,Record feedback,The system shall allow the Sales-Assistant to record feedback for a returned product by finding an existing customer using either the customer name or customer number as access keys.
+d836c65f-08bf-4ab7-8c4c-ebf4d5b842db,Record feedback,The system shall provide an interface for the Sales-Assistant to enter feedback related to a returned product once the correct customer is found.
+66de571a-1a20-4e16-96a3-cde6ab5a0095,Record feedback,The system shall add the newly entered feedback data to the customer's record in the system.
+b996dc4d-6946-4125-8758-4c9daa06ac7a,Record feedback,The system shall ensure that the new feedback data is stored accurately and is associated with the correct customer profile for future reference.
+f30d39a5-0ad8-4199-bd0c-e4fbbe04e2c1,Browse product information,The system shall provide the Sales-Assistant with a report containing the current stock status of all products.
+51d8aa6d-0c6f-45aa-9737-46b77272423a,Browse product information,The system shall enable the Sales-Assistant to access a report listing all products along with their retail prices.
+de8d686c-e986-498c-a0df-e0802865e1f8,Browse product information,The system shall generate a report for the Sales-Assistant that includes the wholesale price and quantity for each product.
+3d1f22aa-54ef-4fc2-a0b3-f969ba3f56d1,Browse product information,"The system shall ensure that the Sales-Assistant can browse through product information, including stock status, retail price, and wholesale price and quantity."
+8769a9ad-af67-4230-83a9-2a3802f7e597,"Browse customer information""",The system shall allow the Sales-Assistant to access detailed customer information to facilitate browsing and reporting tasks.
+3198e149-05f2-454c-a07a-4d2deb54b750,Browse customer information,The system shall provide functionality for the Sales-Assistant to sort customer information by district to aid in report generation.
+84f331ef-c6fa-42aa-a5bd-fd0b54e0ca68,Browse customer information,The system shall produce a detailed report of customer information upon request by the Sales-Assistant.
+334e8af6-f711-41da-83c3-f3ffd6deaa7c,Browse customer information,The system shall generate a customer list report sorted by district when initiated by the Sales-Assistant.
+ed2caa6c-8c2c-490f-9e90-1859b0a9985d,Browse customer information,The system shall ensure that the customer information accessed by the Sales-Assistant is current and up-to-date for accurate reporting.
+1ce40c57-b281-45cf-a8df-7daf062acde9,Browse sales information about delivery,"The system shall allow the Sales Assistant to browse delivery information related to contract sales, wholesale, and retail."
+536c0789-d6b4-443e-9fae-505f30d3aa04,Browse sales information about delivery,The system shall enable the Sales Assistant to generate a detailed report of deliveries to a customer for a specified period.
+f1c70dc8-6b87-44fc-b1f8-e548d627edb8,Browse sales information about delivery,The system shall provide a report containing a detailed list of contract sale deliveries for the Sales Assistant.
+7ca712cf-3f23-48e1-b01e-344b47e78c25,Browse sales information about delivery,The system shall produce a report with a detailed list of wholesale deliveries accessible by the Sales Assistant.
+85f2c171-23e7-4326-90b9-975cf31b2717,Browse sales information about delivery,The system shall generate a report detailing retail deliveries for the Sales Assistant to review.
+76a466d2-4181-47a0-a21a-a4938511ed1c,Browse sales information about payment,The system shall allow the Sales-Assistant to enter a specific time period or date to browse detailed sales information related to payments.
+c9ac41e4-c869-4324-a65a-72cb37293a89,Browse sales information about payment,The system shall generate a detailed report of payment listings for contract sales for the specified period when accessed by the Sales-Assistant.
+fa03c467-61f4-45ef-b6ef-db4a3cdfc9a8,Browse sales information about payment,The system shall generate a detailed report of payment listings for wholesale transactions for the specified period when accessed by the Sales-Assistant.
+d3f541d3-025e-49af-8902-5076dea80779,Browse sales information about payment,The system shall generate a detailed report of payment listings for retail transactions for the specified period when accessed by the Sales-Assistant.
+d3282737-ba15-472b-b6f9-2b9ce472bd31,Browse sales information about payment,The system shall enable the Sales-Assistant to view and analyze payment details related to contract sale deliveries within the chosen time frame.
+8343547c-caa4-4658-bbb8-1c0152abe364,Browse sales information about payment,The system shall enable the Sales-Assistant to view and analyze payment details related to wholesale deliveries within the chosen time frame.
+c40528f5-2d87-41ff-9711-96fa97632b1f,Browse sales information about payment,The system shall enable the Sales-Assistant to view and analyze payment details related to retail deliveries within the chosen time frame.
+7cd476c3-7eb2-4dcc-a7ba-b27c35f56a59,Browse sales information about all customers’ payment,The system shall allow the Sales-Assistant to enter a specific time period or date range to filter customer payment information.
+009a2bef-0070-4f06-8a4e-dc306b17b7c2,Browse sales information about all customers’ payment,"The system shall generate a detailed report of all customers' payment statuses for the specified time period, including the total amount purchased, total payments made, and the current outstanding debt."
+f371083a-32a2-45ce-90f9-cb8b2af1cdbd,Browse sales information about all customers’ payment,"The system shall provide the Sales-Assistant with the ability to browse and review the generated report, ensuring accessibility to comprehensive sales information."
+2435debf-b31d-4219-87cb-7f18e8889b22,Browse sales information about all customers’ payment,"The system's report shall present a clear and organized customer list, highlighting each customer's total purchases, payments, and debts within the selected timeframe."
+c24be8eb-e1f9-43eb-857d-0e7bd7dc3cf8,Browse sales information about one sold product,The system shall allow the Sales-Assistant to enter a specific time period or date to browse sales information about one sold product.
+fb944c0d-4c35-4d79-8f71-e919968f3ed7,Browse sales information about one sold product,The system shall generate a report listing customers' names and prices for a specified sold product within the entered time period or date.
+8aef5772-15b0-4332-a039-86ef55b90989,Browse sales information about one sold product,"The system shall enable the Sales-Assistant to view detailed information about one sold product, including different customers’ names and the prices at which the product was sold."
+74113268-0ee1-4c36-a9be-ce004f41e200,Browse sales information about one sold product,"Upon entering the time period or date, the system shall display a report of the selected sold product, facilitating the browsing of sales data by the Sales-Assistant."
+6b35d96f-1dcd-4f33-ad37-d514ad94e970,Browse returned product information.,The system shall allow the Sales-Assistant to enter a specific time period or date to generate a report about returned products.
+42ff77fe-f791-4b64-9c8d-1bdff9968fca,Browse returned product information.,"The system shall display a report of returned products that includes the customers' names and the prices of the returned products, after the Sales-Assistant inputs the desired time period or date."
+166defe8-d3d6-44ae-821e-a1945f261267,Browse returned product information.,The system shall enable the Sales-Assistant to browse through the report of returned products for a specified period.
+b97baee2-d5be-48fd-a6ca-e865f8b3a5ff,Browse returned product information.,"The report generated for the returned products shall include detailed information such as the list of returned products, associated customer names, and the corresponding product prices."

@@ -144,13 +144,7 @@ d64a1b65-3c14-469b-8051-7f8480d9446f,Reporting ,CORE:payment terminal, connects 
 d64a1b65-3c14-469b-8051-7f8480d9446f,Reporting ,CORE:POS system, allows to accept, CORE:credit cards  
 d64a1b65-3c14-469b-8051-7f8480d9446f,Reporting ,CORE:POS system, allows to accept, CORE:debit cards  
 d64a1b65-3c14-469b-8051-7f8480d9446f,Reporting ,CORE:payment process, is, CORE:more efficient  
-3a209ccb-afd5-4bbe-932c-83fa0013ecfb,Reporting ,CORE:graph,predicate,CORE:pivot view  
-3a209ccb-afd5-4bbe-932c-83fa0013ecfb,Reporting ,CORE:graph,predicate,CORE:filter  
-3a209ccb-afd5-4bbe-932c-83fa0013ecfb,Reporting ,CORE:graph,predicate,CORE:group  
-3a209ccb-afd5-4bbe-932c-83fa0013ecfb,Reporting ,CORE:graph,predicate,CORE:needs  
-3a209ccb-afd5-4bbe-932c-83fa0013ecfb,Reporting ,CORE:pivot view,predicate,CORE:filter  
-3a209ccb-afd5-4bbe-932c-83fa0013ecfb,Reporting ,CORE:pivot view,predicate,CORE:group  
-3a209ccb-afd5-4bbe-932c-83fa0013ecfb,Reporting ,CORE:pivot view,predicate,CORE:needs  
-3a209ccb-afd5-4bbe-932c-83fa0013ecfb,Reporting ,CORE:filter,predicate,CORE:group  
-3a209ccb-afd5-4bbe-932c-83fa0013ecfb,Reporting ,CORE:filter,predicate,CORE:needs  
-3a209ccb-afd5-4bbe-932c-83fa0013ecfb,Reporting ,CORE:group,predicate,CORE:needs  
+3a209ccb-afd5-4bbe-932c-83fa0013ecfb,Reporting ,CORE:graph,has,CORE:pivot view
+3a209ccb-afd5-4bbe-932c-83fa0013ecfb,Reporting ,CORE:pivot view,can be,CORE:filter 
+3a209ccb-afd5-4bbe-932c-83fa0013ecfb,Reporting ,CORE:filter,depends on,CORE:needs
+3a209ccb-afd5-4bbe-932c-83fa0013ecfb,Reporting ,CORE:group,depends on,CORE:needs

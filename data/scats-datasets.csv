@@ -1,0 +1,54 @@
+id,feature,sentence
+93e93241-0bc3-4955-bfb9-1c88590e6825,Employee Registration,The system must ensure that the Sales Manager is logged into the system before allowing access to the employee registration functionality
+6ded6f3f-5d28-4bfa-8182-8fd16120f14f,Employee Registration,The system must verify that the employee is not already registered in the system before allowing the Sales Manager to create a new user account
+5ea8a677-8f5f-48e9-b94d-963f19630f63,Employee Registration,The system must provide an interface for the Sales Manager to input and collect required employee data during the registration process
+aa767528-d42c-4817-abe0-db4842d7be39,Employee Registration,The system must allow the Sales Manager to create a new user account for the employee.
+a5ce2127-8c6e-4d2f-9733-8ab4597fe020,Employee Registration,The system must provide a functionality for the Sales Manager to define a unique username and secure password for the new employee.
+4824e0e2-5e5e-4f3e-8ac7-488abb5a0913,Employee Registration,"Once the employee account is created, the system must present or send the username and password to the Sales Manager for distribution to the employee."
+a9274c35-d0ca-4c63-a635-2bd269c2d2a5,Employee Registration,"After the employee registration process is complete, the system must maintain the Sales Manager’s login session and ensure the system menu is still displayed."
+32617737-6d40-41fe-ba11-bad6bd7b8990,Product Registration,The system must verify that the Sales Manager is logged into the system before allowing access to the product registration form.
+eadb5009-4827-420c-9294-ac9bd74d6bfd,Product Registration,The system must check if the product is not already in stock before allowing the Sales Manager to register the new product.
+e4f0c8ec-266a-48e0-a45f-8ede01cdf893,Product Registration,The system must provide a menu option that allows the Sales Manager to access the product registration form.
+073b7c94-98cc-4600-869d-99170bc7e4ce,Product Registration,"The system must provide an interface for the Sales Manager to input all necessary product information, such as name, quantity, supplier details, price, and product category."
+f0e310ce-8933-451c-b126-b871c786b102,Product Registration,The system must allow the Sales Manager to review and confirm the data entered before updating the product stock.
+6488b05e-1334-48f4-bd4e-a30cbedb325f,Product Registration,"Once the Sales Manager confirms the product registration, the system must update its stock records to reflect the new product availability."
+1368e9d5-612b-465b-a39d-f085e511080b,Product Registration,"After the product is successfully registered, the system must maintain the Sales Manager’s session and ensure the system menu is still displayed."
+59254e66-eb0d-405a-bb2b-0f208eb66837,Sales Registration,The system must allow the Sales Person to search for a product and verify its availability in the stock based on the customer’s request.
+80064e85-095f-43b6-8366-407db5120af6,Sales Registration,The system must verify that the Sales Person is logged into the system before allowing access to product inventory and sales functionalities.
+93b097e5-10e3-4aa2-ae17-1a090ff4c050,Sales Registration,"The system must display detailed product information, including price, quantity available, and description when the Sales Person searches for a product."
+f93df689-747b-4c46-819e-d4b4f46369ea,Sales Registration,The system must allow the Sales Person to update the product’s quantity in stock once the sale is confirmed.
+a4c65ee4-0dd6-41ca-a4e7-bc30b01ee88b,Sales Registration,The system must automatically calculate the total amount for the sale by multiplying the product price by the quantity requested by the customer.
+a4a704d3-c8fd-4330-a71d-2da924446c5d,Sales Registration,"Once the sale is confirmed, the system must register the sale transaction, including the customer details, product sold, quantity, and total price"
+f4d397fb-bc33-4847-adeb-a9bbb43d26f9,Sales Registration,"After the sale is completed, the system must update the product inventory to reflect the decrease in stock"
+5152618d-f817-4626-a054-65c60b2648f9,Sales Registration," After the sale is registered, the system must maintain the Sales Person’s login session and ensure the system menu is still displayed."
+6220c6dc-14fd-4d60-ad29-69c73a617c5e,Customer Registration,The system must verify that the Sales Person or Sales Manager is logged into the system before allowing access to the customer registration form.
+498c46c0-0ac3-4c1f-8d13-097a55b8f989,Customer Registration,The system must automatically generate a new unique Customer ID by incrementing the last registered Customer ID by 1 when a new customer is being registered.
+4d3adc83-0b25-4573-a7e0-68f6b609a529,Customer Registration,"The system must display a customer registration form allowing the Sales Person or Sales Manager to input the customer’s details, including name, address(es), phone number(s), email(s), and contact person."
+98633eac-83f7-4d15-ac9f-e445e13377f1,Customer Registration,The system must validate that all required fields (such as customer name and contact details) are filled before allowing the registration to proceed.
+71126a64-804e-426f-bdd1-4819f47c9380,Customer Registration,"Once the form is completed, the system must save and update the customer information in the database."
+1cab1730-2664-4342-ac7f-6bf98cc5bfec,Customer Registration,"After the customer registration is completed, the system must maintain the user’s login session and ensure the system menu is still displayed."
+06926d3f-622c-4967-9522-6cab28808df1,System Login,The system must display a login form when the user clicks the link for the SCATS application.
+e9312962-3077-48b7-8262-a2e15ab1929a,System Login,The system must provide fields for the user to input their username and password.
+ff1eb3c7-1ca2-4021-9553-1a2d089a6cb4,System Login,The system must authenticate the user by verifying that the entered username and password match a valid account in the system.
+871e92bf-21f7-47e5-a2e5-012e529a8e13,System Login,"If the credentials are valid, the system must log the user into the system and confirm their login status"
+67c654fb-ddf1-4b1b-875e-d3cc301ff796,System Login," If the username or password is incorrect, the system must display an error message and prompt the user to try again"
+38cf7f2a-6542-4d04-a2cd-87fae6e4a77e,Update Information,The system must verify that the Sales Person or Sales Manager is logged into the system before allowing access to any update forms.
+b4139e0b-1852-4f4e-a620-c4da18ae8583,Update Information,"The system must provide access to relevant input forms (such as Update Customer, Update Product, or Update Sales Person Information) through the system menu for data correction or updates."
+7f05b0bc-1d6a-4d87-8314-ed7709c12382,Update Information,"The system must allow the Sales Person or Sales Manager to input or correct data fields, such as customer information, product details, or Sales Person information."
+aeb90d35-bfdc-4003-a99a-ba145f8ba95b,Update Information,"The system must validate the data entered to ensure that it is complete, accurate, and follows predefined rules (e.g., required fields, correct data formats)."
+fc8faae8-a945-480f-a8c3-dd551002c356,Update Information,"Once the form is completed and closed, the system must update its database with the corrected or added information."
+3bad8eba-3bfb-4a21-8388-a88ce1091b72,Update Information,"The system must confirm that the data has been successfully updated after the form is closed, and reflect the changes across relevant parts of the system."
+43162524-9b6e-4528-9c3f-ff2c7a52f647,System Output,The system must ensure that the Sales Person or Sales Manager is logged into the system before allowing access to any statistical reports or data presentation features.
+d4d74168-8e87-4a38-b80d-f5065d5705c9,System Output,"The system must provide a main menu with options for ""Customers,"" ""Sales Persons,"" ""Products,"" and ""Statistics"" that the user can select for viewing reports."
+2104b8f6-f3a3-4a12-868b-963508d3216f,System Output,"If the ""All Customers"" option is selected, the system must display an alphabetically sorted list of all customers."
+fb3e2561-82dd-4edf-9adf-7eaa60f05238,System Output,"If the ""Specific Customer"" option is selected, the system must prompt the user to input a Customer ID and display all related customer data."
+e46bfbdf-d4e0-4bcd-aa76-eebaf9aa9dbf,System Output,"If the ""Sales Persons"" option is selected, the system must display an alphabetically sorted list of all Sales Persons."
+94454f49-269a-489f-a6b7-bfa92a5f08e3,System Output,"If the ""All Products"" option is selected, the system must display an alphabetically sorted list of all products."
+0cec4ae9-bc1f-4c5f-874e-a1e5fc775be8,System Output,"If the ""Specific Product"" option is selected, the system must prompt the user to input a product number and display all relevant product data, including stock inventory."
+41a92ff1-9855-4c1b-8238-6d5fa6f46b0b,System Output,"The system must provide a ""Statistics"" menu with the following sub-options:""Sales Person Historical Data"", ""Total Largest Revenue"", ""Best Sales Person"", ""Most Sold Product"", ""Less Sold Product"""
+1fc5673c-1125-47f4-919d-afd4b467945f,System Output,"If the ""Sales Person Historical Data"" option is selected, the system must prompt the user to input ""from date"" and ""to date"" values to display all sales belonging to that Sales Person within the specified date range."
+0dc4c153-b415-43ff-aa01-a428f39321d0,System Output,"If the ""Total Largest Revenue"" option is selected, the system must display a list of Sales Persons and their total revenue, but only if the user is a Sales Manager."
+dc9866b7-17ec-4d67-a1db-70cc3393af3d,System Output,"If the ""Best Sales Person"" option is selected, the system must prompt the user to enter a product ID and display a descending list of Sales Persons based on revenue generated for the specified product, but only if the user is a Sales Manager."
+3b680e7f-7f2a-4138-8e95-8f9a0f95e831,System Output,"If the ""Most Sold Product"" option is selected, the system must prompt the user to input ""from date"" and ""to date"" values to display a list of the most sold products and their total revenue between the specified dates, but only if the user is a Sales Manager."
+fc6a5c36-c9c8-404b-a2ef-f1e1879e3433,System Output,"If the ""Less Sold Product"" option is selected, the system must prompt the user to input ""from date"" and ""to date"" values to display a list of the least sold products and their total revenue between the specified dates, but only if the user is a Sales Manager."
+4908c8a4-55ba-4b16-994f-89368a1435b7,System Output,"The system must allow the user to either display the requested report in a part of the browser window or print it out, depending on the user's preference."

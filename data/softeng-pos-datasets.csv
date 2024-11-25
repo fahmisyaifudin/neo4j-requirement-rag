@@ -1,0 +1,27 @@
+id,feature,sentence
+af1f03a6-fac8-48ad-a663-35ab4804c755,retrieve name and price of good,The system must allow the user to input a valid barcode to retrieve the corresponding product information.
+8d562469-09f3-4a3a-b96c-4c06063d7104,retrieve name and price of good,"The system must validate the barcode to ensure it is consistent with the defined barcode standard (e.g., length, format) and that a corresponding product exists in the backend catalogue."
+f711b1fd-cf7f-4d5f-bb9f-3c13fd046410,retrieve name and price of good,"Once the barcode is validated, the system must access the backend catalogue system to find and retrieve the product’s name and price."
+0771c37c-da57-4a76-84b2-fd181d55df30,retrieve name and price of good,The system must display the name and price of the product to the user once the information is retrieved from the backend system.
+31ea4763-8164-4669-8faa-931ac3b0cc2a,retrieve name and price of good,"If the barcode is invalid or the product does not exist, the system must display an error message indicating the issue and prompt the user to try again."
+19a0e4ff-723c-4a11-9417-e00facdb199c,deduce stock amount,The system must allow the user to input a valid barcode to identify the product whose stock needs to be updated.
+10056c6c-ec00-44ab-89aa-df89b77907f6,deduce stock amount,The system must validate that the barcode corresponds to a product in the backend catalogue and that the product has at least one item in stock.
+8159c6ea-895c-4164-8283-9168be94d1a5,deduce stock amount,The system must verify that the product's current stock amount is greater than or equal to one before proceeding with the stock deduction.
+6c865a00-710f-4e23-bad1-cd8bbff1da61,deduce stock amount,"Once the barcode is validated and the stock check is passed, the system must deduct one unit from the current stock amount of the product."
+317dc865-c951-4534-a701-2bf016d09e9b,deduce stock amount,"The system must update the backend inventory system with the new stock amount after the sale is completed (i.e., Product.stockAmount_after = Product.stockAmount_before - 1)."
+94ecfbdf-789b-446c-9af7-e4443b10d578,deduce stock amount,"After the stock has been updated, the system must confirm the deduction and reflect the updated stock amount for the product."
+35a2d004-5d38-49d0-a841-59b8833e2b4a,deduce stock amount,"If the product stock is zero or less, the system must display an error message indicating that the product is out of stock and prevent the sale from proceeding."
+bc249626-1744-4ff0-9a29-39a1c3ba76a2,Handle payment cash,The system must allow the user to input the amount to be paid and the cash received from the customer.
+d0f2e3db-161a-4fbe-bdac-b4a79f360f2c,Handle payment cash,The system must validate that the cash received is greater than or equal to the amount to be paid before proceeding with the transaction.
+a63ce3b7-c73d-4d2f-a922-5da4c73b3c73,Handle payment cash,"Once the payment is validated, the system must calculate the change to be given by subtracting the amount to be paid from the cash received."
+f341131f-bf87-49c3-b8bf-2b391dbaebfd,Handle payment cash,"After the transaction is validated, the system must add the amount to be paid to the total cash amount in the register or point-of-sale system."
+a85f944a-7696-4eff-90cf-901c0c3cec32,Handle payment cash,The system must display the calculated change and confirm that the payment was successfully processed.
+cf8d9af4-1e1a-48e3-b1e0-fcb8c2b4b232,Handle payment cash,"After the payment is processed, the system must update the total amount of cash in the register to reflect the new balance:"
+783154f2-3e04-48e7-ad38-88684428d678,Handle Coupon,"The system must allow the user to input or scan the coupon using the barcode to retrieve the coupon details, including the coupon ID, promotion ID, and product ID."
+535a65fa-a781-4c74-94fd-fc6483bff43c,Handle Coupon,The system must verify that the coupon ID is valid and corresponds to an existing promotion in the system.
+65d2fcaa-3f06-428a-8044-1c8d302f0233,Handle Coupon,The system must check whether the promotion associated with the coupon is still active and valid based on the current date and promotion's expiry date.
+01379659-6e85-4055-a25b-c57056cbe842,Handle Coupon,The system must verify that the product associated with the coupon is available in stock before applying the discount.
+ac703f90-9dd4-4bd8-bd08-bafe5a749699,Handle Coupon,"After validating the coupon and checking the promotion's validity, the system must retrieve the discount rate associated with the promotion and apply it to the product's price."
+bed40d36-2ebd-4507-98fc-137207d0120e,Handle Coupon,The system must calculate the discounted price by applying the retrieved discount rate to the product's original price.
+7ffeeb21-366c-49e1-9d14-6cba725b94d8,Handle Coupon,"If the coupon is invalid, the promotion has expired, or the product is unavailable, the system must display an error message and prevent the discount from being applied."
+3aa33f22-c17d-445f-bf94-81ce45793481,Handle Coupon,"After applying the coupon, the system must update the total amount to be paid with the discounted price and ensure the interface is ready for the next step in the transaction."

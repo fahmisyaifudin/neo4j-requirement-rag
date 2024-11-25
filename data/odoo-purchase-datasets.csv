@@ -1,0 +1,32 @@
+id,feature,sentence
+e589d00c-23f1-46a9-927f-ebea0339e687,Modern user interface,"A fast user interface designed for modern inventory management. Get more work done with less effort with or without barcode scanners."
+967e2381-332e-47af-b1ec-6aed2263bf91,Control vendor bills,"Compare the information appearing on the Purchase Order, the Vendor Bill, and the Receipt to make sure you pay the correct bill (3-way matching)."
+df262c73-8c41-4a54-81b3-b2b2a2de0e95,Purchase tenders,"Launch purchase tenders, integrate vendor's answers in the process and compare propositions. Choose the best offer and send purchase orders easily. Use reporting ton analyse the quality of your vendors afterwards."
+c61f5ff3-8333-4785-99ac-b6b502f71d03,Blanket order agreement,"Buy goods from a supplier at a negotiated price, on a recurring basis during a specific period of time."
+55515c47-ecfb-4e10-a59e-468b6dfc76cb,Create RfQs for your suppliers,"Configure each to product to send out Requests for Quotations to each of your suppliers."
+41490d78-4022-4733-927b-98f92150b654,Send requests through the post or by email,"Send RfQs by email directly from the app or print and send them by post, all in just one click."
+ad739913-85b3-4095-a13f-c69ea1eb8426,Get offers for multiple items,Send out RfQs for multiple products at the same time.
+b43ec876-6557-4945-b94b-d8cf5fba2ab0,Personalize your message,Add a custom message to your suppliers for each of the RfQs sent.
+06ef2dec-c5f5-4706-bf43-6095aaa23666,Automate the process,"Save time by setting up rules to automatically send RfQs to your suppliers based on your stocks levels."
+df41e3b1-c75a-43f7-a575-36892e306366,Variants Grid Entry,"Add product variants to your purchase orders with a grid, or matrix, displaying all the possible combinations of a product's attributes (e.g. sizes, colors)."
+3db2289f-21a9-4009-a424-8ea7a5d22d2f,Monitor RfQs and orders,"Keep track of the status of your quotes and orders, of the amount of the orders and the expected delivery date. No more generation of draft PO. Auto-complete when generating a draft invoice."
+f573872c-b893-46e3-8075-b2906b01b793,Manage incoming products,"Keep track of your stock and determine quantity and locations for each batch of items you receive."
+19d89f8f-cf7b-4865-be49-530c4782b349,Automate ordering,"Set up procurement rules to automatically order the necessary items based on stock levels, minimum quantities per location or per supplier, sales, or other parameters."
+6a5a92a9-f37c-4f08-912a-32ce98da95a1,Create drafts,Design drafts of invoices which you can easily modify or cancel later.
+dca43f8e-299f-4d2e-b393-c387deedc049,Control future orders,Keep track of orders that have been created for a date in the future.
+79fcd750-48a2-4194-b5fb-b243aa8639d6,Handle internal moves,Organize the movement of items between two locations you own.
+ef2356d4-e3d0-48d0-8e13-e66204ab8ffb,Create products,"Define sale price, type, barcode and reference to easily differentiate similar products."
+38b05d72-4ad6-4e72-b6f5-c925def9e635,Add supplier reference,"Add the reference used by each supplier for the item to make it easier to find for both them and you."
+d9102dc9-b7de-4c84-ade4-7a7eb091e41d,Add product variants,"Add variations such as color, memory capacity, etc. on the product to allow for a cleaner list of products."
+15fb0d0c-c698-4ba2-8e47-f7546d8ae17a,Define procurement rules,"Reference all the suppliers distributing the item, order them by priority, and record their delivery time and minimal quantity to save time on new orders."
+f675f231-453f-45dc-971b-1bb62ea69f95,Ideal search filters,Search products with the supplier reference on the purchase order.
+a7606c65-7641-4013-a62e-8f906294dd30,Units of measure,"Purchase in different units of measure and let Odoo manages the conversion."
+85b9338c-0e0b-4922-8afe-edb9454ba980,Check stock and availability,"Keep track of stock, incoming orders and product availability."
+7edf46da-4358-4925-b5d8-928f75dea159,Specify storage location,Define the product's exact position within your warehouse.
+dcca21ad-da3c-4bbc-9ee9-5f0e2a07193d,Create sale conditions,"Define the length of the warranty and specify customer and manufacturer lead times."
+62c0b3e0-b2fe-4ebf-a041-9400814f91fb,Add POS and website specifications,"Add specifications to the product for its point of sale or for the website."
+f69897e5-06fd-4e2c-8af8-c9e70edcfaa3,Include accounting rules,"Specify your accounting category and define customer and supplier accounts and taxes."
+0f69ab7e-27f4-4106-a6da-c38d1eb9844b,Dashboards,"Use predefined dashboards or build your own with the advanced reporting engine Share filters with the team."
+deaf11f6-99c3-417b-a3d8-6dd1885561f2,Inventory forecasts,"Get forecasts of product availabilities based on confirmed sales orders, purchase orders or manufacturing orders as well as internal moves."
+67bfea4f-6981-4161-b1c1-b8ddf7484351,Automatic reconciliation between companies,"Save huge amounts of time and effort on all transactions made between your group's companies - transactions are automatically reconciled in all modules, for example, automatically mirror sales orders and purchase orders in multi-company setup."
+1e050fb2-3ba9-4fd2-ba61-e7b5cde605da,One Odoo environment for multiple companies,Manage multiple companies within a single Odoo environment.
