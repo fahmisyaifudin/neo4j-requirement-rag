@@ -1,4 +1,4 @@
-id,Feature,Sentences
+id,feature,sentence
 628c2e7c-cffa-44e2-bb7d-b610fe238285,Client Account,"Clients are able to use the system to create a personal user account through the main
 website. This user account stores all pertinent information including which stores they own and how many stores they own."
 e8937dda-8bac-42e3-a343-9c5b7f14cbe5,Client Account,When a client wants to start using this system they must first make an account on the system providing any necessary banking and store information. This account stores user information in an online database that can be viewed and edited by the account holder at any time.

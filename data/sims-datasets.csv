@@ -1,4 +1,4 @@
-id,Feature,Sentences
+id,feature,sentence
 e933337b-608f-445e-bc6b-f21643ca65d1,Administrator Module,"It allows admin to manage two types of users, hold their details, authenticate these users at the time of login and accordingly provide different options."
 5f860315-51af-4e8e-88f4-f32aab154bff,Administrator Module,"The system must allow the administrator to add new users by filling out relevant user details (e.g., username, password, role) and assigning them the appropriate user category (Admin or Normal User)."
 2bc9b0a8-f491-471d-85d9-bfce4690383b,Administrator Module,"The system must allow the administrator to delete a user from the list, permanently removing their record from the database."
