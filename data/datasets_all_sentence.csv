@@ -1,0 +1,635 @@
+id,feature,sentence,app
+2a0aa188-eb8d-4913-91ab-603bc54ac0af,Win trust with site security,Secure your customer's confidential data such as credit card details or addresses by installing SSL certificates with a click of a button.,Zoho Commerce
+7974edd7-e1de-4fbb-a792-b6b9458e89e0,Take your site live instantly,"Whether you want to get a free subdomain from Zoho, map your existing domain, or buy a new one, it's all effortless. Add multiple domains based on your convenience.",Zoho Commerce
+7b27f169-ed55-4575-88a6-bbf99bf48168,Hosting & storage built-in,Keep your website up and running all the time. Zoho offers unmetered bandwidth and file storage to suit your every business requirement.,Zoho Commerce
+dd2aee3e-1f21-4ed5-b78b-f54c1534979d,Customizable layouts,Zoho Commerce has plenty of customizable layouts and themes to fit your design choices and business aesthetic. Uncluttered layouts and seamless transitions create a memorable experience for your customers.,Zoho Commerce
+01be1e05-bd55-4d02-a24c-3ca84e5b8a2d,Designed for every industry,"Whether you run a Health & Beauty, Fashion & Clothing, or Food & Drink ecommerce business, Zoho Commerce's themes are created to fit your business needs. From classy image sliders to fun background videos, choose the themes of your choice.",Zoho Commerce
+c773d41f-e281-4a08-a21c-3dd78492bda3,SEO and mobile-ready,"Our themes are all customizable, mobile responsive, and SEO-friendly. Each theme can be changed later without losing any of your content.",Zoho Commerce
+6e1b4ddc-d61d-489e-88fc-b26d7752fd06,Stylize your storefront,"From changing the color of icons to increasing the width of columns and customizing the size of banners, take complete charge of every element and section on your storefront.",Zoho Commerce
+c328ed8c-7491-423b-8fa5-8b5dca686cdf,Embed custom scripts,Scale your business by embedding third-party widgets and scripts into your website. Insert snippets to apply reoccurring customizations.,Zoho Commerce
+04c7e864-b8e1-4b0c-8491-bdaaae208b71,Add photosets,Create compelling photosets by adding relevant images under one group. Embellish your photoset by adding captions and managing its theme.,Zoho Commerce
+362fca71-e549-4e87-afa7-1913861d7cc9,Forms,Add forms into your storefront with the click of a button. Meet your audience by adding name and email fields. Redirect them to a page of your choice upon submission.,Zoho Commerce
+3e5118b9-7ae6-4354-b2f3-1578debf4af2,Menus,"Organize your store better by creating menu items. Add pages, links, products, categories, and even collections as menu items. Rearrange the existing menus with ease via drag-and-drop.",Zoho Commerce
+0d82b796-d6e5-4abd-8060-311babb268cc,Presets,Use existing color schemes or add custom colors to your storefront. Change the base and heading fonts to reflect your brand.,Zoho Commerce
+a0f4ed91-3283-4f45-877c-2be20e4392cd,Modify header style,Apply various header styles based on the logo and navigation bar placements. Delight your customers by having either a transparent or an animated header when you scroll.,Zoho Commerce
+2b46e67f-4fda-4b3e-b2da-173b131f41ee,Add compelling banner layouts,Want to leave some breathing space near the edges or want to display the full-size banner on your home page? We have a layout for your every need.,Zoho Commerce
+520aa81d-f753-4dbe-abe2-9b28df8ca53c,Blog list and post layout,"The Visual Editor enables you to change the way your blog lists and posts appear. You can choose from various layouts to display your listed posts, as well as how you would like individual posts to be displayed.",Zoho Commerce
+7421168c-059b-42d0-8137-3f3937772ab0,Support multiple currencies,"We support 160+ currencies, which means you can empower your customers across the globe to view prices in their preferred currency. The final checkout will happen in your base currency.",Zoho Commerce
+b946d8f2-6b7c-4ddf-a307-c4ff9ce3a8d2,Currency conversion,Enable/disable the currency conversion feature in your ecommerce store based on your need to showcase product pricing in different currencies.,Zoho Commerce
+39206fc2-25e1-47c2-b52e-59f5880731c7,Add products,"Fill out the product title, description, SKU, and other details, create different variants with multiple attributes, and set different prices and inventory amounts.",Zoho Commerce
+74738b81-8d5a-471c-8a39-2a0f8db60bb5,Manage products,"After adding products to your store, you can sort, search, or even delete products that are no longer available in your store.",Zoho Commerce
+ce07970e-19ef-4f18-9a2e-e0e10d851354,Import and export products,Import products in bulk using a CSV or XLS file to add multiple products in one go with minimal effort.,Zoho Commerce
+be4fb186-24f2-477c-84d6-a3b9c9084a5e,Create product specifications,Add detailed product specs and create specification sets for different products. Classify specifications according to different groups and categorize your specification fields.,Zoho Commerce
+9c5ae133-d1af-47b8-a15a-d50ae5730a0f,Clone products,"With the ""Clone"" feature, you can instantly create a new, similar product without having to enter the details from scratch. Note: Batch number, quantity, and SKU details will not be cloned,   and composite products cannot be cloned.",Zoho Commerce
+8fad6507-7b75-4efe-8d72-5fce86f6887f,Create composite products,Offer different product bundles based on your business needs by grouping existing products into one composite product.,Zoho Commerce
+14169e42-3c8c-4554-8143-b871d94ac741,Migrate products,Easily migrate products from an external system to quickly start taking orders and bring in revenue.,Zoho Commerce
+a7001477-6464-4bb0-9939-c8cbc0471b2f,Add categories,"Enter the appropriate category name; key in the SEO title, keywords, and description; upload a banner; enable the show in store and show in menu options, and associate your category with a base category.",Zoho Commerce
+5a1b7959-6f74-436a-bfc5-270b0ae40b7e,Create subcategories,"Using simple drag and drop, you can create a hierarchy of categories to classify your products and help your customers discover them quickly.",Zoho Commerce
+47ecf680-59a1-4757-b56b-96dce364ea37,Create collections,"You can manually add products to a collection or set up filter conditions based on product title, price, brand, and tags to automatically create one.",Zoho Commerce
+28ff6c78-1803-470c-8362-fa980b5ffe3e,Oversee shipping,Integrate with shipping carriers of your choice to streamline the shipping process. Define your shipping zones and display accurate delivery times to customers.,Zoho Commerce
+28526147-1735-4589-becc-c9df294425fc,Facilitate payments,Integrate with popular payment gateways to receive online payments and use AI to track payment patterns to identify fraudulent transactions.,Zoho Commerce
+cdafbc8c-423a-4de1-8693-873a02b61159,Handle taxes,"Sync your ecommerce store with Zoho Books to record all of your transactions. File taxes, prepare returns, automate tax calculations and monitor your accounting effortlessly.",Zoho Commerce
+3c2b1b3e-917b-4a98-9605-45e543cb6738,Member portal,"Maintain transparency with your ecommerce customers by providing them complete access to their order status, order details, shipping address, and more.",Zoho Commerce
+4d381c70-62b8-4eac-a4e4-f8994c0c98c3,Price list,Use a price list to reward your loyal customers with discounts without applying any coupons. You can also set custom prices for individual or bulk products and implement volume-based tier pricing.,Zoho Commerce
+8ed0a5af-4deb-44b5-aa16-6b0a66ccf9f8,Access restriction,You can either display your storefront to only select members or make it mandatory to sign up to your ecommerce store to view your products-the choice is yours.,Zoho Commerce
+851de074-3564-46e0-8bd5-efc694db6679,Admins,"Admins have the same privileges as the store owner, except that they can't delete or unpublish the store, nor can they edit user permissions.",Zoho Commerce
+064148a1-6e65-41c4-96aa-cd3c7777ebd8,Staff,"Add users as staff if you want to assign responsibility to only specific ecommerce modules such as orders, collections, or shipping.",Zoho Commerce
+5f0137fc-49f7-4648-b565-2bd389de0a99,Authors,"Authors have privileges similar to admins, but they can only edit the pages they have access to.",Zoho Commerce
+695c6683-ca86-4e08-9c12-c8061a2af614,Developers,Developers are third-party visitors who have the same privileges as an admin. They do not need to be a part of your organization.,Zoho Commerce
+099ae438-82d4-486c-8f57-ad5996f43286,Guests,Guests are third-party visitors who have the same privileges as an author. They do not need to be a part of your organization.,Zoho Commerce
+c736c675-d1fe-422d-ba3f-16dd54cdf477,Track your inventory,Track every single unit of your product and set alerts to be notified when the product runs low on stock.,Zoho Commerce
+e9ca79fc-ef10-40d2-a624-0050022a3544,Apply quantity restrictions,Set a minimum and maximum quantity value for your product if you want to either restrict your customers from purchasing beyond a certain threshold or if you want them to buy a minimum quantity.,Zoho Commerce
+71fec7e4-667c-4d7d-8f00-334fe483a575,Manage stock,"Automatically update your inventory when a sale happens, saving both time and effort.",Zoho Commerce
+1b5fae43-9d5a-4559-9317-7deb0b118dcb,Robots,You may not want every page on your ecommerce store to be crawled. Inform search engines about the pages that matter to you and those that shouldn't be crawled by modifying the Robots.text file.,Zoho Commerce
+ff8205ca-4fc0-421e-b39a-cc9d430a21cc,Tag management made easy,"Connect seamlessly with Google Tag Manager, eliminating your dependency on your IT team to add snippets of code. You can easily do that yourself and centrally maintain all the Javascript tags.",Zoho Commerce
+851798bf-b4cc-4cfd-91f6-ce7990d6df3f,Bing ranking improvement,Get a holistic understanding of your ecommerce store's performance on Microsoft Bing by pasting the HTML meta tag received into your store.,Zoho Commerce
+cc27214f-5504-48e9-8a9b-bdbdd814d4d7,User redirects,"Don't worry if you've moved any of your store's pages to a new URL. Instantly set up a 301 redirect and choose the page you want your customers to view, and they will automatically be redirected to the new page.",Zoho Commerce
+d7eafc35-9033-48a9-b620-b9eee3338c36,Sitemap XML,Improve your store's chances of ranking high in search engines by uploading your store's sitemap XML file.,Zoho Commerce
+3e720a91-5840-411b-badf-09c578f3b887,Set up your Facebook shop,Just add the Facebook pixel ID to your Zoho Commerce store to display all your inventory and start taking orders via Facebook.,Zoho Commerce
+bce2a879-034d-4435-adaa-4745893dc90e,Set up your Instagram shop,Promote and sell your products on Instagram by integrating your online store with Instagram. Display your inventory in the shop section and have your products discoverable in the explore tab of Instagram.,Zoho Commerce
+3efbfde2-eb91-4b2c-95bc-af8abb0dcd19,Showcase your products on Google,"Help shoppers discover your products on various Google surfaces like Google Search, Google Images, Google Shopping, and Google Lens by connecting your Zoho Commerce store with the Google Merchant Center.",Zoho Commerce
+d1533473-33d5-4cb0-b14d-889e718fcea7,Know what your customers like,Zia understands your customers based on their activities and behavioral patterns on your ecommerce store. Leverage this to recommend products that are relevant to your customers.,Zoho Commerce
+7d5c4b32-72ff-4aac-bc5a-1a6f5e976d0f,Cross-sell with confidence,Increase sales by recommending related products that are typically bought together.,Zoho Commerce
+ae195cfc-ccfc-4e25-aaec-adc49ddc7afe,Predict what new customers like,Zia can not only recommend products to existing customers but can also predict what new customers are likely to buy based on their behavior in your store.,Zoho Commerce
+75f1f857-1a68-4fc6-b1bc-feab23a22a25,Recover abandoned carts,Increase your ecommerce store's conversion rate by automating reminder emails to those who have added a product to their cart but have not completed the purchase.,Zoho Commerce
+d341d006-ce47-41f3-b9c5-163b2d42e283,Replenish your stock,Be reminded instantly to replenish your stock when your current quantity reaches the low stock limit threshold value for a specific product.,Zoho Commerce
+3463075f-4276-4774-8205-a37c3cda2bd0,Send order confirmation response,"Send an automated order confirmation email to your customers with their order number, order date, and shipping address to help them keep track of their orders.",Zoho Commerce
+34f690c5-96a1-489b-9200-1561179a6bc0,A coupon for every purpose,"Create coupons based on your business need. You can create different coupons for specific customers, all orders, chosen collections, etc.; your options are extensive.",Zoho Commerce
+ad3dcc16-9c67-4c04-9783-d5627c389a1c,Explore different discount types,Set different types of discounts for different requirements. You can either set a flat discount or a discount based on a certain percentage of product price.,Zoho Commerce
+711ba7da-84c9-4360-8f4d-d377df912b75,Limit coupon usage,Maintain complete control over the number of coupons each customer can claim and set a time duration for coupon validity.,Zoho Commerce
+653c3bfd-f491-4d24-afcb-d646a31321ca,Customize your  Buy Now button,"Pick the font size, color, and layout style of your choice to enhance the overall presentation. Enable borders and make it stand out to your customers.",Zoho Commerce
+09deec18-7829-42c6-be4e-8d9cf436d603,Display variants,"Provide multiple options to your customers by displaying the variants based on size, color, weight, and more with the Buy Now Button. Provide your customers the option to choose what appeals to them.",Zoho Commerce
+ffe2e1f4-623f-4aa2-9440-9b7c181efb9b,Change the position,"You can display the Buy Now button either below the product image or beside it, as per your preference.",Zoho Commerce
+73b818a6-1934-491a-ae72-de5496fb2d67,Manage reviews,"Set a limit to the number of reviews you want to display on a single page, be notified every time your customers submit a review, and protect your website from spam with CAPTCHA.",Zoho Commerce
+3d9042af-ac8a-4669-b64c-4c73a91a8bb4,Moderate individual reviews,Filter reviews based on different parameters to filter out spam. You can also choose to allow only verified customers to submit reviews.,Zoho Commerce
+4497e256-0034-44bd-b6f0-a162e2f30266,Moderate reviews in bulk,"Save time by moderating multiple reviews at one go by selecting the appropriate action from Approve, Inappropriate, Spam, Not Spam, Trash, and Restore options.",Zoho Commerce
+af1f03a6-fac8-48ad-a663-35ab4804c755,retrieve name and price of good,The system must allow the user to input a valid barcode to retrieve the corresponding product information.,Softeng POS
+8d562469-09f3-4a3a-b96c-4c06063d7104,retrieve name and price of good,"The system must validate the barcode to ensure it is consistent with the defined barcode standard (e.g., length, format) and that a corresponding product exists in the backend catalogue.",Softeng POS
+f711b1fd-cf7f-4d5f-bb9f-3c13fd046410,retrieve name and price of good,"Once the barcode is validated, the system must access the backend catalogue system to find and retrieve the product’s name and price.",Softeng POS
+0771c37c-da57-4a76-84b2-fd181d55df30,retrieve name and price of good,The system must display the name and price of the product to the user once the information is retrieved from the backend system.,Softeng POS
+31ea4763-8164-4669-8faa-931ac3b0cc2a,retrieve name and price of good,"If the barcode is invalid or the product does not exist, the system must display an error message indicating the issue and prompt the user to try again.",Softeng POS
+19a0e4ff-723c-4a11-9417-e00facdb199c,deduce stock amount,The system must allow the user to input a valid barcode to identify the product whose stock needs to be updated.,Softeng POS
+10056c6c-ec00-44ab-89aa-df89b77907f6,deduce stock amount,The system must validate that the barcode corresponds to a product in the backend catalogue and that the product has at least one item in stock.,Softeng POS
+8159c6ea-895c-4164-8283-9168be94d1a5,deduce stock amount,The system must verify that the product's current stock amount is greater than or equal to one before proceeding with the stock deduction.,Softeng POS
+6c865a00-710f-4e23-bad1-cd8bbff1da61,deduce stock amount,"Once the barcode is validated and the stock check is passed, the system must deduct one unit from the current stock amount of the product.",Softeng POS
+317dc865-c951-4534-a701-2bf016d09e9b,deduce stock amount,"The system must update the backend inventory system with the new stock amount after the sale is completed (i.e., Product.stockAmount_after = Product.stockAmount_before - 1).",Softeng POS
+94ecfbdf-789b-446c-9af7-e4443b10d578,deduce stock amount,"After the stock has been updated, the system must confirm the deduction and reflect the updated stock amount for the product.",Softeng POS
+35a2d004-5d38-49d0-a841-59b8833e2b4a,deduce stock amount,"If the product stock is zero or less, the system must display an error message indicating that the product is out of stock and prevent the sale from proceeding.",Softeng POS
+bc249626-1744-4ff0-9a29-39a1c3ba76a2,Handle payment cash,The system must allow the user to input the amount to be paid and the cash received from the customer.,Softeng POS
+d0f2e3db-161a-4fbe-bdac-b4a79f360f2c,Handle payment cash,The system must validate that the cash received is greater than or equal to the amount to be paid before proceeding with the transaction.,Softeng POS
+a63ce3b7-c73d-4d2f-a922-5da4c73b3c73,Handle payment cash,"Once the payment is validated, the system must calculate the change to be given by subtracting the amount to be paid from the cash received.",Softeng POS
+f341131f-bf87-49c3-b8bf-2b391dbaebfd,Handle payment cash,"After the transaction is validated, the system must add the amount to be paid to the total cash amount in the register or point-of-sale system.",Softeng POS
+a85f944a-7696-4eff-90cf-901c0c3cec32,Handle payment cash,The system must display the calculated change and confirm that the payment was successfully processed.,Softeng POS
+cf8d9af4-1e1a-48e3-b1e0-fcb8c2b4b232,Handle payment cash,"After the payment is processed, the system must update the total amount of cash in the register to reflect the new balance:",Softeng POS
+783154f2-3e04-48e7-ad38-88684428d678,Handle Coupon,"The system must allow the user to input or scan the coupon using the barcode to retrieve the coupon details, including the coupon ID, promotion ID, and product ID.",Softeng POS
+535a65fa-a781-4c74-94fd-fc6483bff43c,Handle Coupon,The system must verify that the coupon ID is valid and corresponds to an existing promotion in the system.,Softeng POS
+65d2fcaa-3f06-428a-8044-1c8d302f0233,Handle Coupon,The system must check whether the promotion associated with the coupon is still active and valid based on the current date and promotion's expiry date.,Softeng POS
+01379659-6e85-4055-a25b-c57056cbe842,Handle Coupon,The system must verify that the product associated with the coupon is available in stock before applying the discount.,Softeng POS
+ac703f90-9dd4-4bd8-bd08-bafe5a749699,Handle Coupon,"After validating the coupon and checking the promotion's validity, the system must retrieve the discount rate associated with the promotion and apply it to the product's price.",Softeng POS
+bed40d36-2ebd-4507-98fc-137207d0120e,Handle Coupon,The system must calculate the discounted price by applying the retrieved discount rate to the product's original price.,Softeng POS
+7ffeeb21-366c-49e1-9d14-6cba725b94d8,Handle Coupon,"If the coupon is invalid, the promotion has expired, or the product is unavailable, the system must display an error message and prevent the discount from being applied.",Softeng POS
+3aa33f22-c17d-445f-bf94-81ce45793481,Handle Coupon,"After applying the coupon, the system must update the total amount to be paid with the discounted price and ensure the interface is ready for the next step in the transaction.",Softeng POS
+e61f9b9d-6013-4e8e-867d-3780315098c2,Record stock status,The system shall allow the Sales Assistant to enter the product name when recording the stock status for a new product.,SMS
+4a3f9539-71ef-43b4-ac9f-38affcbd18f0,Record stock status,The system shall enable the Sales Assistant to input the quantity of the new product being added to the stock.,SMS
+883786a9-a36d-4763-b1a9-f4f0fd25119b,Record stock status,The system shall require the Sales Assistant to enter a unique stock number for the new product.,SMS
+0b985b98-5735-4271-a2b0-58adbce79d8d,Record stock status,The system shall provide an option for the Sales Assistant to add the product to the stock after entering the required details.,SMS
+e0e8172e-d407-4f69-a4a4-0f39979d3ab4,Record stock status,"Upon successfully adding a new product, the system shall generate a unique product number for the new product.",SMS
+4afcc1d0-99e4-4db2-8e7f-2f2d80206fb2,Record stock status,The system shall update the stock to reflect the new quantity of the added product.,SMS
+a682fb54-6366-45c6-ae02-7c8e24df5d33,Record stock status,"The system shall display a confirmation message showing the product name, product number, and updated stock quantity after the product is successfully added.",SMS
+14d70972-7f2f-4a38-b259-ed8587406305,Update stock status,The system shall allow the Sales Assistant to search for an existing product using either the product number or the product name as access keys.,SMS
+07a620a9-8c0c-4cd5-9b97-01fa7fd597ec,Update stock status,"The system shall display the details of the existing product when found, including its current quantity and stock number.",SMS
+68c0a16c-fec9-4ca5-9207-4b541761d594,Update stock status,The system shall allow the Sales Assistant to update the quantity of the existing product.,SMS
+82ec8cc4-6342-4d40-a856-7d803c54528d,Update stock status,The system shall allow the Sales Assistant to update the stock number of the existing product.,SMS
+4494c1ef-a3cc-4848-a43c-e44d8fd5e04e,Update stock status,The system shall provide an option for the Sales Assistant to accept the changes made to the product details.,SMS
+69b5b69d-bb92-4d1b-8e23-472f81180c8c,Update stock status,"Upon acceptance of the updated product details, the system shall save the changes and update the stock with the new quantity and stock number.",SMS
+9f201428-8309-4ba4-8b81-67514a8a427d,Update stock status,The system shall display a confirmation message showing the updated quantity and stock details after the product has been successfully updated.,SMS
+33db9066-8a51-4373-b374-f66c15436d8a,Update stock status,The system shall notify the Sales Assistant if the searched product cannot be found using the provided access keys.,SMS
+d8ce61bb-9b01-440d-a5c3-4df5a5691508,Record product price,The system shall allow the Sales Assistant to enter the product name when recording the price details for a new product.,SMS
+125ad59a-a2ce-4ce3-aa79-f0096ca5fc37,Record product price,The system shall enable the Sales Assistant to input the retail price for a new product.,SMS
+228ff569-020d-4158-8f4b-fa3cdff36cc8,Record product price,The system shall allow the Sales Assistant to enter the wholesale price for a new product.,SMS
+72e1bade-df9d-499d-b8aa-32862bd334c4,Record product price,The system shall provide an option for the Sales Assistant to specify the wholesale quantity when recording the wholesale price.,SMS
+1aed1fb4-258d-4377-9a88-1de701106294,Record product price,The system shall enable the Sales Assistant to input the contract price for a new product.,SMS
+8ff60e36-0f00-495d-ad1a-dcc8d3b795a2,Record product price,The system shall provide an option to add the new product after all required details have been entered.,SMS
+1cb7bf4d-17be-4294-b14b-ae45b5697a35,Record product price,"Upon successful addition of the product, the system shall generate a unique product number for the new product.",SMS
+59c0e138-64e7-4c76-a3a7-0dc7cb2af593,Record product price,"The system shall store and display the entered prices (retail price, wholesale price, and contract price, if applicable) along with the wholesale quantity for the new product.",SMS
+30ec1003-6e25-480a-8bf9-e57146bd2f22,Record product price,The system shall notify the Sales Assistant if any required fields are missing or invalid during the product addition process.,SMS
+dcf45e4f-3535-4968-b917-14f77190109b,Record product price,"The system shall display a confirmation message with the product name, product number, and recorded price details after successful product addition.",SMS
+56ddcebc-98d7-41a4-b3a9-b979ea8aaa9d,Update product price,The system shall allow the Sales Assistant to search for an existing product using either the product number or product name as access keys.,SMS
+dda44bb7-3aee-49eb-b520-6e0eec55f563,Update product price,"The system shall display the current price details of the existing product, including retail price, wholesale price, wholesale quantity, and contract price, when found.",SMS
+f3ace772-a3e6-48c2-8411-6a95911d0be0,Update product price,The system shall enable the Sales Assistant to update the retail price of the existing product.,SMS
+9c03d083-84af-4444-af66-a94b36fbb237,Update product price,The system shall allow the Sales Assistant to modify the wholesale price of the existing product.,SMS
+a36cb917-b5bc-4662-8d8b-57596c91e7bb,Update product price,The system shall provide an option to update the wholesale quantity associated with the wholesale price of the product.,SMS
+a1802ec7-19bc-454c-9ff1-74f0c867fd49,Update product price,The system shall enable the Sales Assistant to update the contract price of the existing product.,SMS
+9d4f2c4c-e42a-471c-8e76-1d189115a9ff,Update product price,The system shall allow the Sales Assistant to accept the updated product details and save the changes.,SMS
+45702800-0579-4577-a1ee-ff8af5f48eb8,Update product price,"Upon accepting the changes, the system shall update the product record with the new or modified price details.",SMS
+dcba7c6c-7c1e-4aa2-9e4f-f959876f44c8,Update product price,"The system shall display a confirmation message indicating the successful update of the product prices, including all updated values.",SMS
+8c0d5a40-3cab-4a11-a88a-65e99496b0f5,Update product price,The system shall notify the Sales Assistant if the searched product cannot be found using the provided access keys.,SMS
+14171841-9ced-4a95-a1a5-158af8ad7a5b,Update product price,The system shall validate the entered price values and notify the Sales Assistant of any errors or missing required fields before saving the changes,SMS
+1b3ebbee-098b-402f-8c30-ad1fba2dbc17,Record customer,The system shall allow the Sales Assistant to enter the first name and last name of a potential customer.,SMS
+e2123b20-3a75-4939-b1cc-a30d6c97f233,Record customer,The system shall enable the Sales Assistant to input the ID card number of a potential customer.,SMS
+7c2d4c23-b312-4eec-b2cc-c847b78b0081,Record customer,"The system shall allow the Sales Assistant to enter the address details of a potential customer, including address number, street, ward, district, and city.",SMS
+075215f0-090b-414a-ab2a-9205de47723b,Record customer,The system shall enable the Sales Assistant to record the phone number and cell number of a potential customer.,SMS
+c0fe91a3-c62c-4b1c-9fda-9a0bc4a6ac5c,Record customer,The system shall provide an option to enter the email address of a potential customer.,SMS
+db83e100-6eec-4b8f-8143-ec0afd7d0236,Record customer,The system shall allow the Sales Assistant to add the new customer after entering the required personal data.,SMS
+77a57e05-63ee-46f4-b130-f2fa94d7997c,Record customer,"Upon successful addition, the system shall generate a unique customer number for the new potential customer.",SMS
+a5206433-4209-462d-99d3-de1946f94092,Record customer,"The system shall store the personal data of the potential customer, including all entered fields, in the customer database.",SMS
+4f3ce2f1-a343-4246-8d7d-0e5257539dcb,Record customer,"The system shall display a confirmation message containing the customer name, customer number, and a summary of the recorded data after successful addition.",SMS
+d944f82c-56d0-4beb-9c7a-d5b379e0effb,Record customer,The system shall validate all required fields before adding a new customer and notify the Sales Assistant of any missing or invalid data.,SMS
+4e7ee4cc-3a00-4988-8641-834f5a00ca10,Record customer,The system shall ensure that the ID card number is unique and notify the Sales Assistant if the entered ID card number already exists in the database.,SMS
+6d449a21-6e94-4c22-a062-efee364ba285,Update customer,The system shall allow the Sales Assistant to search for an existing customer using either the customer name or customer number as access keys.,SMS
+f10f0e9c-1857-4f66-8e1f-2c109c42fb0d,Update customer,"The system shall display the current personal information of the customer when found, including first name, last name, ID card number, address, phone, cell, and email.",SMS
+1a497cb4-b6f6-4969-9bbd-c32fe7608c09,Update customer,The system shall enable the Sales Assistant to update the first name and last name of an existing customer.,SMS
+d1a305ff-93ef-45ed-8ddf-1b7f9612f6d3,Update customer,The system shall allow the Sales Assistant to modify the ID card number of an existing customer.,SMS
+1d9b5fe3-702c-40b8-86d0-c0bce38d3c08,Update customer,"The system shall provide an option to update the address details of an existing customer, including address number, street, ward, district, and city.",SMS
+86692c68-a2b0-477d-a9a1-0478fa5d044a,Update customer,The system shall enable the Sales Assistant to update the phone and cell numbers of an existing customer.,SMS
+3ceadcff-5445-41c9-830a-67510b703517,Update customer,The system shall allow the Sales Assistant to update the email address of an existing customer.,SMS
+c5eabd79-d5f8-4bbb-855b-60bf790f290e,Update customer,The system shall allow the Sales Assistant to accept the changes made to the customer's personal information and save the updates.,SMS
+abef1f71-5f50-49de-a98b-e317f3572a34,Update customer,"Upon accepting the updates, the system shall save the new personal data of the customer in the database.",SMS
+bbe6309c-f1b0-4a46-98ec-6143f29b6fb6,Update customer,The system shall display a confirmation message summarizing the updated information after the changes are successfully saved.,SMS
+cb052de8-84ec-4e68-9ddb-b6505a3b3915,Update customer,The system shall validate the updated fields and notify the Sales Assistant of any errors or missing data before saving the changes.,SMS
+3e9c6401-854c-4863-a665-710df318f728,Update customer,The system shall ensure that the updated ID card number is unique and notify the Sales Assistant if it matches an existing record.,SMS
+756c29c3-b9b0-4c37-ab9a-73c7908e6fd3,Make contract,The system shall allow the Sales-Assistant to find an existing customer for creating a new contract by providing either the customer's name or customer number as access keys.,SMS
+5116ed99-57af-41e6-8cc8-82a858a11ddf,Make contract,The system shall enable the Sales-Assistant to find an existing staff member for the new contract using the staff name as the access key.,SMS
+52a84349-c307-4e43-bb4d-8cfcdb865e50,Make contract,The system shall support the Sales-Assistant in finding an existing product for the new contract by using the product name as the access key.,SMS
+5ba33f5d-3e31-4749-994b-dfc037d9f176,Make contract,The system shall allow the Sales-Assistant to enter the quantity for the selected product when creating a new contract.,SMS
+d92f28f0-d697-4dba-9632-5a156cfa8878,Make contract,The system shall enable the Sales-Assistant to add the selected product to the contract.,SMS
+380f36b5-e847-4b2a-a3c4-de229bb4f192,Make contract,The system shall allow the Sales-Assistant to continue finding and adding additional products to the contract until all products are included in the contract.,SMS
+d876e43a-fdf6-4c9a-a114-50ab73141a6a,Make contract,"The system shall provide the capability for the Sales-Assistant to enter terms and conditions, payment due date, delivery due date, and contract date for the new contract.",SMS
+44c84cad-e678-47f0-9c6d-141f06c08a84,Make contract,The system shall generate and store a new contract with a unique contract number and the contract creation date once all details are entered by the Sales-Assistant.,SMS
+0b4419a7-83ca-444f-a202-4a43de9776d4,Update contract,The system shall allow the Sales-Assistant to find an existing contract that has not been carried out yet by accessing it with the contract number.,SMS
+dad5f365-5805-49cd-9d4f-51bc9dedc527,Update contract,"The system shall provide an option for the Sales-Assistant to search for a contract by selecting the Customer using access keys such as the customer name or customer number, in case the exact contract number is forgotten.",SMS
+4c916c83-aacd-43b5-ad18-32cfeac2a8f2,Update contract,The system shall enable the Sales-Assistant to locate a contract by using a partial contract number if the full contract number is not available.,SMS
+241e8b00-efe5-44d8-9d02-264350eb11e0,Update contract,"The system shall allow the Sales-Assistant to update contract information by entering necessary updates including contract terms and conditions, payment due date, and delivery due date.",SMS
+c520c45b-e137-4ca0-a0e7-4e6f4f359c27,Update contract,The system shall provide functionality for the Sales-Assistant to change the assigned staff for the contract by using the staff's name as an access key.,SMS
+40b7afde-0ae5-4ee0-ad30-6a04816b0523,Update contract,The system shall allow the Sales-Assistant to update the product details associated with the contract sale by using the product name as an access key.,SMS
+f217adec-2095-4d49-bffe-346979d10126,Update contract,"The system shall ensure that once all necessary updates are entered, the Sales-Assistant can accept and finalize the updated contract.",SMS
+ec427402-ac93-4327-87d7-86216a23388c,Update contract,The system shall generate and store updated contract sale data with a new contract creation date after the Sales-Assistant accepts the updated contract.,SMS
+e33d0cfc-b33c-4fe8-bfad-30de5dce1323,View contract,The system shall allow the sales assistant to view an existing contract on the screen by finding the contract using the contract number as the access key.,SMS
+a689658d-3a6d-4c58-bea5-367209e70490,View contract,"The system shall provide the option to search for a contract by selecting a customer using customer name or customer number as access keys, in case the sales assistant forgets the exact contract number.",SMS
+8dcc86d4-f80f-42f2-b482-08e11b3e474a,View contract,The system shall enable the sales assistant to find a contract using a partial contract number as an access key after selecting the customer.,SMS
+6e7b29ae-3c52-49d7-8932-e331c95f1781,View contract,The system shall provide the functionality to display the existing contract sales data on the screen for the sales assistant.,SMS
+9d209520-9147-4d7a-9d4c-907d3e5cd0e4,View contract,The system shall allow the sales assistant to print the contract once it is viewed on the screen.,SMS
+a136e1b0-202a-4ab6-8f5b-c1de9778118a,Add delivery contract,The system shall allow the Sales-Assistant to find a contract delivery product using access keys that include the product name or the product number.,SMS
+45516537-6141-4f17-819c-7f5625fb7a59,Add delivery contract,The system shall enable the Sales-Assistant to enter a contract delivery quantity for a given product.,SMS
+492bc74d-7e7f-452b-a0ca-a27ff71d4a85,Add delivery contract,The system shall provide the capability for the Sales-Assistant to add additional products to the same delivery until the last product is entered.,SMS
+cadb0cd7-d04e-416c-af79-4c82c8bf2dd2,Add delivery contract,The system shall require the Sales-Assistant to input a delivery receipt number for each delivery.,SMS
+24905124-3c0f-4416-b796-183c136522f2,Add delivery contract,The system shall require the Sales-Assistant to input the delivery date for each contract sale delivery.,SMS
+bbd0a8c2-2c69-4341-afbb-946a458c6d59,Add delivery contract,"Upon successful addition of a delivery, the system shall update with the new delivery data for the contract sale.",SMS
+d5fce2e5-97e1-4e07-a1a7-483cb9ce67c8,Add payment contract,The system shall allow the Sales-Assistant to find an existing contract using the contract number as the access key.,SMS
+ddbd74ca-c756-408c-8ea9-be2eb9104195,Add payment contract,The system shall provide an option for the Sales-Assistant to select a customer by using either the customer name or customer number if the exact contract number is forgotten.,SMS
+0e651f80-69b3-4403-a206-c6a8b22141b8,Add payment contract,The system shall enable the Sales-Assistant to locate the contract using a partial contract number after selecting the customer.,SMS
+c7985d30-572b-45be-9b58-c4ae2d517ec3,Add payment contract,The system shall allow the Sales-Assistant to select the payment option for a contract sale.,SMS
+1870a991-db42-44fc-9403-d9917b78169a,Add payment contract,"The system shall enable the Sales-Assistant to enter payment data, including payment sum, payment date, and payment receipt number.",SMS
+dffc0552-81a1-420b-9418-cec425c52e34,Add payment contract,The system shall add the new payment data to the corresponding contract sale once the Sales-Assistant submits the payment information.,SMS
+54691438-2593-443b-8ec8-19f796290e07,Record wholesale,The system shall allow the Sales-Assistant to find an existing customer for a new wholesale by using either the customer's name or customer number as access keys.,SMS
+54f3cc34-7c8f-40e0-a46f-83520feb5c13,Record wholesale,The system shall enable the Sales-Assistant to find an existing product for a new wholesale using the product name as an access key.,SMS
+b6a796f7-64f5-4cb6-ba5a-736cca8ef440,Record wholesale,The system shall permit the Sales-Assistant to enter the quantity for the selected product if the customer purchases more than the minimum wholesale quantity defined in the system.,SMS
+f53b067b-418f-43a9-93ee-f73ba3d49c00,Record wholesale,The system shall allow the Sales-Assistant to add the selected product to the wholesale order.,SMS
+050483a7-494b-48be-a801-19fd95c25e40,Record wholesale,The system shall enable the Sales-Assistant to find the next product and continue adding products to the wholesale order until all desired products are included.,SMS
+dfef1e70-4195-46bc-9447-098c0ff1d251,Record wholesale,The system shall generate a new wholesale entry with a unique wholesale number after all products have been added.,SMS
+19ef89c5-e8e2-46fd-a8a8-eee3af27841b,View wholesale,"The system shall allow the Sales-Assistant to view details of a wholesale on the screen by finding an existing wholesale using the access key ""wholesale number"".",SMS
+30c29bf6-a1ee-44c5-a10f-5866525ec8c4,View wholesale,"The system shall provide the functionality to select a Customer using access keys such as ""customer name"" or ""customer number"" if the Sales-Assistant forgets the exact wholesale number.",SMS
+d3a75bd3-2a0a-4cf1-949b-a7c383d9d368,View wholesale,The system shall enable the Sales-Assistant to find a wholesale by utilizing a partial number of the wholesale as an access key after selecting a Customer.,SMS
+0fb0d660-1247-4378-90e1-4c2e444e1794,View wholesale,The system shall allow the Sales-Assistant to view or print the existing wholesale data.,SMS
+e6bc21be-c452-465d-bcad-bf3e78023e4a,Add delivery wholesale,"The system shall allow the Sales Assistant to find an existing wholesale using the access key, which is the wholesale number.",SMS
+2cf382b5-e987-4ff6-89c1-58c97e8798aa,Add delivery wholesale,"The system shall provide an option for the Sales Assistant to search for a wholesale by selecting a customer using access keys, such as customer name or customer number, if the exact wholesale number is forgotten.",SMS
+0955d54c-20b8-47b8-816a-c9c8092c4a22,Add delivery wholesale,The system shall enable the Sales Assistant to further refine the search for a wholesale by using access keys like the wholesale partial number.,SMS
+62269738-f131-4704-a707-3eb654ec3157,Add delivery wholesale,The system shall allow the Sales Assistant to select a delivery associated with a wholesale.,SMS
+c0084863-ec5b-4c7c-ac33-1d72a34f6fe5,Add delivery wholesale,"The system shall facilitate the identification of wholesale delivery products using access keys, including product name or product number.",SMS
+b0692ce3-6289-46a5-a98a-0a4014b0a76b,Add delivery wholesale,The system shall enable the Sales Assistant to enter the wholesale delivery quantity for a specified product.,SMS
+bbde7609-ee8a-4b25-9c3e-8e97d911daad,Add delivery wholesale,The system shall support adding multiple products to the same delivery until the final product is added.,SMS
+7908a014-8686-4829-9473-ee1bab620116,Add delivery wholesale,"The system shall require input of delivery data, including delivery receipt number and delivery date, from the Sales Assistant.",SMS
+4b591472-d649-4b34-b0c7-991855b63caf,Add delivery wholesale,The system shall add new delivery data for the wholesale upon completion of the entry process.,SMS
+b2f1bea6-13f7-4c44-bf68-da5c4a31fa03,Add payment wholesale,"The system shall provide functionality to find an existing wholesale using the access key, which is the wholesale number.",SMS
+738be3d3-b4bc-4b6a-921d-a826fccfbb39,Add payment wholesale,"The system shall allow users to select a customer by access keys, such as customer name or customer number, in case the exact wholesale number is forgotten.",SMS
+47b65308-ab80-42f3-80dd-fbca2f61c786,Add payment wholesale,The system shall enable users to find a wholesale using a partial wholesale number as the access key after selecting a customer.,SMS
+899079c6-49d9-4b2a-99a6-74c1a1f5adbf,Add payment wholesale,The system shall allow users to select and access the payment section for a specific wholesale transaction.,SMS
+44c923b9-49e6-4c86-a9bb-46fa09ed75fc,Add payment wholesale,"The system shall provide an interface for users to enter payment data, including payment sum, payment date, and payment receipt number.",SMS
+ad846694-d00f-4ac6-aa89-b9b485ffd2e3,Add payment wholesale,The system shall process and record new payment data for the wholesale transaction once the payment is added.,SMS
+1a22d10d-7071-4095-94c0-890fa28bac67,Add payment wholesale,The system shall ensure that only a Sales-Assistant is authorized to perform the actions related to adding payments for wholesale transactions.,SMS
+ee7793de-65a8-4ade-bec6-5f56b32ffb8a,Record retail,The system shall allow the Sales-Assistant to find an existing customer by entering either the customer's name or customer number when recording a new retail.,SMS
+3d72e93c-13ac-4659-ba71-fd6ed1b93fb0,Record retail,The system shall enable the Sales-Assistant to find an existing product by entering the product name for inclusion in a new retail.,SMS
+7b76a9df-c20a-46d7-a702-f57132f3d9d4,Record retail,The system shall allow the Sales-Assistant to enter the quantity for a selected product during the process of recording a new retail.,SMS
+cfd2a427-2d57-4c17-8c48-c727a3ad2d48,Record retail,The system shall provide the functionality for the Sales-Assistant to add a selected product and its quantity to the retail record.,SMS
+d67240ae-35d6-4e03-aa8c-992e73c67c85,Record retail,The system shall support the Sales-Assistant in finding additional products and adding them to the same retail record consecutively.,SMS
+84ffad8d-5c72-48de-9585-3c16823e8c10,Record retail,The system shall generate a new retail number for each new retail record created by the Sales-Assistant.,SMS
+4bacfd9d-3eeb-441f-b8bb-71720b404997,View retail,"The system shall allow the Sales-Assistant to view retail details on the screen by finding an existing retail using the access key, which is the retail number.",SMS
+a5d5f14c-9de6-4cb9-81ee-4ca651604928,View retail,The system shall provide an option for the Sales-Assistant to search for a Customer using access keys such as customer name or customer number in case the exact retail number is forgotten.,SMS
+b0bbbb63-1282-4fa6-9c79-9f2da049fed9,View retail,The system shall enable the Sales-Assistant to find the retail details by using a partial retail number as the access key after selecting the customer.,SMS
+f7902c92-7240-4bc8-8bf9-fb7fa757fa83,View retail,The system shall display the existing retail data upon successful identification of the retail by the Sales-Assistant.,SMS
+2f3e84de-4861-4df5-bb0b-f0d9aa5bffdf,Add delivery retail,"The system shall allow the Sales-Assistant to find an existing retail delivery using the access key, which is the retail number.",SMS
+33733d7b-c3cf-4d89-85fc-e273d2b7a5c4,Add delivery retail,"The system shall provide an option for the Sales-Assistant to select a customer by access keys such as customer name or customer number if the exact retail number is forgotten, and then find the retail by a partial retail number.",SMS
+a6e19d47-1ba1-4701-9eff-07fde71bb3eb,Add delivery retail,The system shall enable the Sales-Assistant to select a delivery for the identified retail.,SMS
+d9c330b8-2f4b-444a-8e72-8eccc8791312,Add delivery retail,The system shall allow the Sales-Assistant to find a retail delivery product using access keys like product name or product number.,SMS
+c071cfbf-3990-48da-a20e-cb1020b41470,Add delivery retail,The system shall enable the Sales-Assistant to enter the retail delivery quantity for a selected product.,SMS
+f961e9b5-7646-4d59-b0d1-b0fe8e6e0f33,Add delivery retail,The system shall allow the Sales-Assistant to add multiple products to the same delivery until all desired products have been added.,SMS
+cf617f07-1533-4405-abfc-a6866eca88c8,Add delivery retail,"The system shall require the Sales-Assistant to enter delivery data, including the delivery receipt number and delivery date, before completing the delivery process.",SMS
+d5652f88-e8f9-42ae-9e5b-129bb6970a80,Add delivery retail,The system shall add the new delivery data for the retail once the required information has been entered.,SMS
+92dae923-86ff-4a74-9354-75e2aa4e2b65,Add payment retail,The system shall allow the Sales-Assistant to find an existing retail transaction by entering the retail number as an access key.,SMS
+4660dc33-5326-44a0-9a7f-ea653a392d76,Add payment retail,The system shall provide an option for the Sales-Assistant to select a Customer by entering either the customer name or customer number as access keys if the exact retail number is unknown.,SMS
+8dd0ce60-f79b-496f-8596-c4177048c734,Add payment retail,The system shall enable the Sales-Assistant to locate a retail transaction by entering a partial retail number as an access key once the Customer is selected.,SMS
+e78f72ce-79d8-4bcd-b815-65c642f03c73,Add payment retail,The system shall allow the Sales-Assistant to select an existing retail transaction for payment processing.,SMS
+8de15473-53df-4b13-a0c5-67252c27a3fb,Add payment retail,"The system shall provide a form for the Sales-Assistant to enter payment data, including payment sum, payment date, and payment receipt number.",SMS
+835ecf24-6ef2-4cba-90d6-dcb7738cfb4e,Add payment retail,The system shall record the new payment data for the selected retail transaction upon entry by the Sales-Assistant.,SMS
+6e7084c2-496b-4e4f-bf34-b026fe591885,Record returned product,The system shall allow the Sales-Assistant to find an existing customer for a returned product using the customer name or customer number as access keys.,SMS
+b5954fd6-14e8-4a42-b562-24baaf4b1ceb,Record returned product,The system shall enable the Sales-Assistant to find an existing product for a returned product using the product name as an access key.,SMS
+845ed7e0-a706-49a7-ad6f-0a1fba4f5f4d,Record returned product,The system shall allow the Sales-Assistant to enter the returned product quantity and stock number for the selected product.,SMS
+1ad20b30-a738-4a9c-9a6d-74bab56895c1,Record returned product,The system shall enable the Sales-Assistant to enter the returned product price.,SMS
+2a334122-39f3-46c9-a584-3a5a168c3fcc,Record returned product,The system shall accept the returned product and process the return transaction.,SMS
+8a619a3c-0181-4244-b0be-cd20582ba20c,Record returned product,The system shall allow the Sales-Assistant to enter the payment receipt number and payment date for the returned product transaction.,SMS
+2578a1e3-c880-4a43-9cf2-f0a7161ef6d5,Record returned product,"Upon accepting the returned product, the system shall update the new quantity in stock and reflect any adjustments in inventory.",SMS
+147cc4ba-135e-4179-97c7-6abe950176cc,Record returned product,The system shall record the new payment details following the return transaction.,SMS
+994d7b93-79eb-4beb-b7b0-1d5818cac54c,Record feedback,The system shall allow the Sales-Assistant to record feedback for a returned product by finding an existing customer using either the customer name or customer number as access keys.,SMS
+d836c65f-08bf-4ab7-8c4c-ebf4d5b842db,Record feedback,The system shall provide an interface for the Sales-Assistant to enter feedback related to a returned product once the correct customer is found.,SMS
+66de571a-1a20-4e16-96a3-cde6ab5a0095,Record feedback,The system shall add the newly entered feedback data to the customer's record in the system.,SMS
+b996dc4d-6946-4125-8758-4c9daa06ac7a,Record feedback,The system shall ensure that the new feedback data is stored accurately and is associated with the correct customer profile for future reference.,SMS
+f30d39a5-0ad8-4199-bd0c-e4fbbe04e2c1,Browse product information,The system shall provide the Sales-Assistant with a report containing the current stock status of all products.,SMS
+51d8aa6d-0c6f-45aa-9737-46b77272423a,Browse product information,The system shall enable the Sales-Assistant to access a report listing all products along with their retail prices.,SMS
+de8d686c-e986-498c-a0df-e0802865e1f8,Browse product information,The system shall generate a report for the Sales-Assistant that includes the wholesale price and quantity for each product.,SMS
+3d1f22aa-54ef-4fc2-a0b3-f969ba3f56d1,Browse product information,"The system shall ensure that the Sales-Assistant can browse through product information, including stock status, retail price, and wholesale price and quantity.",SMS
+8769a9ad-af67-4230-83a9-2a3802f7e597,"Browse customer information""",The system shall allow the Sales-Assistant to access detailed customer information to facilitate browsing and reporting tasks.,SMS
+3198e149-05f2-454c-a07a-4d2deb54b750,Browse customer information,The system shall provide functionality for the Sales-Assistant to sort customer information by district to aid in report generation.,SMS
+84f331ef-c6fa-42aa-a5bd-fd0b54e0ca68,Browse customer information,The system shall produce a detailed report of customer information upon request by the Sales-Assistant.,SMS
+334e8af6-f711-41da-83c3-f3ffd6deaa7c,Browse customer information,The system shall generate a customer list report sorted by district when initiated by the Sales-Assistant.,SMS
+ed2caa6c-8c2c-490f-9e90-1859b0a9985d,Browse customer information,The system shall ensure that the customer information accessed by the Sales-Assistant is current and up-to-date for accurate reporting.,SMS
+1ce40c57-b281-45cf-a8df-7daf062acde9,Browse sales information about delivery,"The system shall allow the Sales Assistant to browse delivery information related to contract sales, wholesale, and retail.",SMS
+536c0789-d6b4-443e-9fae-505f30d3aa04,Browse sales information about delivery,The system shall enable the Sales Assistant to generate a detailed report of deliveries to a customer for a specified period.,SMS
+f1c70dc8-6b87-44fc-b1f8-e548d627edb8,Browse sales information about delivery,The system shall provide a report containing a detailed list of contract sale deliveries for the Sales Assistant.,SMS
+7ca712cf-3f23-48e1-b01e-344b47e78c25,Browse sales information about delivery,The system shall produce a report with a detailed list of wholesale deliveries accessible by the Sales Assistant.,SMS
+85f2c171-23e7-4326-90b9-975cf31b2717,Browse sales information about delivery,The system shall generate a report detailing retail deliveries for the Sales Assistant to review.,SMS
+76a466d2-4181-47a0-a21a-a4938511ed1c,Browse sales information about payment,The system shall allow the Sales-Assistant to enter a specific time period or date to browse detailed sales information related to payments.,SMS
+c9ac41e4-c869-4324-a65a-72cb37293a89,Browse sales information about payment,The system shall generate a detailed report of payment listings for contract sales for the specified period when accessed by the Sales-Assistant.,SMS
+fa03c467-61f4-45ef-b6ef-db4a3cdfc9a8,Browse sales information about payment,The system shall generate a detailed report of payment listings for wholesale transactions for the specified period when accessed by the Sales-Assistant.,SMS
+d3f541d3-025e-49af-8902-5076dea80779,Browse sales information about payment,The system shall generate a detailed report of payment listings for retail transactions for the specified period when accessed by the Sales-Assistant.,SMS
+d3282737-ba15-472b-b6f9-2b9ce472bd31,Browse sales information about payment,The system shall enable the Sales-Assistant to view and analyze payment details related to contract sale deliveries within the chosen time frame.,SMS
+8343547c-caa4-4658-bbb8-1c0152abe364,Browse sales information about payment,The system shall enable the Sales-Assistant to view and analyze payment details related to wholesale deliveries within the chosen time frame.,SMS
+c40528f5-2d87-41ff-9711-96fa97632b1f,Browse sales information about payment,The system shall enable the Sales-Assistant to view and analyze payment details related to retail deliveries within the chosen time frame.,SMS
+7cd476c3-7eb2-4dcc-a7ba-b27c35f56a59,Browse sales information about all customers’ payment,The system shall allow the Sales-Assistant to enter a specific time period or date range to filter customer payment information.,SMS
+009a2bef-0070-4f06-8a4e-dc306b17b7c2,Browse sales information about all customers’ payment,"The system shall generate a detailed report of all customers' payment statuses for the specified time period, including the total amount purchased, total payments made, and the current outstanding debt.",SMS
+f371083a-32a2-45ce-90f9-cb8b2af1cdbd,Browse sales information about all customers’ payment,"The system shall provide the Sales-Assistant with the ability to browse and review the generated report, ensuring accessibility to comprehensive sales information.",SMS
+2435debf-b31d-4219-87cb-7f18e8889b22,Browse sales information about all customers’ payment,"The system's report shall present a clear and organized customer list, highlighting each customer's total purchases, payments, and debts within the selected timeframe.",SMS
+c24be8eb-e1f9-43eb-857d-0e7bd7dc3cf8,Browse sales information about one sold product,The system shall allow the Sales-Assistant to enter a specific time period or date to browse sales information about one sold product.,SMS
+fb944c0d-4c35-4d79-8f71-e919968f3ed7,Browse sales information about one sold product,The system shall generate a report listing customers' names and prices for a specified sold product within the entered time period or date.,SMS
+8aef5772-15b0-4332-a039-86ef55b90989,Browse sales information about one sold product,"The system shall enable the Sales-Assistant to view detailed information about one sold product, including different customers’ names and the prices at which the product was sold.",SMS
+74113268-0ee1-4c36-a9be-ce004f41e200,Browse sales information about one sold product,"Upon entering the time period or date, the system shall display a report of the selected sold product, facilitating the browsing of sales data by the Sales-Assistant.",SMS
+6b35d96f-1dcd-4f33-ad37-d514ad94e970,Browse returned product information.,The system shall allow the Sales-Assistant to enter a specific time period or date to generate a report about returned products.,SMS
+42ff77fe-f791-4b64-9c8d-1bdff9968fca,Browse returned product information.,"The system shall display a report of returned products that includes the customers' names and the prices of the returned products, after the Sales-Assistant inputs the desired time period or date.",SMS
+166defe8-d3d6-44ae-821e-a1945f261267,Browse returned product information.,The system shall enable the Sales-Assistant to browse through the report of returned products for a specified period.,SMS
+b97baee2-d5be-48fd-a6ca-e865f8b3a5ff,Browse returned product information.,"The report generated for the returned products shall include detailed information such as the list of returned products, associated customer names, and the corresponding product prices.",SMS
+e933337b-608f-445e-bc6b-f21643ca65d1,Administrator Module,"It allows admin to manage two types of users, hold their details, authenticate these users at the time of login and accordingly provide different options.",SIMS
+5f860315-51af-4e8e-88f4-f32aab154bff,Administrator Module,"The system must allow the administrator to add new users by filling out relevant user details (e.g., username, password, role) and assigning them the appropriate user category (Admin or Normal User).",SIMS
+2bc9b0a8-f491-471d-85d9-bfce4690383b,Administrator Module,"The system must allow the administrator to delete a user from the list, permanently removing their record from the database.",SIMS
+7cefa507-800a-4c8c-a119-54ec1d9e497e,Administrator Module,"The system must allow the administrator to generate and send a print request for a user report, which contains details of all users currently registered in the system.",SIMS
+e58395c0-cc7c-4fa5-b69a-134ecbe8dd9f,Administrator Module,"The system must categorize users into two types: Admin and Normal User, with corresponding access rights and permissions.",SIMS
+8c128d6b-4022-426e-8602-5ea41af21140,Administrator Module,"The system must enforce role-based access controls, ensuring that only users with the Admin role can add, view, or delete users",SIMS
+5e366e67-06af-4000-9a85-4c9e592cc385,Administrator Module,"The system must provide the administrator with the ability to view a list of all users, showing details such as username, role, and user status.",SIMS
+4c262d53-4115-4327-895a-e417010f0998,Administrator Module,It allows any user to logout when he wants to come out from the system.,SIMS
+d1fd1bb2-7057-49af-953c-192dcd3aa180,Administrator Module,It allows the admin to view the list of users and take the print.,SIMS
+0457aa63-60bf-4857-9826-c153f3042fd3,Administrator Module,It allows the users to change their password for future security.,SIMS
+eaba874f-4ec6-4ee5-921a-9933001864e8,Deliveries Module,"The system must allow users to input delivery details, specifying the godown from which items are delivered, the item IDs, and the purpose of delivery (sale or service).",SIMS
+d44ffcb1-a2d4-4e42-a0c7-e2555425bec6,Deliveries Module,"The system must generate comprehensive reports displaying all deliveries made by the company at each godown, including details like delivery date, items delivered, and purpose.",SIMS
+be3b8c04-9894-4add-8970-d9935103c897,Deliveries Module,"The system must offer an option to print the delivery reports directly from the interface, facilitating easy documentation and record-keeping.",SIMS
+8a3b2db0-eed0-45ac-97ce-c719fceb3278,Deliveries Module,The system must provide dropdown lists for selecting valid godown IDs and item IDs to ensure accurate data entry and enhance user-friendliness.,SIMS
+5dda4abb-f3df-492e-a8e8-91e50fd3b646,Employe Information Module,It allows the authorized users to a new employee at the time of creating a godown if the employee is a newly appointed for this godown.,SIMS
+03b19456-8ec4-4f61-868d-cbcbfb954531,Employe Information Module,The System holds all the details of the all the employees who are working in the organization.,SIMS
+474418fc-7c58-4487-882a-ed37b9ca7bc1,Employe Information Module,"The system must allow the administrator to easily add a new employee record to the database by filling out an input form with relevant employee details (e.g., name, position, department, etc.).",SIMS
+057d198d-f770-4683-9f34-fee32d840afb,Employe Information Module,The system must allow the administrator to remove an employee record from the list and database as needed.,SIMS
+4ee5cea4-e52d-45f1-a74e-4bbb6ee14ecb,Employe Information Module,The system must allow the administrator to select and edit the details of a specific employee from the displayed list.,SIMS
+cd2e6c72-c60e-412d-a9c5-e4fa3c7e43cc,Employe Information Module,"The system must display a list of all employees in a tabular format, showing key information such as employee name, ID, position, and department.",SIMS
+9be0c133-efc7-4c73-8a3b-c23416431ec5,Employe Information Module,"The system must provide a ""Print"" option, allowing the administrator to print a detailed report of employee information with a single click on the print icon.",SIMS
+648ebc9c-5be2-4a9d-92ba-256e4b77858f,Inward Module,It also allows them to view the list of inward entries.,SIMS
+938dc2bf-0774-4d2a-b851-4c64cfc137a8,Inward Module,It also allows them to view the list of Outward entries.,SIMS
+b27f05c1-4d77-41e0-a03a-4015b5bbaed8,Inward Module,It holds the details of all Product Stocks held in the warehouse of the company.,SIMS
+4c816ace-5d99-45be-9b2e-7a9c0620b460,Inward Module,It holds the details of all the godowns which are part of our organization.,SIMS
+c41a27f5-ff6c-40ef-b9e7-209b0023648d,Inward Module,The system allows the godown manager to log into the system and enter stock return entries and the reason for return.,SIMS
+856763c1-95b5-4957-ae2e-bc14155e5222,Inward Module,The system allows the godown manager to log into the system and enter their inwards entries related to their godown.,SIMS
+1529a1fe-3190-4664-85fb-0488525b2d6a,Inward Module,The system allows the godown manager to log into the system and enter their outward entries and their purpose related to their godown.,SIMS
+883ab3d4-eddb-4350-afca-664317d5c6d4,Inward Module,"The system must allow normal users to enter inward details specific to each godown when goods are received, ensuring that these details are stored in the database",SIMS
+63332adc-e4f2-4f79-ac11-fb23ada665d5,Inward Module,"The system must enforce role-based access control, where normal users can enter inward details and generate reports, but admins are restricted from making such entries.",SIMS
+5c6af94b-8637-4939-913e-948da861f1bc,Inward Module,"The system must generate reports displaying all inwards made by the company at each godown, which users can view for tracking and analysis purposes",SIMS
+29ab2f9c-fde9-47d8-b43d-1b2532f13fe7,Inward Module,"The system must offer a calendar-based date selection feature to users, ensuring proper date formats are used and reducing the possibility of errors when entering dates",SIMS
+11259496-670a-4aa5-b44f-d847206437a4,Inward Module,"The system must prevent the admin from entering inward details, restricting this functionality to normal users only",SIMS
+dca81b97-ab5f-4fc9-b9b2-45d56e520497,Inward Module,"The system must provide a list of valid godown IDs from which the user can select, preventing the entry of invalid or non-existent godown IDs",SIMS
+3dabcfca-3507-4da9-aee4-60576ecc50e5,Inward Module,"The system must validate all inward details entered by users, ensuring that all necessary information (e.g., godown ID, date, quantity) is correctly filled before recording the data in the database.",SIMS
+c89fc582-b312-4e45-9b4c-cc141a164dad,Inward Module,Whenver a return entry is entered then accordingly the stock number will be automatically updated if the reason is order cancelled otherwise It need not update the stock.,SIMS
+8fb887ce-2ba4-4770-9b46-25e9657653d3,Inward Module,Whenver an inwards entry is entered then accordingly the stock number will be automatically updated.,SIMS
+81423e67-33ed-4906-a7b8-ef2c5dcdf9f1,Inward Module,Whenver an outward entry is entered then accordingly the stock number will be automatically updated.,SIMS
+ae5ec98a-9eed-4eba-8cc5-8eb6530923fe,Reporting Module,It allows admin to generate godown details report.,SIMS
+7b034cbb-cf55-414e-a967-b2f5de9803bd,Reporting Module,It allows admin to generate inwards details report.,SIMS
+1ec2fbd3-6806-45b0-85be-b7199c5d0fa2,Reporting Module,It allows admin to generate outwards details report.,SIMS
+37b8f9f8-b03a-4fff-a9ab-5a38d9320239,Reporting Module,It allows admin to generate returns details report.,SIMS
+581c288c-a774-45de-9718-c53a69474a0f,Reporting Module,It allows admin to generate stock statement report.,SIMS
+6f8eed82-14be-48d2-8cba-80c3deb2a3f4,Reporting Module,"The system must allow users to generate dynamic reports based on various parameters such as godown information, monthly inwards, monthly deliveries, monthly returns, and stock statements.",SIMS
+7f3e3178-5287-4547-87c5-88b047dbfc08,Reporting Module,"The system must generate a monthly report detailing all deliveries made from each godown, including delivery dates, items delivered, and delivery purposes (sale or service).",SIMS
+4421e7bd-cd7a-4cb4-8da7-da80e7b1ced1,Reporting Module,"The system must generate a monthly report displaying all inwards transactions at each godown, including details such as dates, items received, and quantities.",SIMS
+990b5f75-9b5f-4651-a2c1-5654d326548c,Reporting Module,"The system must generate stock statement reports, summarizing the current stock levels for each product at each godown, with details about inwards, deliveries, and returns over the selected period.",SIMS
+a7a1063e-58a5-4c29-8796-973d9d090cee,Reporting Module,"The system must provide a monthly report of all returned items, showing details such as return dates, reasons for return (damage or cancellation), and the items involved.",SIMS
+6812deec-e4c7-4301-83ec-d61c7c324db9,Reporting Module,"The system must provide a report that displays detailed information about each godown, including location, capacity, and current inventory levels.",SIMS
+09ef99b8-518e-4284-885c-1cab53e39331,Reporting Module,"The system must provide options to export the generated reports in various formats (e.g., PDF, Excel) and allow users to print the reports for documentation purposes.",SIMS
+fff3ec45-a686-4751-81c1-fc30f2816537,Returns Module,"The system must allow users to enter details of returned items, specifying whether the return is due to damage or order cancellation.",SIMS
+b5e55739-385b-464f-85a9-6c94112b05b1,Returns Module,"The system must display the returns report in a tabular format, providing a clear and organized view of all returned items for easy reference.",SIMS
+67484996-a163-49b8-82db-deea6318bc81,Returns Module,"The system must generate reports that display all returns made by customers at each godown, including details such as return date, item ID, and return reason (damage or cancellation).",SIMS
+1da3eac7-0cae-47b3-8064-943588f75468,Returns Module,"The system must provide a list of delivered items, allowing users to easily select the ID of the returned item from the list for accurate data entry",SIMS
+e3712da9-ce22-4e1f-8d78-cee6f8bb42eb,Returns Module,"The system must provide an option to print the returns report, allowing the user to document and archive return transactions efficiently",SIMS
+93e93241-0bc3-4955-bfb9-1c88590e6825,Employee Registration,The system must ensure that the Sales Manager is logged into the system before allowing access to the employee registration functionality,SCATS
+6ded6f3f-5d28-4bfa-8182-8fd16120f14f,Employee Registration,The system must verify that the employee is not already registered in the system before allowing the Sales Manager to create a new user account,SCATS
+5ea8a677-8f5f-48e9-b94d-963f19630f63,Employee Registration,The system must provide an interface for the Sales Manager to input and collect required employee data during the registration process,SCATS
+aa767528-d42c-4817-abe0-db4842d7be39,Employee Registration,The system must allow the Sales Manager to create a new user account for the employee.,SCATS
+a5ce2127-8c6e-4d2f-9733-8ab4597fe020,Employee Registration,The system must provide a functionality for the Sales Manager to define a unique username and secure password for the new employee.,SCATS
+4824e0e2-5e5e-4f3e-8ac7-488abb5a0913,Employee Registration,"Once the employee account is created, the system must present or send the username and password to the Sales Manager for distribution to the employee.",SCATS
+a9274c35-d0ca-4c63-a635-2bd269c2d2a5,Employee Registration,"After the employee registration process is complete, the system must maintain the Sales Manager’s login session and ensure the system menu is still displayed.",SCATS
+32617737-6d40-41fe-ba11-bad6bd7b8990,Product Registration,The system must verify that the Sales Manager is logged into the system before allowing access to the product registration form.,SCATS
+eadb5009-4827-420c-9294-ac9bd74d6bfd,Product Registration,The system must check if the product is not already in stock before allowing the Sales Manager to register the new product.,SCATS
+e4f0c8ec-266a-48e0-a45f-8ede01cdf893,Product Registration,The system must provide a menu option that allows the Sales Manager to access the product registration form.,SCATS
+073b7c94-98cc-4600-869d-99170bc7e4ce,Product Registration,"The system must provide an interface for the Sales Manager to input all necessary product information, such as name, quantity, supplier details, price, and product category.",SCATS
+f0e310ce-8933-451c-b126-b871c786b102,Product Registration,The system must allow the Sales Manager to review and confirm the data entered before updating the product stock.,SCATS
+6488b05e-1334-48f4-bd4e-a30cbedb325f,Product Registration,"Once the Sales Manager confirms the product registration, the system must update its stock records to reflect the new product availability.",SCATS
+1368e9d5-612b-465b-a39d-f085e511080b,Product Registration,"After the product is successfully registered, the system must maintain the Sales Manager’s session and ensure the system menu is still displayed.",SCATS
+59254e66-eb0d-405a-bb2b-0f208eb66837,Sales Registration,The system must allow the Sales Person to search for a product and verify its availability in the stock based on the customer’s request.,SCATS
+80064e85-095f-43b6-8366-407db5120af6,Sales Registration,The system must verify that the Sales Person is logged into the system before allowing access to product inventory and sales functionalities.,SCATS
+93b097e5-10e3-4aa2-ae17-1a090ff4c050,Sales Registration,"The system must display detailed product information, including price, quantity available, and description when the Sales Person searches for a product.",SCATS
+f93df689-747b-4c46-819e-d4b4f46369ea,Sales Registration,The system must allow the Sales Person to update the product’s quantity in stock once the sale is confirmed.,SCATS
+a4c65ee4-0dd6-41ca-a4e7-bc30b01ee88b,Sales Registration,The system must automatically calculate the total amount for the sale by multiplying the product price by the quantity requested by the customer.,SCATS
+a4a704d3-c8fd-4330-a71d-2da924446c5d,Sales Registration,"Once the sale is confirmed, the system must register the sale transaction, including the customer details, product sold, quantity, and total price",SCATS
+f4d397fb-bc33-4847-adeb-a9bbb43d26f9,Sales Registration,"After the sale is completed, the system must update the product inventory to reflect the decrease in stock",SCATS
+5152618d-f817-4626-a054-65c60b2648f9,Sales Registration," After the sale is registered, the system must maintain the Sales Person’s login session and ensure the system menu is still displayed.",SCATS
+6220c6dc-14fd-4d60-ad29-69c73a617c5e,Customer Registration,The system must verify that the Sales Person or Sales Manager is logged into the system before allowing access to the customer registration form.,SCATS
+498c46c0-0ac3-4c1f-8d13-097a55b8f989,Customer Registration,The system must automatically generate a new unique Customer ID by incrementing the last registered Customer ID by 1 when a new customer is being registered.,SCATS
+4d3adc83-0b25-4573-a7e0-68f6b609a529,Customer Registration,"The system must display a customer registration form allowing the Sales Person or Sales Manager to input the customer’s details, including name, address(es), phone number(s), email(s), and contact person.",SCATS
+98633eac-83f7-4d15-ac9f-e445e13377f1,Customer Registration,The system must validate that all required fields (such as customer name and contact details) are filled before allowing the registration to proceed.,SCATS
+71126a64-804e-426f-bdd1-4819f47c9380,Customer Registration,"Once the form is completed, the system must save and update the customer information in the database.",SCATS
+1cab1730-2664-4342-ac7f-6bf98cc5bfec,Customer Registration,"After the customer registration is completed, the system must maintain the user’s login session and ensure the system menu is still displayed.",SCATS
+06926d3f-622c-4967-9522-6cab28808df1,System Login,The system must display a login form when the user clicks the link for the SCATS application.,SCATS
+e9312962-3077-48b7-8262-a2e15ab1929a,System Login,The system must provide fields for the user to input their username and password.,SCATS
+ff1eb3c7-1ca2-4021-9553-1a2d089a6cb4,System Login,The system must authenticate the user by verifying that the entered username and password match a valid account in the system.,SCATS
+871e92bf-21f7-47e5-a2e5-012e529a8e13,System Login,"If the credentials are valid, the system must log the user into the system and confirm their login status",SCATS
+67c654fb-ddf1-4b1b-875e-d3cc301ff796,System Login," If the username or password is incorrect, the system must display an error message and prompt the user to try again",SCATS
+38cf7f2a-6542-4d04-a2cd-87fae6e4a77e,Update Information,The system must verify that the Sales Person or Sales Manager is logged into the system before allowing access to any update forms.,SCATS
+b4139e0b-1852-4f4e-a620-c4da18ae8583,Update Information,"The system must provide access to relevant input forms (such as Update Customer, Update Product, or Update Sales Person Information) through the system menu for data correction or updates.",SCATS
+7f05b0bc-1d6a-4d87-8314-ed7709c12382,Update Information,"The system must allow the Sales Person or Sales Manager to input or correct data fields, such as customer information, product details, or Sales Person information.",SCATS
+aeb90d35-bfdc-4003-a99a-ba145f8ba95b,Update Information,"The system must validate the data entered to ensure that it is complete, accurate, and follows predefined rules (e.g., required fields, correct data formats).",SCATS
+fc8faae8-a945-480f-a8c3-dd551002c356,Update Information,"Once the form is completed and closed, the system must update its database with the corrected or added information.",SCATS
+3bad8eba-3bfb-4a21-8388-a88ce1091b72,Update Information,"The system must confirm that the data has been successfully updated after the form is closed, and reflect the changes across relevant parts of the system.",SCATS
+43162524-9b6e-4528-9c3f-ff2c7a52f647,System Output,The system must ensure that the Sales Person or Sales Manager is logged into the system before allowing access to any statistical reports or data presentation features.,SCATS
+d4d74168-8e87-4a38-b80d-f5065d5705c9,System Output,"The system must provide a main menu with options for ""Customers,"" ""Sales Persons,"" ""Products,"" and ""Statistics"" that the user can select for viewing reports.",SCATS
+2104b8f6-f3a3-4a12-868b-963508d3216f,System Output,"If the ""All Customers"" option is selected, the system must display an alphabetically sorted list of all customers.",SCATS
+fb3e2561-82dd-4edf-9adf-7eaa60f05238,System Output,"If the ""Specific Customer"" option is selected, the system must prompt the user to input a Customer ID and display all related customer data.",SCATS
+e46bfbdf-d4e0-4bcd-aa76-eebaf9aa9dbf,System Output,"If the ""Sales Persons"" option is selected, the system must display an alphabetically sorted list of all Sales Persons.",SCATS
+94454f49-269a-489f-a6b7-bfa92a5f08e3,System Output,"If the ""All Products"" option is selected, the system must display an alphabetically sorted list of all products.",SCATS
+0cec4ae9-bc1f-4c5f-874e-a1e5fc775be8,System Output,"If the ""Specific Product"" option is selected, the system must prompt the user to input a product number and display all relevant product data, including stock inventory.",SCATS
+41a92ff1-9855-4c1b-8238-6d5fa6f46b0b,System Output,"The system must provide a ""Statistics"" menu with the following sub-options:""Sales Person Historical Data"", ""Total Largest Revenue"", ""Best Sales Person"", ""Most Sold Product"", ""Less Sold Product""",SCATS
+1fc5673c-1125-47f4-919d-afd4b467945f,System Output,"If the ""Sales Person Historical Data"" option is selected, the system must prompt the user to input ""from date"" and ""to date"" values to display all sales belonging to that Sales Person within the specified date range.",SCATS
+0dc4c153-b415-43ff-aa01-a428f39321d0,System Output,"If the ""Total Largest Revenue"" option is selected, the system must display a list of Sales Persons and their total revenue, but only if the user is a Sales Manager.",SCATS
+dc9866b7-17ec-4d67-a1db-70cc3393af3d,System Output,"If the ""Best Sales Person"" option is selected, the system must prompt the user to enter a product ID and display a descending list of Sales Persons based on revenue generated for the specified product, but only if the user is a Sales Manager.",SCATS
+3b680e7f-7f2a-4138-8e95-8f9a0f95e831,System Output,"If the ""Most Sold Product"" option is selected, the system must prompt the user to input ""from date"" and ""to date"" values to display a list of the most sold products and their total revenue between the specified dates, but only if the user is a Sales Manager.",SCATS
+fc6a5c36-c9c8-404b-a2ef-f1e1879e3433,System Output,"If the ""Less Sold Product"" option is selected, the system must prompt the user to input ""from date"" and ""to date"" values to display a list of the least sold products and their total revenue between the specified dates, but only if the user is a Sales Manager.",SCATS
+4908c8a4-55ba-4b16-994f-89368a1435b7,System Output,"The system must allow the user to either display the requested report in a part of the browser window or print it out, depending on the user's preference.",SCATS
+628c2e7c-cffa-44e2-bb7d-b610fe238285,Client Account,"Clients are able to use the system to create a personal user account through the main
+website. This user account stores all pertinent information including which stores they own and how many stores they own.",POS Connect
+e8937dda-8bac-42e3-a343-9c5b7f14cbe5,Client Account,When a client wants to start using this system they must first make an account on the system providing any necessary banking and store information. This account stores user information in an online database that can be viewed and edited by the account holder at any time.,POS Connect
+54bec78a-5b57-45eb-b0c2-715cfb9bc165,Windows Service,"Clients with an account gain access to a downloadable windows service package that
+initializes a client’s store. It also handles the communications between the clients’ local POS and their web store.",POS Connect
+ecdf70b7-2462-476f-aec0-91e57cf603e2,Windows Service,"Clients who have an account are provided with a windows service installer package that obtains store information from the client and local POS (intuit). This service runs in the background of the client’s computer and handles all communications and information transfers with the server. This includes creating the initial web store, handling sync requests and responses, and dealing with log information.",POS Connect
+3c9f6877-0f3f-4331-bee2-f92852375e72,Web Store,"Clients, through the use of their account information and windows service, are provided with a
+web store or stores. These are hosted by the system that keeps an online database of the client’s stock and allows for customers to buy and search for a client’s items online.",POS Connect
+be8ec600-a1e1-48ce-9005-9171f599d3ea,Web Store,Clients are able to create and edit an online web store that is hosted on the system’s servers. This store have 5 or more themes for clients to choose from and clients may create more than one store. This web store is where a client’s customers can buy items and the client can edit their store,POS Connect
+fa69efd5-0c03-4fc0-85ac-2137fab82365,Online Inventory,"As items are sold the online inventory is updated. The online stock displayed for each client’s
+store is a real time reflection of that client’s store’s online inventory.",POS Connect
+d7b40e47-0cf6-4b0b-917c-ec8c8e441e02,Online Inventory,"As inventory is updated, either through a sync with the client or an online sale
+occurring, online stock for the items as well as web carts are updated",POS Connect
+ee70c104-a47e-4640-8aba-ae1cd95933ae,Online Inventory,Inventory is displayed through the web store according to the theme a client has chosen for their store. Inventory can also be organized and searched for by category and department.,POS Connect
+246f5109-f781-4994-8050-e94e4828e242,Editable Product Information,"All product information in the online inventory database is editable. Pictures may also be
+added or edited for product in the database.",POS Connect
+7bba8430-0b86-4621-89da-2851969cb4cf,Editable Product Information,"Clients are able to view all product information and edit this information online.
+This online product information, including pictures, is not synced with local POS product information except on first sync.",POS Connect
+1702b5bb-ed27-485c-9f98-a663e013a179,Web Cart,Customers on a web store are able to add/remove items to a virtual web cart and purchase all items in the cart at checkout.,POS Connect
+c51172b7-8bd1-4988-abfb-ec4002ad2e04,Web Cart,A customer can select a product that is not out of stock and add any valid number of the product to their web cart. This web cart can be used to monitor items you want or for buying groups of items. Items are subtracted from the inventory list upon checkout and not upon adding to the cart. ,POS Connect
+904596dd-ff33-4d65-bb77-29b9cc22c0fc,Online Sales,A client’s web store is capable of online purchases and transactions with customers.,POS Connect
+e612c4fa-4e7e-4fcf-96f3-d9f57abc0ea1,Online Sales,"A customer can inspect items online add them to a web cart and can purchase the item. Before paying for an item or adding an item to a web cart, the system checks the current inventory to make sure the item is not out of stock",POS Connect
+475e3e6c-e229-46ba-9b1e-a4a4fa298fed,Payment Processing,The system must process payments when a customer checks out. This feature shall be considered complete if all of its high priority requirements are met. It is a high priority feature.,POS Connect
+15006ca0-5bd2-4e7f-ae40-ddd4d969fbbb,Payment Processing,"A customer is able to check out via PayPal. After checking out, the store owner
+receives payment equal to the total value of the items in a customer’s cart credited to their PayPal account.",POS Connect
+bcf73366-6b49-447f-8019-a6b3a0e2c3b2,Payment Processing,"A customer is able to check out via authorize.net. After checking out, the store owner receives payment equal to the total value of the items in a customer’s cart credited to their authorize.net account. ",POS Connect
+0685e764-6e8d-43a3-80bf-c2870ac66ad7,Shipping and Label Information,The server must notify a client when an item is sold providing information about the sale. Shipping information and a formatted ready to print shipping label are provided.,POS Connect
+6b93ac9a-cd37-4468-af06-468cdb026afc,Shipping and Label Information,A client upon syncing is informed of all sales/transactions made since the last sync. Shipping information and a ready to print label are prepared for users with printers. ,POS Connect
+64879f1b-0042-4ebf-a914-1a1b1c219a2f,Conflict Resolution,"As conflicts occur with sales or inventories either online or offline the system handles each
+kind of conflict as well as it is capable of doing.",POS Connect
+659f4b97-ef19-4389-9de1-860f057b6205,Conflict Resolution,"All conflicts resulting from online to online interactions are handled by the server
+immediately. This prevents duplicate stock from being sold or informs the user(s) that a conflict has occurred and that their transaction will not be processed or it will be refunded.",POS Connect
+6d0c8b9e-9a9a-4d53-b40b-23fed2c39c0b,Conflict Resolution,All conflicts resulting from online to offline inventory deficiencies are handled on sync with the client. Local customers and inventory takes priority over online sales and any conflict resulting from online sales notifies and refunds the online customer,POS Connect
+2585732f-4e67-4ebb-b99c-207487f5d109,Information Reporting,"As information regarding sync conflicts or completed transaction occur they are logged for
+debugging and providing information to clients.",POS Connect
+e581292f-19b2-4e6f-a081-b86e84428b34,Information Reporting,"All conflicts that occur for an individual web store are logged with any action
+taken, such as informing a customer of a deficiency in products, and saved in the database for a limited amount of time under the web store owner’s account.",POS Connect
+b06584c1-e7e7-4841-b4ae-47ac175e70e9,Information Reporting, A log of all sales for an individual web store are recorded online and saved on the associated client’s computer at next sync. This log is shown to the user at sync to inform them of recent sales as well as what actions should be taken. This information is also available online and saved at a text file on the client’s computer.,POS Connect
+877c1ca4-6795-4e61-821e-2822db5bc1f0,Inventory Management,"A client’s inventory is handled through their local POS (intuit) and then synced with the
+system’s online inventory. A client may also edit their inventory either online/offline through the system.",POS Connect
+69257036-9503-4621-8ed7-b4d89f0f13ae,Inventory Management,"Clients can create, read, update, and delete from a simple Graphical User Interface (GUI) on their local machines. These changes are reflected in the local POS (intuit) as well as the online inventory upon sync.",POS Connect
+97c155e6-2867-4c91-8900-41e5a3ede6e3,Inventory Management,"Clients can create, read, update, and delete from an online interface that immediately updates the online inventory. Local inventory is updated on sync.",POS Connect
+82228fc5-72eb-45d1-b34e-9ae0a80359c0,Syncing,Web stores as well as a client’s local POS inventory are updated by the windows service This happens automatically after any transaction and can also be forced at any time by a client from their local machine.,POS Connect
+49fe8dcf-50ee-4e55-83cc-3fc88e7cee69,Syncing,Local POS inventory and online inventories are periodically compared  and resolved into a master inventory list. This list is then sent to both the local POS and online inventory so that they can be updated. This sync logs conflicts (See requirement 11) and notifies clients and customers with the appropriate information when the conflicts occur. ,POS Connect
+f87c5029-c9e6-4c73-aa5e-292ef20f464f,Syncing,Clients can force a sync at any time on their local machine and immediately see sync results,POS Connect
+ffb31ca1-d47a-4c18-8920-97131745f52b,POS Interaction,"The windows service can interact with a user’s POS as well as any
+MySQL localhost databases. This interaction includes creating, reading, updating, and deleting inventory in the local POS or MySQL database.",POS Connect
+f88d2476-6367-4762-99c4-54714e779301,POS Interaction,The windows service can interact with Intuit ,POS Connect
+5a656e57-1209-423b-a762-084a5882deda,POS Interaction,The windows service can interact with a generic MySQL database.,POS Connect
+98ef592f-7874-4d7e-b842-96a54033ace2,Modern User Interface,"All the information you need, where you need it with a fast and intuitive user interface designed for salespeople.",Odoo Sales
+08f4fcba-f173-4006-a07e-00c694b00655,Mobile Capabilities,Use Odoo's mobile interface to sell on the road.,Odoo Sales
+796cf2d4-5de4-472c-8914-97cd8f68f676,Reduced Data Entry,Send quotes in just a few clicks. Convert quotes to sales orders and invoices from the same screen. Use the integrated CRM app to manage your sales pipeline from qualification to closing.,Odoo Sales
+e250ca0d-2101-4daf-afda-3b28563d8567,Sales Warnings,Get warnings before sending quotations to specific customers or for specific products.,Odoo Sales
+2a2ea425-2880-4aa9-aeb9-0bdd48e98f42,Quotation Builder,"Create a polished quote in seconds. Use predefined products, price lists, and templates to instantly apply the right prices to quotations.",Odoo Sales
+68df0d5d-65fb-4890-969c-ce54dec8ce29,Quotation Template,Design custom quotation templates in just a few clicks and reuse them to save time.,Odoo Sales
+9380e2e4-f0b6-4da7-bea5-6d03bbb8981d,Pro Forma Invoicing,Send pro forma invoices to your customers.,Odoo Sales
+53917664-fafa-42ed-90a0-ce665c6ef34b,Upselling,"Quotations are optimized to help your company sell more by proposing additional products and other extra options, applying discounts and closing triggers, and more.",Odoo Sales
+71f6afaa-2a19-438d-982a-c56b0a25e265,Electronic Signature,"Sell faster with electronic signatures, allowing your customers to review and sign their quotations online.",Odoo Sales
+f58e4b17-3d49-4be8-9d52-cae8782ba4b7,Variant Grid Entry,"Add product variants to your sales orders using a grid, or matrix, displaying all the possible combinations of a product's attributes (e.g. sizes, colors).",Odoo Sales
+487aec20-4aff-44e3-aee4-4e14de445f00,Sales Orders,"Convert quotations into sales orders in one click, or let your customers do it themselves with online quotes and Odoo eSign. Save time with the ability to modify sales orders, sell product kits, and ship partial orders.",Odoo Sales
+441831fd-e527-4ac2-b3dd-d1165eb43324,Manage Invoicing from Sales Orders,"Invoice based on ordered or delivered quantities, or based on time and materials. Manage payment terms by customer or by invoice. Easily track and follow up on invoice aging.",Odoo Sales
+56c17788-9205-46ad-bf4f-e6c41033c89b,Customer Portal,"Provide customers with access to an online portal to view their quotes and sales orders, and to track the status of their deliveries in real-time. Customers can modify their orders and confirm them with an electronic signature or online payment.",Odoo Sales
+eb504830-30f9-42e7-a153-089f64868d26,Order-Specific Routes,"Apply special shipping and restocking routes from order lines, such as “dropship” and “replenish on order.”",Odoo Sales
+f8ad038b-00c0-40e5-a9bd-3f05c245a9f2,Contracts,"Track each phase of a contract, including invoicing, renewal, and upselling. Manage recurring revenue contracts with the fully integrated Odoo Subscriptions app, including memberships or service contracts, contract renewal alerts, and contract options, as well as track recurring revenue via the MRR dashboard.",Odoo Sales
+68209cd0-afe0-4fb3-9028-23e945c490c0,Incoterms®,Configure Odoo Sales to automatically display Incoterms directly on the invoice.,Odoo Sales
+c5ae92ff-3fe6-4d89-a564-3916f61a3b10,Electronic Signature,"Use Odoo eSign to easily get signatures on NDAs, contracts, or any PDF document.",Odoo Sales
+103484c3-b5f6-4a97-919c-c76ff65df825,Schedule Activities,"Follow key quotations and business opportunities in just a click, and get alerts about relevant activities. Schedule activities directly from business opportunities, and get reminders when the activities need to be performed.",Odoo Sales
+b97df4db-518d-4408-8f7e-ffb7a4d3c9c7,Email Gateways,"See all of your email communications automatically attached to the associated customer order, allowing you to trace back discussions and negotiate more efficiently.",Odoo Sales
+de39678c-fb4f-4258-89ab-6c686f9b338e,Onboarding Emails,"Create email templates for specific products to provide relevant information to buyers upon their purchase, such as instructions and service reminders.",Odoo Sales
+71a86fef-c152-46a9-88cf-ae3b10b0c5d4,Inter-Company Rules,Automatically mirror sales and purchase orders in a multi-company setup.,Odoo Sales
+b47fe966-1ff0-48a4-9448-c48ed351de38,Product Variants,"Customize products with multiple attributes and variants, such as size, color, and finish.",Odoo Sales
+0e4f5fd7-5354-4d70-8523-94f236ef7fea,Discounts,Apply discounts on any quotation line item and choose if the discount should be visible or hidden to the customer.,Odoo Sales
+5bfe5354-c0b3-47e3-943f-c34100706fcf,Product Types,"Manage any type of product including storable products, services, consumables, delivery charges, and electronic products.",Odoo Sales
+b4c56752-2399-4d40-9813-9cf1a28c8387,Third-Party Shipper,"Compute shipping costs automatically, print shipping labels, and track your shipments. Odoo integrates with UPS, DHL, FedEx, USPS, Bpost, Easypost, and local postal services.",Odoo Sales
+41af4682-7146-40b5-bf70-50dafd6c3ece,Shipping Cost,"Compute shipping costs based on multiple variables such as weight, volume, quantity, margin, and delivery address.",Odoo Sales
+3269a8e8-2ceb-49b9-b9f1-e1a76cbad0ba,Coupons and Promotions,"Create custom coupons and promotional codes, and allow your customers to activate discounts at purchase.",Odoo Sales
+122d683b-ad77-49ae-9f61-da585d5562dd,Loyalty Program,Design a loyalty program for your customers to join and earn points that can be used on future orders.,Odoo Sales
+d44a1fd7-c5d6-4813-991e-59d4aadaa608,Gift Cards and eWallet,Allow customers to purchase gift cards for preconfigured custom amounts and use them to purchase items from your shop. Allow customers to use an eWallet to store money on your website for online payments.,Odoo Sales
+9f99e399-7bca-4f7d-95d4-33c9ab5f97e5,Product Configurator,Easily add specific product variants to a quotation or cart using Odoo's product configurator display.,Odoo Sales
+4c70ef4a-c8f2-4aab-86d7-3690ad56b2a8,Units of Measure,Sell products in multiple units of measure and let Odoo manage the conversion.,Odoo Sales
+9b794752-b578-4a36-8dd8-171baa7dd0f4,Pricelists,"Compute the correct price based on customer conditions, such as region and price tier, or based on order conditions, such as quantity and time. Add pricelists to individual products depending on each customer's segment.",Odoo Sales
+1055cde7-97cc-436f-a857-2ea9b2766438,Trackable KPIs,"Easily monitor a KPI dashboard for important information such as total amount invoiced, sales per country/salesperson/sales team, churn, MRR, lifetime value, CAC ratio, and upgrades/downgrades.",Odoo Sales
+e04863ef-986d-4da3-9bb3-402681fbaa32,Next Activities,"Get a full overview of all your sales activities, next actions, and performance data.",Odoo Sales
+181bb044-5352-47a0-ab6e-7155cdc4266a,Order and Invoicing Analysis,"Choose whether your statistics are based on orders, invoices, or both. Group sales data by categories such as product type, salesperson, country, and sales team.",Odoo Sales
+e589d00c-23f1-46a9-927f-ebea0339e687,Modern user interface,A fast user interface designed for modern inventory management. Get more work done with less effort with or without barcode scanners.,Odoo Purchase
+967e2381-332e-47af-b1ec-6aed2263bf91,Control vendor bills,"Compare the information appearing on the Purchase Order, the Vendor Bill, and the Receipt to make sure you pay the correct bill (3-way matching).",Odoo Purchase
+df262c73-8c41-4a54-81b3-b2b2a2de0e95,Purchase tenders,"Launch purchase tenders, integrate vendor's answers in the process and compare propositions. Choose the best offer and send purchase orders easily. Use reporting ton analyse the quality of your vendors afterwards.",Odoo Purchase
+c61f5ff3-8333-4785-99ac-b6b502f71d03,Blanket order agreement,"Buy goods from a supplier at a negotiated price, on a recurring basis during a specific period of time.",Odoo Purchase
+55515c47-ecfb-4e10-a59e-468b6dfc76cb,Create RfQs for your suppliers,Configure each to product to send out Requests for Quotations to each of your suppliers.,Odoo Purchase
+41490d78-4022-4733-927b-98f92150b654,Send requests through the post or by email,"Send RfQs by email directly from the app or print and send them by post, all in just one click.",Odoo Purchase
+ad739913-85b3-4095-a13f-c69ea1eb8426,Get offers for multiple items,Send out RfQs for multiple products at the same time.,Odoo Purchase
+b43ec876-6557-4945-b94b-d8cf5fba2ab0,Personalize your message,Add a custom message to your suppliers for each of the RfQs sent.,Odoo Purchase
+06ef2dec-c5f5-4706-bf43-6095aaa23666,Automate the process,Save time by setting up rules to automatically send RfQs to your suppliers based on your stocks levels.,Odoo Purchase
+df41e3b1-c75a-43f7-a575-36892e306366,Variants Grid Entry,"Add product variants to your purchase orders with a grid, or matrix, displaying all the possible combinations of a product's attributes (e.g. sizes, colors).",Odoo Purchase
+3db2289f-21a9-4009-a424-8ea7a5d22d2f,Monitor RfQs and orders,"Keep track of the status of your quotes and orders, of the amount of the orders and the expected delivery date. No more generation of draft PO. Auto-complete when generating a draft invoice.",Odoo Purchase
+f573872c-b893-46e3-8075-b2906b01b793,Manage incoming products,Keep track of your stock and determine quantity and locations for each batch of items you receive.,Odoo Purchase
+19d89f8f-cf7b-4865-be49-530c4782b349,Automate ordering,"Set up procurement rules to automatically order the necessary items based on stock levels, minimum quantities per location or per supplier, sales, or other parameters.",Odoo Purchase
+6a5a92a9-f37c-4f08-912a-32ce98da95a1,Create drafts,Design drafts of invoices which you can easily modify or cancel later.,Odoo Purchase
+dca43f8e-299f-4d2e-b393-c387deedc049,Control future orders,Keep track of orders that have been created for a date in the future.,Odoo Purchase
+79fcd750-48a2-4194-b5fb-b243aa8639d6,Handle internal moves,Organize the movement of items between two locations you own.,Odoo Purchase
+ef2356d4-e3d0-48d0-8e13-e66204ab8ffb,Create products,"Define sale price, type, barcode and reference to easily differentiate similar products.",Odoo Purchase
+38b05d72-4ad6-4e72-b6f5-c925def9e635,Add supplier reference,Add the reference used by each supplier for the item to make it easier to find for both them and you.,Odoo Purchase
+d9102dc9-b7de-4c84-ade4-7a7eb091e41d,Add product variants,"Add variations such as color, memory capacity, etc. on the product to allow for a cleaner list of products.",Odoo Purchase
+15fb0d0c-c698-4ba2-8e47-f7546d8ae17a,Define procurement rules,"Reference all the suppliers distributing the item, order them by priority, and record their delivery time and minimal quantity to save time on new orders.",Odoo Purchase
+f675f231-453f-45dc-971b-1bb62ea69f95,Ideal search filters,Search products with the supplier reference on the purchase order.,Odoo Purchase
+a7606c65-7641-4013-a62e-8f906294dd30,Units of measure,Purchase in different units of measure and let Odoo manages the conversion.,Odoo Purchase
+85b9338c-0e0b-4922-8afe-edb9454ba980,Check stock and availability,"Keep track of stock, incoming orders and product availability.",Odoo Purchase
+7edf46da-4358-4925-b5d8-928f75dea159,Specify storage location,Define the product's exact position within your warehouse.,Odoo Purchase
+dcca21ad-da3c-4bbc-9ee9-5f0e2a07193d,Create sale conditions,Define the length of the warranty and specify customer and manufacturer lead times.,Odoo Purchase
+62c0b3e0-b2fe-4ebf-a041-9400814f91fb,Add POS and website specifications,Add specifications to the product for its point of sale or for the website.,Odoo Purchase
+f69897e5-06fd-4e2c-8af8-c9e70edcfaa3,Include accounting rules,Specify your accounting category and define customer and supplier accounts and taxes.,Odoo Purchase
+0f69ab7e-27f4-4106-a6da-c38d1eb9844b,Dashboards,Use predefined dashboards or build your own with the advanced reporting engine Share filters with the team.,Odoo Purchase
+deaf11f6-99c3-417b-a3d8-6dd1885561f2,Inventory forecasts,"Get forecasts of product availabilities based on confirmed sales orders, purchase orders or manufacturing orders as well as internal moves.",Odoo Purchase
+67bfea4f-6981-4161-b1c1-b8ddf7484351,Automatic reconciliation between companies,"Save huge amounts of time and effort on all transactions made between your group's companies - transactions are automatically reconciled in all modules, for example, automatically mirror sales orders and purchase orders in multi-company setup.",Odoo Purchase
+1e050fb2-3ba9-4fd2-ba61-e7b5cde605da,One Odoo environment for multiple companies,Manage multiple companies within a single Odoo environment.,Odoo Purchase
+c8217134-d28d-4e2e-be5d-2924ac69a4a8,Intuitive display,One clear interface for a seamless service on any device.,Odoo POS Shop
+239587c2-b956-40a5-bd01-37f9fbf3dbb0,Connect your devices,"Connect barcode scanners, payment terminals, and cash registers to simplify your workflow.",Odoo POS Shop
+7a5dd008-2209-44d9-a098-96b4f1f81cb6,Quick search,Find your customers and products with the built-in search features.,Odoo POS Shop
+2ea0731a-b424-4a8f-b062-c71b72e8023f,Browser support,"Odoo POS is a web-based application and can be deployed on any device and OS running Chrome, Firefox, or Safari (such as Microsoft Windows, Apple OSX, Linux, Android, and iOS).",Odoo POS Shop
+1ac9fe58-12a9-477d-b01b-fe8925c43e8f,PC and tablet-compatible,Operate Odoo POS on PCs and tablets as well as industrial touch-screen terminals.,Odoo POS Shop
+2cf7fae3-e389-42c8-80c6-1e604f4196fb,Offline mode,Keep working while offline. Your POS session can be closed offline without any loss of data.,Odoo POS Shop
+887bb04f-cdba-41f6-b10b-b07f9f92cd05,Payment methods,"Cash, checks, and credit card payment methods are available. More payment methods can be added if needed.",Odoo POS Shop
+bb99359f-d127-464b-8cfe-826c4fd9a048,Credit/Debit cards,External payment terminals handle all electronic payments.,Odoo POS Shop
+eeab6cef-8cb6-482d-b96a-e8a61e176157,Bill splitting,A single order can be paid as a split payment between multiple parties and with separate payment methods.,Odoo POS Shop
+1b1b5453-0d0d-4c70-9773-d656f49eabc9,Currency rounding,Prices and payments can be rounded to the smallest denomination of the currency.,Odoo POS Shop
+b0142a62-94ef-49dc-9092-d8b8f0eba70a,Offline payments,Orders made offline are automatically synchronized when you are reconnected.,Odoo POS Shop
+0f8c87e0-9dff-419a-93e3-068536650595,Invoicing,Generate and print invoices for your business customers.,Odoo POS Shop
+4fffed33-4d6a-4b3e-ac66-311e4a952360,B2B,Register your customer's VAT number and apply it to invoices.,Odoo POS Shop
+f5a70a7f-2895-4604-a5ab-832968647562,Accounting,Payments are directly integrated into Odoo Accounting to make bookkeeping simple and reliable.,Odoo POS Shop
+fc463536-5eae-456b-a00c-aeac0e6a93ae,Customer tips,Supports customer tipping as an added amount or by converting change to a tip.,Odoo POS Shop
+ea409409-9bf2-48c9-8340-042aebae6e19,Credit limits,"Credit limits can be set on companies or partners. When a limit is reached, a warning appears on customer-related views and buttons.",Odoo POS Shop
+49c6440c-baee-4a62-be60-cb28df752ddf,Prevent cash payment method re-use,Cash payment methods and cash journals cannot be re-used over multiple POS to avoid accounting issues related to cash drawer control.,Odoo POS Shop
+e1ef9c4b-18df-4a51-af54-88d2538516ed,Prices & discounts,Set customer prices or offer percentage-based discounts on either a single product or the entire order.,Odoo POS Shop
+6b01edd7-cf09-46db-80f8-1fdf7a2587f8,Parallel orders,Put orders aside and process multiple orders at the same time.,Odoo POS Shop
+0e44a4e3-510e-4c9c-9a37-edf386397802,Customized receipts,"Advertise your current promotions, hours of operation, and upcoming events on your printed receipts.",Odoo POS Shop
+3f9c215a-7356-4026-9d2f-62e0609a159b,Weighting at the counter,Calculate product weight during checkout with the electronic scale integration.,Odoo POS Shop
+aa79ddab-eec6-4b68-b208-2f6440f615d1,Multi-step checkout,Order your products at one point of sale and pay at another one.,Odoo POS Shop
+263b7509-fa6b-4c3a-b6ca-f499db1da3a4,Sell on the move,"With iPad and Android tablet support, sell anywhere within your store.",Odoo POS Shop
+390bc52a-b052-494b-8ade-32f8f5058210,Dynamic barcodes,"Embed price, weight, and loyalty programs directly into your barcodes.",Odoo POS Shop
+3bdde7c0-b814-4502-9f16-7d2c68021bea,Order history,"View all past orders. Search them by customer, product, cashier, or date.",Odoo POS Shop
+f2b3bd02-53aa-409b-9642-0bddf0d21d23,Daily sales,Keep track of daily sales and totals for every payment type.,Odoo POS Shop
+f228dd9b-cf13-4e15-b17c-df151e03b7c3,Cashier accounts,Manage multiple cashier accounts and secure them with badges or pin codes.,Odoo POS Shop
+0f7115df-3f83-4600-a4cc-dd324c5c2c33,Cash flows,Monitor cash register adjustments and easily verify cash content at the end of the day.,Odoo POS Shop
+df5449c3-bc39-4a3f-9d0f-8a0ba90d1f7c,Stock & Inventory,"Monitor your stock in real-time, manage your inventory across all locations, and review shipments with the Odoo stock integration.",Odoo POS Shop
+9ced3e04-36f1-4198-b73b-0f68ed617358,Franchises,"Pre-configure your franchise stores, overview their sales, and centrally manage their stock and accounting.",Odoo POS Shop
+350886ca-79ea-4c69-bdaa-dd5f74b5200c,Self-service,"From the kiosk or their smartphone, your customers can do everything themselves, from order to payment.",Odoo POS Shop
+607f9704-0ea0-45dd-ac43-46f8b5c2926b,Preparation display,Know from your tablet which order must be prepared and when.,Odoo POS Shop
+24081bb2-7ca7-4e2b-91d5-4373206c6104,Frontend customer registration,"Identify your customers by registering their email and contact address, allowing you to keep track of individual sales.",Odoo POS Shop
+072fd9d6-dd93-4e39-bb03-50d67d4e8213,Identify customers,Look up your customers with the built-in search feature or identify them with a barcode printed on their loyalty card.,Odoo POS Shop
+53725cbe-8e6a-4a84-961c-057661755c32,Customer discounts,"Create and offer discounts to retain customers and increase your revenue. Discounts can be permanent, time-limited, or seasonal.",Odoo POS Shop
+3f9ece1d-9f94-4e01-b4c3-f99a8f4f1c58,Loyalty cards,"Reward your customers with loyalty points and exchange them for gifts or discounts. Points can be earned by product, order, or sale amount.",Odoo POS Shop
+0edc1182-534a-431d-9351-5bffc63ccdb2,eWallet,Credit your eWallet via top-up or product refund. Bump up retention while keeping your clients happy.,Odoo POS Shop
+c2c387ae-ccd9-443d-a466-996a011630a6,Pricelists,"Use pricelists to adjust product prices automatically (eat-in or takeaway). Set POS-specific prices, create temporary discounts, reward specific customers, or offer discounts when set quantities are ordered.",Odoo POS Shop
+66202056-8904-46c7-a306-09e25d9bec41,Product categories,Organize your products with hierarchical product categories. Order them by popularity and display different categories at different points of sale.,Odoo POS Shop
+125814cf-91df-4c05-8cea-28f4d0908a74,Product search,"Quickly find products by name, barcode, or description with the built-in search function.",Odoo POS Shop
+3f8c8e67-11eb-4ad7-a68d-b8e76fac89e4,Units of measure,Sell your products with custom or preset units of measure and update your stock accordingly.,Odoo POS Shop
+6da5e4ef-1b48-49b5-ab36-125778f938ca,Multiple barcodes,Configure multiple barcodes for the same product with barcode nomenclatures.,Odoo POS Shop
+69a94051-9ea2-4f8a-9398-d4a980e6e1a2,Product variants,"Sell different sizes, colors, or configurations of the same product with product variants.",Odoo POS Shop
+b3a39e4e-9df8-4a50-a27c-e4d080258153,Product availability,Decide whether or not a product appears available or out of stock at your point of sale.,Odoo POS Shop
+184c6361-827d-4f30-92b4-3d43a00e7f05,Weight your product,Decide if a product must be weighted using an integrated scale.,Odoo POS Shop
+761f548b-6663-4615-81a4-082566d849d6,Ship later,"Sell products, arrange delayed delivery, and choose the desired shipment date.",Odoo POS Shop
+849d1519-1cb1-4c69-9e3e-1587b17b1208,Gift card,Sell gift cards of any amount with or without a validity date.,Odoo POS Shop
+138ff79c-86d8-4f2d-8e65-6afbdea9289f,Locations,"Create and manage specific storage locations, like shelves, aisles, cold storage rooms, and pallet racks.",Odoo Inventory
+6eb16217-4733-4de2-920e-e570748a669f,Putaway rules,"Automatically route products to ideal storage locations based on real-time capacity (storage categories), product storage needs, and picking accessibility.",Odoo Inventory
+88edcfae-e097-4f44-96fd-157c0ab702b3,Operations,"Create dedicated locations to receive products, sort, pack, and other warehouse operations.",Odoo Inventory
+aac36fd1-379f-4690-b413-c564ed1d0cda,Smart removal,"Choose product removal strategies (FIFO, FEFO, nearest available zone, LEFO) and streamline picker paths with the right picking method (single, batch, cluster, wave).",Odoo Inventory
+640fa6ac-1654-4e56-b886-2082f8fef7e3,Role-based to-do list,"Dedicated dashboards to keep the order fulfillment, purchasing, quality, picking, packing, and receiving teams on top of their daily tasks. Tasks with the earliest deadline are prioritized to ensure orders are fulfilled on time, every time.",Odoo Inventory
+4a79cb12-f204-404f-93ac-aa63987930b2,Receipts,Manage incoming shipments with vendor-provided arrival dates and automatic unit of measure conversion for received quantities. (e.g. buy in tons and sell in kg.),Odoo Inventory
+03fdedf8-3f1a-4c4e-b509-7735351fa10c,Returns,"Set predefined routes for return condition assessment, refurbishing, restocking, or disposal. When integrated with the Accounting app, the returned product's updated inventory valuation immediately hits your books.",Odoo Inventory
+2533ca57-ec38-4753-ba2d-41c06f660518,Pick,"Create smart automatic batches based on shipping carriers, serial numbers, specific quantities, and total weight for picker convenience. If stock is insufficient, the option to create a backorder is available.",Odoo Inventory
+3df3882c-607d-4498-a42e-5c33db4074ce,Pack,"Assign barcodes to sealed packages for content tracking, with location updates of the package also reflecting the location of contained products.",Odoo Inventory
+e283462c-3365-4144-afb1-861bf8278375,Scrap,"Scrap products in just a few clicks and get clear reports on scrap: their costs, reasons and volumes.",Odoo Inventory
+63b0ed3d-1a92-454f-bc50-06082aaa3a79,Inventory adjustments,"Schedule recurring stock counts on vital storage locations, products, or lots to keep inventory up to date all the time.",Odoo Inventory
+d6765857-3202-4d71-9b76-8c5e2c63d478,Drop-ship,Coordinate with the supplier to deliver certain products directly to customers.,Odoo Inventory
+3b03dd20-c1c3-4b97-b520-6ebe1614d419,Cross-dock,Unload incoming material and directly transfer to outbound gates with little to no storage in between.,Odoo Inventory
+b17227a2-fc06-4130-b3f3-7ce5312da146,Push and pull rules,Create custom routes to automatically plan transfers between any warehouses and locations.,Odoo Inventory
+ec42cf63-32dc-43b3-b990-b30a02732234,By shipping method,"Set up order fulfillment routes tailored to different shipping methods (pickup at store, post-office, third-party shipping, etc)",Odoo Inventory
+54da562f-bacf-45d9-b4c8-81ed6ad2aa8f,Subcontracting,"After confirming the sales order, auto-generate delivery documents for raw materials, bill the subcontractor, and if needed, run quality checks before shipping subcontracted product to the customer.",Odoo Inventory
+c68d813d-7f39-4d2e-8aa0-a000e8a0f56d,Multi-warehouse,"Manage all storage, stock, and replenishments for all your warehouses. Easily handle transfers to, from, and between warehouses in one system.",Odoo Inventory
+d331b834-464a-41fa-b3c2-d5102ee4331b,Barcode,"Streamline *any* warehouse operation using a barcode scanner: receipts, pickings, inventory adjustments. Update and perform real-time warehouse actions, anytime and anywhere. Supports GS1, EAN13, and EAN14 out of the box.",Odoo Inventory
+e34eace9-5ab6-4548-9d32-eec1661fcaf3,Customer portal,"Live web page where customers can track the status of their order, payment, and delivery status. Begin a return directly on this page generate a printable barcode of the order and customized return instructions, so your employees can easily process the returned item with a barcode upon receipt.",Odoo Inventory
+478eab77-7ebc-45f7-a4b4-2ad7c5b06632,Replenishment alerts,Notify procurement managers about low stock and vendor lead times to assist with reordering schedules.,Odoo Inventory
+938776eb-649d-40f0-81c5-13e277847a3c,Smart scheduler,Odoo automatic scheduler triggers operations automatically for you based on product availability and forecasts of orders.,Odoo Inventory
+c8b7e45f-1c36-490f-85ca-8585ea0adbb5,Search products by location,"Locate products, their storage locations, and quantities from a single dashboard.",Odoo Inventory
+7a2e2e8a-e47c-4196-8a5c-6ca31efaf951,Search by barcode,"Locate any warehouse document, simply by scanning the barcode.",Odoo Inventory
+0d50f181-ca32-4b7d-aee5-d500a23051a0,Reservation methods,"Choose from three methods— at confirmation, manual, or scheduled date—to manage available stock while considering customer priority.",Odoo Inventory
+df3f21c3-52c2-4bd3-a819-3dd292fd38aa,Forecast,"Forecasted report of on-hand, incoming, and outgoing stock while operations are happening in real-time. Calculate out-of-stock dates for products based on customer orders, shipment dates, and manufacturing orders so you can swiftly react to vendor order deadlines and lead times.",Odoo Inventory
+37b36e08-182c-4439-b495-2e1816cf96eb,Purchase orders,Automatically create requests for quotation when stock forecasts fall below a defined threshold.,Odoo Inventory
+6780ed33-f1c3-4e7e-bce7-288a6410dfd3,Reordering rules,"Trigger purchases, inter-warehouse transfers, and manufacturing orders based on customizable rules for minimum and maximum stock.",Odoo Inventory
+a3425b00-0066-44cb-8caf-28f6b18d943b,Lead times,Manage your just-in-time inventory (JIT) with a comprehensive and integrated variety of lead planning inputs that get factored in on every order.,Odoo Inventory
+c34dedab-d569-4a51-bfcc-2a4ce93cb821,Make-to-order,"Trigger purchase and manufacturing orders upon sales order confirmation. Customizable routes for warehouses, products, and orders.",Odoo Inventory
+f7d39d21-eb1a-42ac-aabe-d234b497b7c2,Quotation to shipment,"Track every step of your product's journey, from vendor to customer in granular detail. At the confirmation of a sales order, purchase orders, warehouse transfers, and delivery orders are triggered to procure and release products to the customer.",Odoo Inventory
+e12f11f1-1fd1-4f8c-a791-67f2f73cfd70,Lots/serial numbers,View a dedicated report to track products from supplier to customer. Rich product identity records enable advanced tracing into after-sales services.,Odoo Inventory
+0a898e3f-78ca-4fd0-8e1b-a2d61e38d251,Perpetual inventory valuation,"Real-time accounting records generated for a product from stock purchases, scraps, and other inventory actions.",Odoo Inventory
+e27e5eb4-827e-4cd0-adbb-b12fc51bca60,Audit trail,"Log all user actions: such as stock moves, counts, adjustments, approvals of adjustments, and record modifications.",Odoo Inventory
+a9446f39-cf30-4144-a36d-c70559145250,Types,"Categorize products into three types: storable, consumable (not stockable), and services (not stockable).",Odoo Inventory
+a74c90fe-7f13-4ef3-afe7-3169a6b4f826,Expiration dates,Automatic reminders and picking priority determined by best removal and expiration dates.,Odoo Inventory
+45fa45fb-e865-4846-a674-5a3c0ea1b40f,Variants,Customize product variants for customer preferences and make data-driven purchasing decisions with real-time stock counts for each variant and components.,Odoo Inventory
+c409f06b-478b-40c3-ae05-766440af2ea3,Custom fields,"Add custom fields on warehouse transfer documents, products, and even serial numbers for additional traceability.",Odoo Inventory
+a15908cd-42ef-4cda-8fb4-3732eb4acd19,Vendor pricelist,"Upload vendor price lists with product descriptions, prices, and delivery times.",Odoo Inventory
+0fa53523-7376-45a3-8b38-3b02df533195,Shipping labels,"Generate shipping labels for integrated carriers: Fedex, DHL, UPS, USPS, Bpost, Sendcloud (EU), Easypost (North America), and Shiprocket (India).",Odoo Inventory
+1e207c52-8a22-40d4-a017-2340a0a74778,Costing methods,"Supports first-in, first out (FIFO), average cost (AVCO), and standard price costing methods.",Odoo Inventory
+9c60f7c8-a78b-43d1-9de9-0d40677655f4,Valuation methods,Supports continental or Anglo-Saxon accounting.,Odoo Inventory
+0143aef8-853a-437b-ab2c-57351aff104a,Perpetual inventory valuation,"Real-time accounting records generated for a product from stock purchases, scraps, and other inventory actions.",Odoo Inventory
+47d4e880-a6d5-4b96-953c-75de6f050947,Landed costs,"Generate real-time cost reports based on vendor bills, taxes, tariffs, fuel surcharges, and other handling fees. Automatically generates an accounting record for end-of-quarter reporting and price adjustments.",Odoo Inventory
+a5581765-19f0-45a0-9e3e-02655d7e1bdc,Double entry inventory,Full stock moves report to map and trace product moves from supplier to customer.,Odoo Inventory
+818843f0-05f4-4f65-978e-97ac34c2b0b9,Modify posted records,Lock or unlock any warehouse document (receipt/picking/manufacturing order) after it is posted to correct any mistakes in product consumption or prices.,Odoo Inventory
+26aa8e53-bbd0-4d58-9217-11195d016150,Stock aging report,"Monitor how long items have been in the warehouse. Quantities are sorted by receipt date, allowing you to stay informed about products nearing expiration.",Odoo Inventory
+91970922-b6cc-49f4-be08-86b4195e5a62,Returns,"Integrate with the Sales app to generate display return instructions, and printable barcode of the order and defined return location in the Customer Portal. Keeps the customer informed with timestamps and return status, right on the Customer Portal.",Odoo Inventory
+0ce27743-0a17-438f-ad0b-cba91348bc7b,Calculate shipping,"Integrate with third-party shipping carriers to calculate cost of shipping based on product weights, and customer address.",Odoo Inventory
+0e86f153-8b8f-4d3f-b29a-2113eb3d7177,Blanket Orders,"Get the best prices for materials by scheduling recurring orders with pre-defined vendors, order quantities, and expected arrival dates. (Integration with Purchase app)",Odoo Inventory
+8e57fff4-3ae3-41a2-b803-2e01f167a436,Quality checks,"Set up recurring inspection checks at any point of your warehouse flow: reception, returns, subcontracting, etc.",Odoo Inventory
+317aa592-387f-4d84-b709-984f1b923f85,Development,"Customize and adapt Odoo to your business needs by using the API to integrate with third-party logistics (3PL) services, as well as with hardware devices like scales, barcode scanners, and RFID (Radio-Frequency Identification) systems.",Odoo Inventory
+5d20748f-f686-49f2-9e79-7ef36402e42a,Rental,"Manage pickups, packing, shipping, and return of rental products, directly in Inventory.",Odoo Inventory
+330a428f-4b58-4e4b-a3db-0524168a8170,Modern User Interface,An intuitive user interface with smart filters gives a better overview of all your sales activities. Use tips and best practices to configure and deploy your CRM.,Odoo CRM
+35f075f9-7415-46cd-b199-0e9b00962ad2,Mobile,Use your CRM on the go with Odoo's mobile-friendly interface.,Odoo CRM
+c78bb1a6-4f46-4a28-9538-ef3a53626e7a,Inbound leads,"Get leads automatically created from emails, VoIP calls, social media reactions, website visitors, event attendees, support tickets, etc.",Odoo CRM
+e7bb66be-7d13-47bf-bcc9-5d63ecfb63a0,No more encoding,"Send quotes in just a few clicks, manage your pipeline with drag and drop, etc.",Odoo CRM
+1c8e6ddc-ed63-4b6a-a882-6ae620c232db,Set up activities,"Your planned calls are queued, ensuring a seamless switch from one task to the next.",Odoo CRM
+c9aa128b-9e13-49e8-84a7-d13947787a49,Leads Nurturing,"Create campaigns to automatically send emails tailored to the lead segment and activities of the lead. Get several marketing modules to boost leads acquisition from your website: Search Engine Optimization tool, form builders, a/b testing tool, etc.",Odoo CRM
+fe584fce-0a43-43fc-a1a1-2612eec61311,Predictive lead scoring,Odoo computes the probability of success according to several criteria such as past performance.,Odoo CRM
+c078ba7a-a2a4-4e2f-a776-65cb4134890b,GeoIP,"Detect countries, states and cities of leads automatically from your visitor IP address.",Odoo CRM
+610e2c5b-10b8-4a46-87c3-1889b6a344f9,Live chat,Activate Odoo Live Chat on your website to talk to your visitors and convert them into leads. Define rules for key countries or pages. Chatbot sends predefined messages automatically.,Odoo CRM
+d1c5169d-2af0-4b9e-a93d-719669a4ebb7,Deduplication,Get proposition of leads to merge when converting a lead into an opportunity. Create contacts automatically based on leads.,Odoo CRM
+7b71a8c3-4fe9-4162-9b51-415a97b969ef,Assignation Rules,Define your own rules to assign leads to the right sales team or sales person based on quotas and segments.,Odoo CRM
+f4d906db-2e24-48ee-983f-19dea458eb75,URL trackers,Track the source of the leads using UTM trackers in all your marketing campaigns.,Odoo CRM
+b5683b9a-e2b8-49ba-be01-2c6558978d19,Lead mining,Generate new leads directly into your Odoo database.,Odoo CRM
+5056009a-10ae-4c23-9b23-4a20ed3213bc,Lead enrichment,Enrich contacts' information based solely on an email address or a phone number.,Odoo CRM
+221b2621-1ffe-468b-86cc-86539c079463,Activities and calls management,"Effectively manage activities and calls by organizing their order and scheduling them for each opportunity, while promptly logging and analyzing them in the opportunity's chat. Additionally, monitor and record your team's activities to ensure efficient workflow management.",Odoo CRM
+dc2ada60-2d27-4aac-9c4b-4ca4a9d38394,Pipeline management,Get a clear overview of the opportunity pipeline. Work faster with the drag & drop interface. Set up specific stages for each sales team.Analyze lost reasons on your opportunities to improve your sales effectiveness.,Odoo CRM
+49ee0cc1-5e31-4802-a3ab-bdc5a90a4124,Customize stages,Customize your pipeline by adding a description on stages.,Odoo CRM
+a072e5d8-6cba-4191-a7bf-0105e1e9b7cf,Schedule Meetings,Schedule meetings from the opportunity of customer. Sync with mobile phones and Google calendar.,Odoo CRM
+ee614aa3-174e-4c54-baf7-ce68672c3287,Plan Next Actions,Plan next actions and schedule your daily work based on most important opportunities and tasks.,Odoo CRM
+36a0ea1b-d79d-44d2-b790-53bc46f17d1f,360° Visibility,"Get all information right into the opportunity: pages visited on your website, mails, meetings, next actions, preceeding orders, etc.",Odoo CRM
+d73e546d-d2c5-4735-b908-53250cd8e3dc,Log Calls,Log calls in the chatter or trigger VoIP calls in just a few clicks. Odoo proposes to automatically reschedule the next action after the call.,Odoo CRM
+b491975d-2345-47c2-886f-e62c8907c5d9,Address Book,Get a clear address book shared amongst your sales persons.,Odoo CRM
+fb44cb15-a0c6-47ae-89b4-2eb876ef02d4,Customer Preferences,"Set customer preferences easily: language, delivery methods, financial data, etc.",Odoo CRM
+8376458a-7772-4474-ba2f-250373d66f45,Multi-Address,Have multiple addresses and contacts for a single company.,Odoo CRM
+70bcefb2-5f62-4672-b914-e1a214025780,Full History,"Get the full history of activities attached to any customer: opportunities, orders, invoices, total due, etc.",Odoo CRM
+53a65dba-3b8e-4d59-a942-a0a20ca976f2,Emails Templates,Create template of emails for most common communications with your customers or opportunities.,Odoo CRM
+10d2ff34-18d4-48bd-a761-fa569c558909,Email Gateways,Get all your email communications automatically attached to the right opportunity. Create new leads automatically based on incoming emails.,Odoo CRM
+c43bf377-fc4b-4647-9b0b-e636e38345ea,VoIP,"Create a dial queue on customers or opportunities, call from the browser automatically or manually. Log calls automatically, open the customer form, automate next actions, etc. Reschedule or send email for failed calls. An auto pop-up is generated for receiving calls. Integrated with Asterisk v13.2 VOIP server.",Odoo CRM
+9b0dcc6c-2f0d-4429-9c41-67358f3316bc,Custom Alerts,Follow key opportunities in just a click and get alerts based on relevant activities.,Odoo CRM
+a34694d7-3db9-4241-b541-88368eca63ec,Multi team,A salesperson can be in multiple teams,Odoo CRM
+ae08fd03-8087-4526-8e2c-b989f3643efa,Dashboard,Use predefined dashboards or build your own with the advanced reporting engine. Share filters with the team.,Odoo CRM
+2d7fce98-b882-4b65-beb9-a869e0bb1861,Opportunities Analysis,"Analyse your opportunities pipeline with advanced filters, grouping, drill down, etc.",Odoo CRM
+469d02e9-577c-4221-914a-0d2de40c259f,Cohort Analysis,Keep track of the evolution of your KPI's over time and detect trends.,Odoo CRM
+bb80b09c-c63e-4453-a1a6-d7acb696fba6,Leads Analysis,Get statistics about your sources of leads to evaluate the ROI of your marketing campaigns.,Odoo CRM
+714514b5-8959-45dc-b4a2-5715030f2430,CRM Dashboard,Visualize your sales teams KPI's at a glance.,Odoo CRM
